@@ -1,0 +1,1 @@
+{{attach:D:\Dropbox\git\djy\gb\{{nwjm}}.md}}
