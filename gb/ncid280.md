@@ -44,23 +44,23 @@
 <p>
 <a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
 大纪元</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/c513f" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/o513z" target="_blank">
 动态网</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/p12e" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/m12l" target="_blank">
 无界</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/d8f" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/j8v" target="_blank">
 退党</a>
  | <a href="https://git.io/fjHpT" target="_blank">
 网门</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/a4z" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/n4j" target="_blank">
 神韵</a>
  | <a href="https://git.io/fjHpI" target="_blank">
 新纪元</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/h11m" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/h11k" target="_blank">
 看中国</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/k3w" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/v3j" target="_blank">
 明慧网</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/g9l" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/u9f" target="_blank">
 希望之声</a>
  | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
 无罪辩护</a>
@@ -78,13 +78,13 @@
 亚太台</a>
  | <a href="https://git.io/fjHpG" target="_blank">
 直播</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/k12p" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/a12e" target="_blank">
 圣缘</a>
  | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
 伪火</a>
  | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
 九评</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/u10u" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/b10j" target="_blank">
 正见网</a>
  | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
 藏字石</a>
@@ -314,6 +314,20 @@
 <br>
 </h3>
 这位台湾的健身馆馆长陈之汉，最为人们所知的就是他的反共立场，经常在网络上和公开场合，发表批评中共和小......<br>
+<img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
+08月29日</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/29/n12365964.md#1" target="_blank">
+<img width="250" src="https://www.epochtimes.com/assets/themes/djy/images/djy_post_default_featured_image_320x200.jpg" align ="left">
+</a>
+<a href="/gb/20/8/29/n12365964.md#1" target="_blank">
+山西一饭店坍塌 已致2人亡10被埋</a>
+<br>
+</h3>
+8月29日上午9时40分许，山西临汾市襄汾县一栋两层饭店突然发生坍......<br>
 <img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
 08月29日</td>
 </tr>
@@ -706,20 +720,6 @@
 <br>
 </h3>
 58岁的香港导演陈木胜（Benny）23日传出因鼻咽癌病逝。据港媒......<br>
-<img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
-08月24日</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/23/n12351841.md#1" target="_blank">
-<img width="250" src="https://i.epochtimes.com/assets/uploads/2020/07/download-101-320x200.jpg" align ="left">
-</a>
-<a href="/gb/20/8/23/n12351841.md#1" target="_blank">
-【重播】川普8.23发布会：血浆疗法治愈率35%</a>
-<br>
-</h3>
-周日（23日）下午18:00，川普总统主持中共病毒疫情通报会。新唐......<br>
 <img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
 08月24日</td>
 </tr>

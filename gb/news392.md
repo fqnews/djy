@@ -44,23 +44,23 @@
 <p>
 <a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
 大纪元</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/m513d" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/g513l" target="_blank">
 动态网</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/h12a" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/p12p" target="_blank">
 无界</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/l8h" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/k8q" target="_blank">
 退党</a>
  | <a href="https://git.io/fjHpT" target="_blank">
 网门</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/n4n" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/z4b" target="_blank">
 神韵</a>
  | <a href="https://git.io/fjHpI" target="_blank">
 新纪元</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/n11p" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/x11v" target="_blank">
 看中国</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/u3n" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/c3f" target="_blank">
 明慧网</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/a9l" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/j9b" target="_blank">
 希望之声</a>
  | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
 无罪辩护</a>
@@ -78,13 +78,13 @@
 亚太台</a>
  | <a href="https://git.io/fjHpG" target="_blank">
 直播</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/p12m" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/n12h" target="_blank">
 圣缘</a>
  | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
 伪火</a>
  | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
 九评</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/s10r" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/h10z" target="_blank">
 正见网</a>
  | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
 藏字石</a>
@@ -320,6 +320,20 @@
   <tr>
 <td width="742">
 <h3>
+<a href="/gb/20/8/29/n12365915.md#1" target="_blank">
+田云：王毅访欧洲 中共笑里藏刀连碰钉子</a>
+<br>
+</h3>
+<a href="/gb/20/8/29/n12365915.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/e4c1d63a580b7ac519bee34dfca49f0d-150x120.jpg" align ="left">
+</a>
+中共对欧洲发动了新的外交攻势，不仅试图推动更多的贸易协定、保护华为，而且还企图影响欧洲的民主政治氛围，动摇欧洲的民主价值根基。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月29日 3:36 PM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
 <a href="/gb/20/8/29/n12365952.md#1" target="_blank">
 佳月：川普的哪些政策使非裔社区受益</a>
 <br>
@@ -330,20 +344,6 @@
 从2016年川普竞选总统开始，民主党与左派就用了先下手为强的手法，给川普扣上了一顶“种族歧视”的帽子。有了这顶帽子戴在头上，不管川普说什么，都是错的。在大陆生活过的中国人看到这种现象不应该奇怪，在中国大陆，被扣上帽子的人千千万万-“地主”，“富农”，“反革命”，“右派”，……数不胜数。......<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
  2020年08月29日 3:21 PM			</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/29/n12365915.md#1" target="_blank">
-田云：王毅访欧洲 中共笑里藏刀连碰钉子</a>
-<br>
-</h3>
-<a href="/gb/20/8/29/n12365915.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/e4c1d63a580b7ac519bee34dfca49f0d-150x120.jpg" align ="left">
-</a>
-中共对欧洲发动了新的外交攻势，不仅试图推动更多的贸易协定、保护华为，而且还企图影响欧洲的民主政治氛围，动摇欧洲的民主价值根基。......<br>
-<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月29日 2:17 PM			</td>
 </tr>
   <tr>
 <td width="742">

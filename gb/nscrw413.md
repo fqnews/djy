@@ -44,23 +44,23 @@
 <p>
 <a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
 大纪元</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/y513w" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/z513t" target="_blank">
 动态网</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/y12z" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/q12h" target="_blank">
 无界</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/u8z" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/y8z" target="_blank">
 退党</a>
  | <a href="https://git.io/fjHpT" target="_blank">
 网门</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/w4l" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/i4h" target="_blank">
 神韵</a>
  | <a href="https://git.io/fjHpI" target="_blank">
 新纪元</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/s11w" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/s11d" target="_blank">
 看中国</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/v3b" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/n3s" target="_blank">
 明慧网</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/o9l" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/w9m" target="_blank">
 希望之声</a>
  | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
 无罪辩护</a>
@@ -78,13 +78,13 @@
 亚太台</a>
  | <a href="https://git.io/fjHpG" target="_blank">
 直播</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/n12y" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/w12h" target="_blank">
 圣缘</a>
  | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
 伪火</a>
  | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
 九评</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/a10v" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/o10l" target="_blank">
 正见网</a>
  | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
 藏字石</a>
@@ -348,16 +348,16 @@
   <tr>
 <td width="742">
 <h3>
-<a href="/gb/20/8/27/n12360508.md#1" target="_blank">
-【拍案惊奇】习亮剑太早？孟晚舟又“想逃”</a>
+<a href="/gb/20/8/25/n12355810.md#1" target="_blank">
+分析：台港存款余额创新低 人民币不值钱</a>
 <br>
 </h3>
-<a href="/gb/20/8/27/n12360508.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/download-3-1-150x120.jpg" align ="left">
+<a href="/gb/20/8/25/n12355810.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/1209070929352039-150x120.jpg" align ="left">
 </a>
-根据最新消息，孟晚舟的律师申请获得加拿大安全情报局（CSIS）的相关文件，以证明逮捕孟晚舟违法，但被法庭拒绝，声称文件中没有孟晚舟想要的东西，现在孟晚舟只好戴着电子脚铐，继续等待有关把她引渡到美国的第二阶段聆讯，到2021年3月审结了。......<br>
+台湾及香港人民币存款余额创新低。台湾中央银行8月17日公布7月国银人民币存款余额为2,409.89亿元人民币，创6年半新低纪录；香港6月底人民币存款余额为6,399亿元，较上月大减550亿元，跌幅创3年半来最大。分析人士说，台港人民币存款余额创新低，显示人民币越来越不值钱。......<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月27日 7:23 PM			</td>
+ 2020年08月27日 11:06 PM			</td>
 </tr>
   <tr>
 <td width="742">
@@ -376,16 +376,30 @@
   <tr>
 <td width="742">
 <h3>
-<a href="/gb/20/8/25/n12355810.md#1" target="_blank">
-分析：台港存款余额创新低 人民币不值钱</a>
+<a href="/gb/20/8/28/n12365016.md#1" target="_blank">
+成龙北京豪宅被拍卖 入住13年突遭查封</a>
 <br>
 </h3>
-<a href="/gb/20/8/25/n12355810.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/1209070929352039-150x120.jpg" align ="left">
+<a href="/gb/20/8/28/n12365016.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/02/chenglong-150x120.jpg" align ="left">
 </a>
-台湾及香港人民币存款余额创新低。台湾中央银行8月17日公布7月国银人民币存款余额为2,409.89亿元人民币，创6年半新低纪录；香港6月底人民币存款余额为6,399亿元，较上月大减550亿元，跌幅创3年半来最大。分析人士说，台港人民币存款余额创新低，显示人民币越来越不值钱。......<br>
+8月28日，有大陆网友爆料称，成龙在北京东城区东直门内大街的豪宅正在拍卖。网上资料显示，位于9号院2号楼的1001室和1002室的面积共1,217.5平方米，起拍价7,190万元（人民币，下同）。......<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月27日 11:06 PM			</td>
+ 2020年08月29日 6:48 AM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/27/n12360508.md#1" target="_blank">
+【拍案惊奇】习亮剑太早？孟晚舟又“想逃”</a>
+<br>
+</h3>
+<a href="/gb/20/8/27/n12360508.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/download-3-1-150x120.jpg" align ="left">
+</a>
+根据最新消息，孟晚舟的律师申请获得加拿大安全情报局（CSIS）的相关文件，以证明逮捕孟晚舟违法，但被法庭拒绝，声称文件中没有孟晚舟想要的东西，现在孟晚舟只好戴着电子脚铐，继续等待有关把她引渡到美国的第二阶段聆讯，到2021年3月审结了。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月27日 7:23 PM			</td>
 </tr>
   <tr>
 <td width="742">
@@ -544,20 +558,6 @@
   <tr>
 <td width="742">
 <h3>
-<a href="/gb/20/8/28/n12365016.md#1" target="_blank">
-成龙北京豪宅被拍卖 入住13年突遭查封</a>
-<br>
-</h3>
-<a href="/gb/20/8/28/n12365016.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/02/chenglong-150x120.jpg" align ="left">
-</a>
-8月28日，有大陆网友爆料称，成龙在北京东城区东直门内大街的豪宅正在拍卖。网上资料显示，位于9号院2号楼的1001室和1002室的面积共1,217.5平方米，起拍价7,190万元（人民币，下同）。......<br>
-<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月29日 6:48 AM			</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
 <a href="/gb/20/8/28/n12362954.md#1" target="_blank">
 【拍案惊奇】港人逃台被截送中 李克强靠边站？</a>
 <br>
@@ -568,6 +568,20 @@
 陈光诚说：在中国，任何信仰或信念，或参与没有经过中共批准的“宗教、民主、人权”活动，就可能锒铛入狱，整个国家生活在大规模的监视和审查之下。陈光诚的演说，还得到川普在私人账号上的转发，而他的账号上有八千多万追随者。......<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
  2020年08月28日 2:36 PM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/28/n12362999.md#1" target="_blank">
+川普：拜登是社会主义木马 想要中国制造</a>
+<br>
+</h3>
+<a href="/gb/20/8/28/n12362999.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/000_1WT3MT-150x120.jpg" align ="left">
+</a>
+寻求连任的美国总统川普8月27日晚正式接受共和党的总统候选人提名，并在全国代表大会上发表提名演讲；他说，拜登是社会主义木马，想要中国制造。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月28日 1:45 PM			</td>
 </tr>
   <tr>
 <td width="742">
@@ -600,16 +614,16 @@
   <tr>
 <td width="742">
 <h3>
-<a href="/gb/20/8/28/n12362999.md#1" target="_blank">
-川普：拜登是社会主义木马 想要中国制造</a>
+<a href="/gb/20/8/28/n12362982.md#1" target="_blank">
+中共间谍马玉清案中案细节 涉海外民运人员</a>
 <br>
 </h3>
-<a href="/gb/20/8/28/n12362999.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/000_1WT3MT-150x120.jpg" align ="left">
+<a href="/gb/20/8/28/n12362982.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2018/05/6b8afc87ae7c94395c555bbf3e96915c-150x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" align ="left">
 </a>
-寻求连任的美国总统川普8月27日晚正式接受共和党的总统候选人提名，并在全国代表大会上发表提名演讲；他说，拜登是社会主义木马，想要中国制造。......<br>
+香港出生的美国中央情报局（CIA）人员马玉正做中共间谍案，引起外界广泛关注。该案的一号合作者，是多年来活跃于美国的海外民运分子马大维。其因患老年痴呆而免于被起诉。......<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月28日 1:45 PM			</td>
+ 2020年08月28日 11:30 AM			</td>
 </tr>
   <tr>
 <td width="742">
@@ -628,30 +642,16 @@
   <tr>
 <td width="742">
 <h3>
-<a href="/gb/20/8/28/n12362982.md#1" target="_blank">
-中共间谍马玉清案中案细节 涉海外民运人员</a>
+<a href="/gb/20/8/28/n12363623.md#1" target="_blank">
+中石油亏损300亿 西水股份半年亏270亿</a>
 <br>
 </h3>
-<a href="/gb/20/8/28/n12362982.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2018/05/6b8afc87ae7c94395c555bbf3e96915c-150x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" align ="left">
+<a href="/gb/20/8/28/n12363623.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2010/05/1005311041441459-150x120.jpg" align ="left">
 </a>
-香港出生的美国中央情报局（CIA）人员马玉正做中共间谍案，引起外界广泛关注。该案的一号合作者，是多年来活跃于美国的海外民运分子马大维。其因患老年痴呆而免于被起诉。......<br>
+8月27日，中国石油天然气股份有限公司（中国石油）公布半年业绩：营收同比下降22.3%，归母净亏损299.83亿元（人民币，下同），去年同期盈利284.2亿元，同比下降205.5%。......<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月28日 11:30 AM			</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/27/n12361250.md#1" target="_blank">
-一文看懂美两年制裁三百中企 中共难回击</a>
-<br>
-</h3>
-<a href="/gb/20/8/27/n12361250.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/fc0d33d3b84d968ae2f598371a5efb01-150x120.jpg" align ="left">
-</a>
-过去两年来，美国已对中共企业发起多轮制裁，涉及约300家企业，涵盖高科技、建设等不同领域。对企业制裁正成为美方与军事、外交并用的重要施压手段，且中共难以回击。......<br>
-<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月27日 6:49 PM			</td>
+ 2020年08月28日 5:42 PM			</td>
 </tr>
   <tr>
 <td width="742">
@@ -670,16 +670,16 @@
   <tr>
 <td width="742">
 <h3>
-<a href="/gb/20/8/28/n12363623.md#1" target="_blank">
-中石油亏损300亿 西水股份半年亏270亿</a>
+<a href="/gb/20/8/27/n12361250.md#1" target="_blank">
+一文看懂美两年制裁三百中企 中共难回击</a>
 <br>
 </h3>
-<a href="/gb/20/8/28/n12363623.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2010/05/1005311041441459-150x120.jpg" align ="left">
+<a href="/gb/20/8/27/n12361250.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/fc0d33d3b84d968ae2f598371a5efb01-150x120.jpg" align ="left">
 </a>
-8月27日，中国石油天然气股份有限公司（中国石油）公布半年业绩：营收同比下降22.3%，归母净亏损299.83亿元（人民币，下同），去年同期盈利284.2亿元，同比下降205.5%。......<br>
+过去两年来，美国已对中共企业发起多轮制裁，涉及约300家企业，涵盖高科技、建设等不同领域。对企业制裁正成为美方与军事、外交并用的重要施压手段，且中共难以回击。......<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月28日 5:42 PM			</td>
+ 2020年08月27日 6:49 PM			</td>
 </tr>
   <tr>
 <td width="742">

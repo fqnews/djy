@@ -44,23 +44,23 @@
 <p>
 <a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
 大纪元</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/q513r" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/u513f" target="_blank">
 动态网</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/s12m" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/r12q" target="_blank">
 无界</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/a8p" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/x8o" target="_blank">
 退党</a>
  | <a href="https://git.io/fjHpT" target="_blank">
 网门</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/q4d" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/y4d" target="_blank">
 神韵</a>
  | <a href="https://git.io/fjHpI" target="_blank">
 新纪元</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/y11i" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/w11h" target="_blank">
 看中国</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/e3d" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/t3t" target="_blank">
 明慧网</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/r9v" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/t9z" target="_blank">
 希望之声</a>
  | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
 无罪辩护</a>
@@ -78,13 +78,13 @@
 亚太台</a>
  | <a href="https://git.io/fjHpG" target="_blank">
 直播</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/e12f" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/t12i" target="_blank">
 圣缘</a>
  | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
 伪火</a>
  | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
 九评</a>
- | <a href="https://tt6.jugd53.ml/cwemlsd/j10l" target="_blank">
+ | <a href="https://tt6.jugd53.ml/dvtqcrirk/d10i" target="_blank">
 正见网</a>
  | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
 藏字石</a>
@@ -320,62 +320,6 @@
   <tr>
 <td width="742">
 <h3>
-<a href="/gb/20/8/29/n12365878.md#1" target="_blank">
-高雄突来大雨邮差先保护信件 网友：辛苦了！</a>
-<br>
-</h3>
-<a href="/gb/20/8/29/n12365878.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/0-150x120.jpg" align ="left">
-</a>
-台湾近日因西南气流，中南部连续多天豪雨，一名网友分享高雄突然下起大雨，但送信的邮差没有先穿雨衣，反而先替信件遮盖雨棚。邮差淋得全身湿的照片感动上万名网友，直呼“敬业精神，邮差先生辛苦了”。......<br>
-<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月29日 3:23 PM			</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/29/n12365952.md#1" target="_blank">
-佳月：川普的哪些政策使非裔社区受益</a>
-<br>
-</h3>
-<a href="/gb/20/8/29/n12365952.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/000_1WT3AG-600x400-2-150x120.jpg" align ="left">
-</a>
-从2016年川普竞选总统开始，民主党与左派就用了先下手为强的手法，给川普扣上了一顶“种族歧视”的帽子。有了这顶帽子戴在头上，不管川普说什么，都是错的。在大陆生活过的中国人看到这种现象不应该奇怪，在中国大陆，被扣上帽子的人千千万万-“地主”，“富农”，“反革命”，“右派”，……数不胜数。......<br>
-<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月29日 3:21 PM			</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/29/n12365917.md#1" target="_blank">
-馆长枪伤 医院：恢复良好已可边换药边开玩笑</a>
-<br>
-</h3>
-<a href="/gb/20/8/29/n12365917.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/07/bb8cfd8d31d635461deec9248e2e0a8e-150x120.jpg" align ="left">
-</a>
-台湾网络名人、“馆长”陈之汉8月28日凌晨遭枪击受伤。林口长庚医院表示，陈之汉今天（29日）换药时已经可以边开玩笑，身体恢复良好，有鼓励他先不要太极端要求自己以后还要拿上百公斤重量。......<br>
-<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月29日 3:05 PM			</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/29/n12365959.md#1" target="_blank">
-旧金山湾区一周大事（2020年8月22日?8月28日）</a>
-<br>
-</h3>
-<a href="/gb/20/8/29/n12365959.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/2002150201082783-150x120.jpg" align ="left">
-</a>
-  【旧金山  东湾】    旧金山中领馆前现碎纸车    8月24日，在旧金山中领馆侧门，也出现了碎纸车。这是继目前已被关闭的休斯顿中领馆上个月焚毁文件火焰，引来消防员到现场，以及其后纽约中领馆出现碎纸车现场作业之后，又一个中共驻美国大城市的领馆出现异动。居住在中领馆附近社区的梁先生表示，三十多年来，休斯顿中领馆新闻.........<br>
-<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月29日 2:49 PM			</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
 <a href="/gb/20/8/29/n12365911.md#1" target="_blank">
 馆长遭枪击 医师：恢复良好 已可边换药边开玩笑</a>
 <br>
@@ -537,7 +481,7 @@ Heritage Bank共襄义举 捐赠森林湖学童书包</a>
 <a href="/gb/20/8/29/n12365590.md#1" target="_blank">
 <img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/GettyImages-1266433879-150x120.jpg" align ="left">
 </a>
-8月29日全球中共病毒（武汉肺炎）疫情最新情况：    中共肺炎全球疫情及美国疫情大数据请点击这里。  要点：  印度国会一名议员染疫病逝  美国出现首起重复感染病例  美国确诊数破590万  墨西哥增逾5800例 总统驱散支持者  巴西增逾4.3万例 里约热内卢州长遭贪腐调查  FDA将瑞德西韦紧急授权 扩展至所有住.........<br>
+8月29日全球中共病毒（武汉肺炎）疫情最新情况：    中共肺炎全球疫情及美国疫情大数据请点击这里。  要点：  美国出现首起重复感染病例  美国确诊数破590万  墨西哥增逾5800例 总统驱散支持者  巴西增逾4.3万例 里约热内卢州长遭贪腐调查  FDA将瑞德西韦紧急授权 扩展至所有住院患者   加州本次重新开放.........<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
  2020年08月29日 1:19 PM			</td>
 </tr>
@@ -7978,13 +7922,44 @@ CZU大火烧毁圣塔克鲁兹至少527幢建筑</a>
   <tr>
 <td width="742">
 <h3>
-<a href="/gb/20/8/29/n12365964.md#1" target="_blank">
-山西一饭店坍塌 已致2人亡10被埋</a>
+<a href="/gb/20/8/26/n12359705.md#1" target="_blank">
+【时事纵横】新疆封区民吼 蓬佩奥：唯川普能抗共</a>
 <br>
 </h3>
-8月29日上午9时40分许，山西临汾市襄汾县一栋两层饭店突然发生坍塌，已致2人遇难，仍有约10人被埋。......<br>
+<a href="/gb/20/8/26/n12359705.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/download-76-150x120.jpg" align ="left">
+</a>
+乌鲁木齐小区长时间封锁，居民憋得慌，有人在楼上开窗户高喊，发泄郁闷心情；多位居民反映，当局强迫居民每天三次吃药，不吃会被上报；各式粗暴封门方式网上曝光。搬起石头砸自己的脚？大陆网友不用翻墙就能了解蓬佩奥讲话精髓。党媒喉舌再把蓬佩奥当“标靶”，用三万字、三个整版反驳，评论区翻车，直言蓬佩奥讲话“击中了要害！”美国国务卿蓬.........<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月29日 3:23 PM			</td>
+ 2020年08月27日 7:18 AM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/26/n12360000.md#1" target="_blank">
+警方悬赏抓“黑命贵”抗议中的纵火嫌犯</a>
+<br>
+</h3>
+<a href="/gb/20/8/26/n12360000.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/GettyImages-1235311796-150x120.jpg" align ="left">
+</a>
+从5月底开始由弗洛伊德（George Floyd）之死在洛杉矶地区引发的系列“黑命贵”（BLM）抗议中，有抗议者乘机打砸抢商店、甚至故意纵火。周二（8月25日），酒精烟草武器爆炸物管理局公布了一名女子于5月31日在圣莫妮卡几家商户纵火的视频，悬赏5000美元抓捕该嫌犯。    https://youtu.be/TRLk.........<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月27日 7:16 AM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/26/n12359920.md#1" target="_blank">
+FASCA橙县分会举行线上夏季月会</a>
+<br>
+</h3>
+<a href="/gb/20/8/26/n12359920.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/P1_2020_0822-e1598481769120.png" align ="left">
+</a>
+海外青年文化志工协会橙县分会（FASCA-OC）8月22日举行线上夏季月会，FASCA橙县分会甫于今年5月1日成立，这次活动是首次举行的培力计划月会。当天，橙县华侨文教服务中心主任蒋翼鹏、约巴林达市（Yorba Linda）市议员黄瑞雅应邀与会。        7月底甫结训的青年文化志工22日进行FASCA-OC首届学.........<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月27日 6:42 AM			</td>
 </tr>
   <tr>
 <td width="742">
@@ -10417,6 +10392,28 @@ MTA：若无联邦援助 地铁服务将减少40%</a>
 世界上最大的非法摩托车团伙出售的东西，如今五花八门，从面具、婴儿连体衣到皮带扣、钱包，无所不包。安省省警呼吁公众，购买这些商品之前一定要三思而后行，因为这实际上是在支持有组织犯罪。......<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
  2020年08月27日 8:47 AM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/26/n12360016.md#1" target="_blank">
+亚省签建时速1000公里磁悬浮备忘录</a>
+<br>
+</h3>
+亚伯塔省政府与TransPod公司签署了在卡尔加里和埃德蒙顿之间建设时速1,000公里超级双管单轨磁悬浮路的备忘录，该项目预计造价60亿至80亿元，建成后从卡尔加里到埃德蒙顿只需30分钟。    超级双管单轨磁悬浮路项目是在混凝土基座上架起两条直径约两米的闭合钢铁管道，钢管内有一条轨道，磁悬浮吊舱在单轨上高速运动，速度.........<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月27日 7:10 AM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/26/n12359969.md#1" target="_blank">
+卡城升级唐人街 商家担忧</a>
+<br>
+</h3>
+卡尔加里市政府推出第三大道步行和滚轮升级项目（3 Avenue South Walking and Wheeling Upgrades），计划将唐人街内的第三大道改造成步行，滑板和骑自行车友好区域。    市政府称这个项目可以改善区域内的交通和提高安全性，有益于商家和居民。但商家并不买账，认为该项目会限制客户流量，给商.........<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月27日 6:53 AM			</td>
 </tr>
   </table>
 <div align="center">
