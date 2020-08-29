@@ -44,23 +44,23 @@
 <p>
 <a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
 大纪元</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/r513d" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/r513x" target="_blank">
 动态网</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/v12e" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/b12o" target="_blank">
 无界</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/e8n" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/k8g" target="_blank">
 退党</a>
  | <a href="https://git.io/fjHpT" target="_blank">
 网门</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/u4x" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/v4t" target="_blank">
 神韵</a>
  | <a href="https://git.io/fjHpI" target="_blank">
 新纪元</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/g11e" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/x11q" target="_blank">
 看中国</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/p3y" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/y3g" target="_blank">
 明慧网</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/w9l" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/c9o" target="_blank">
 希望之声</a>
  | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
 无罪辩护</a>
@@ -78,13 +78,13 @@
 亚太台</a>
  | <a href="https://git.io/fjHpG" target="_blank">
 直播</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/s12j" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/k12p" target="_blank">
 圣缘</a>
  | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
 伪火</a>
  | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
 九评</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/r10x" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/y10c" target="_blank">
 正见网</a>
  | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
 藏字石</a>
@@ -320,48 +320,6 @@
   <tr>
 <td width="742">
 <h3>
-<a href="/gb/20/8/29/n12366002.md#1" target="_blank">
-王赫：南海问题是中共脖子上的一道枷锁</a>
-<br>
-</h3>
-<a href="/gb/20/8/29/n12366002.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/505241459731-150x120.jpg" align ="left">
-</a>
-8月26日，美国首次对中共的南海“军事化” 进行制裁，包括将参与南海争议地区人工岛礁建设的24家中国公司列入实体名单，及对一些中国公民实施签证控制，并称：制裁仅是开始。......<br>
-<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月29日 4:03 PM			</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/29/n12365995.md#1" target="_blank">
-29日台湾增1例境外移入个案 赴菲返台确诊</a>
-<br>
-</h3>
-<a href="/gb/20/8/29/n12365995.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/07/28a5d5e1f93291952506923f5032b579-150x120.jpg" align ="left">
-</a>
-台湾中央流行疫情指挥中心今天（29日）公布国内新增1例境外移入中共肺炎（武汉肺炎）病例，为40多岁本国籍男性（案488），今年2月至菲律宾工作，8月27日返国。......<br>
-<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月29日 3:47 PM			</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/29/n12365949.md#1" target="_blank">
-台湾放宽美猪牛进口 外交部：获美各界支持</a>
-<br>
-</h3>
-<a href="/gb/20/8/29/n12365949.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/190718121039100699-150x120.jpg" align ="left">
-</a>
-中华民国总统蔡英文8月28日宣布放宽美猪美牛进口。外交部29日表示，已有包括美国副总统彭斯在内的74名美方人士表达欢迎与肯定；台湾采取这些政策希望替未来可能的经贸谈判开启大门。......<br>
-<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月29日 3:46 PM			</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
 <a href="/gb/20/8/29/n12365915.md#1" target="_blank">
 田云：王毅访欧洲 中共笑里藏刀连碰钉子</a>
 <br>
@@ -579,7 +537,7 @@ Heritage Bank共襄义举 捐赠森林湖学童书包</a>
 <a href="/gb/20/8/29/n12365590.md#1" target="_blank">
 <img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/GettyImages-1266433879-150x120.jpg" align ="left">
 </a>
-8月29日全球中共病毒（武汉肺炎）疫情最新情况：    中共肺炎全球疫情及美国疫情大数据请点击这里。  要点：  韩国增323例 疫情复燃病床即将耗尽  印度国会一名议员染疫病逝  美国出现首起重复感染病例  美国确诊数破590万  墨西哥增逾5800例 总统驱散支持者  巴西增逾4.3万例 里约热内卢州长遭贪腐调查 .........<br>
+8月29日全球中共病毒（武汉肺炎）疫情最新情况：    中共肺炎全球疫情及美国疫情大数据请点击这里。  要点：  印度国会一名议员染疫病逝  美国出现首起重复感染病例  美国确诊数破590万  墨西哥增逾5800例 总统驱散支持者  巴西增逾4.3万例 里约热内卢州长遭贪腐调查  FDA将瑞德西韦紧急授权 扩展至所有住.........<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
  2020年08月29日 1:19 PM			</td>
 </tr>
@@ -7950,6 +7908,76 @@ CZU大火烧毁圣塔克鲁兹至少527幢建筑</a>
   <tr>
 <td width="742">
 <h3>
+<a href="/gb/20/8/26/n12359662.md#1" target="_blank">
+黎明新歌诠释慈父 “香港天王”变身住家暖男</a>
+<br>
+</h3>
+<a href="/gb/20/8/26/n12359662.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2016/12/1_meitu_1-8-150x120.jpg" align ="left">
+</a>
+“香港天王”黎明（Leon）2018年升为人父后，非常享受家庭生活，经常下厨为2岁多的女儿烹饪美食。最近推出新歌的他，虽然女儿未出现在MV中，但在厨房的小黑板上，看到画了一间小屋，屋前站了一家三口，画面十分温馨。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月27日 8:03 AM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/26/n12360068.md#1" target="_blank">
+澳前总理艾伯特赴英上任 获旅行禁令豁免</a>
+<br>
+</h3>
+<a href="/gb/20/8/26/n12360068.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/09/2019-09-04-16487-Tony-150x120.jpg" align ="left">
+</a>
+澳洲前总理艾伯特接受了一份英国脱欧后帮助英国拓展贸易的工作，为此他获得了澳洲政府国际旅行禁令的豁免，已飞往伦敦任职。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月27日 7:54 AM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/26/n12360001.md#1" target="_blank">
+4级飓风劳拉逼近德州与路州 50万人撤离</a>
+<br>
+</h3>
+<a href="/gb/20/8/26/n12360001.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/LA-Storm-Surge-2-Lafourche-Parish-Sheriffs-Office-150x120.jpg" align ="left">
+</a>
+周三（8月26日），美国天气预报部门透露，飓风“劳拉”（Hurricane Laura）已经在墨西哥湾上空变得越来越强，这个风暴系统已经强化为“极其危险”的4级风暴，并引发了一股已席卷墨西哥湾部分地区的风暴潮（Storm Surge）。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月27日 7:54 AM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/26/n12360032.md#1" target="_blank">
+港警捕林卓廷许智峯等16人 被斥黑白颠倒</a>
+<br>
+</h3>
+<a href="/gb/20/8/26/n12360032.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/d9e4eff8b571728cd507d1ac00218195-150x120.jpg" align ="left">
+</a>
+8月26日清晨，警方再次针对民主派人士展开第二次大搜捕，高调上门拘捕立法会议员林卓廷及许智峯等16人。在7.21元朗事件中被白衣人打伤的林卓廷更被指参与7.21恐袭，涉及暴动罪。民主党主席胡志伟批评，这次事件是“原告变被告”。立法会议员涂谨申亦直言，“指白为黑，迫害忠良”。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月27日 7:47 AM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/26/n12360063.md#1" target="_blank">
+在家办公恐对悉尼市区经济造成100亿元重创</a>
+<br>
+</h3>
+<a href="/gb/20/8/26/n12360063.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2018/07/be4d6aef7bc454b34ac9009113399d66-150x120.jpg" align ="left">
+</a>
+疫情流行致使人们在家工作，导致旅游服务业、艺术和零售业的收入急剧下滑，预计将给悉尼市中心带来100亿澳元的经济损失。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月27日 7:43 AM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
 <a href="/gb/20/8/29/n12365964.md#1" target="_blank">
 山西一饭店坍塌 已致2人亡10被埋</a>
 <br>
@@ -7968,17 +7996,6 @@ CZU大火烧毁圣塔克鲁兹至少527幢建筑</a>
 加州就业发展部（EDD）宣布，从9月初开始，加州因为疫情而失业的人，可以每周多领300美元的额外失业金。    这些额外的失业金，是通过联邦“工资损失援助计划”（Lost Wages Assistance Program），提供给全国各州的，发放日期可追溯回8月1日的失业周。    EDD表示，加州获得了联邦紧急事务管.........<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
  2020年08月29日 2:08 PM			</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/29/n12365626.md#1" target="_blank">
-【翻墙必看】中共军方学者偷美机密机场被抓</a>
-<br>
-</h3>
-中共向南海发射东风中程导弹，正中美军下怀，成为中共军事应对的一大败笔。中共过早掀开了底牌，暴露了军事实力，更激怒了周边国家。......<br>
-<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月29日 1:47 PM			</td>
 </tr>
   <tr>
 <td width="742">
@@ -8134,6 +8151,17 @@ CZU大火烧毁圣塔克鲁兹至少527幢建筑</a>
 现在社会被无神论害得太深，不知道因果报应，什么坏事都敢干，不计后果，现在每个阶层生活都不安宁，都是共产党惹得祸，想到邪党害人的历史，我决定退出共产党的一切邪恶组织，抹去兽的印记，不做邪党的牺牲品，从而有一个健康的身体。......<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
  2020年08月29日 11:02 AM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/29/n12365626.md#1" target="_blank">
+【翻墙必看】中共军事应对的一大败笔</a>
+<br>
+</h3>
+中共向南海发射东风中程导弹，正中美军下怀，成为中共军事应对的一大败笔。中共过早掀开了底牌，暴露了军事实力，更激怒了周边国家。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月29日 10:47 AM			</td>
 </tr>
   <tr>
 <td width="742">

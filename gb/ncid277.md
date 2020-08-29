@@ -44,23 +44,23 @@
 <p>
 <a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
 大纪元</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/k513c" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/u513j" target="_blank">
 动态网</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/s12h" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/u12z" target="_blank">
 无界</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/n8f" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/o8x" target="_blank">
 退党</a>
  | <a href="https://git.io/fjHpT" target="_blank">
 网门</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/f4t" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/r4w" target="_blank">
 神韵</a>
  | <a href="https://git.io/fjHpI" target="_blank">
 新纪元</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/z11b" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/c11v" target="_blank">
 看中国</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/g3o" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/m3w" target="_blank">
 明慧网</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/o9i" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/z9p" target="_blank">
 希望之声</a>
  | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
 无罪辩护</a>
@@ -78,13 +78,13 @@
 亚太台</a>
  | <a href="https://git.io/fjHpG" target="_blank">
 直播</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/f12z" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/w12k" target="_blank">
 圣缘</a>
  | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
 伪火</a>
  | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
 九评</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/h10t" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/n10q" target="_blank">
 正见网</a>
  | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
 藏字石</a>
@@ -306,14 +306,28 @@
   <tr>
 <td width="742">
 <h3>
+<a href="/gb/20/8/29/n12365949.md#1" target="_blank">
+<img width="250" src="https://i.epochtimes.com/assets/uploads/2020/08/190718121039100699-600x400.jpg" align ="left">
+</a>
+<a href="/gb/20/8/29/n12365949.md#1" target="_blank">
+台湾放宽美猪牛进口 外交部：获美各界支持</a>
+<br>
+</h3>
+中华民国总统蔡英文8月28日宣布放宽美猪美牛进口。外交部29日表示，已有包括美国副总统彭斯在内的74......<br>
+<img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
+08月29日</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
 <a href="/gb/20/8/29/n12365917.md#1" target="_blank">
-<img width="250" src="https://i.epochtimes.com/assets/uploads/2019/07/bb8cfd8d31d635461deec9248e2e0a8e-600x400.jpg" align ="left">
+<img width="250" src="https://i.epochtimes.com/assets/uploads/2019/07/bb8cfd8d31d635461deec9248e2e0a8e-320x200.jpg" align ="left">
 </a>
 <a href="/gb/20/8/29/n12365917.md#1" target="_blank">
 馆长枪伤 医院：恢复良好已可边换药边开玩笑</a>
 <br>
 </h3>
-台湾网络名人、“馆长”陈之汉8月28日凌晨遭枪击受伤。林口长庚医院表示，陈之汉今天（29日）换药时已......<br>
+台湾网络名人、“馆长”陈之汉8月28日凌晨遭枪击受伤。林口长庚医院......<br>
 <img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
 08月29日</td>
 </tr>
@@ -328,6 +342,20 @@
 <br>
 </h3>
 台湾网络名人、“馆长”陈之汉枪击案，涉嫌行凶被告刘嫌8月28日晚间......<br>
+<img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
+08月29日</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/29/n12365626.md#1" target="_blank">
+<img width="250" src="https://www.epochtimes.com/assets/themes/djy/images/djy_post_default_featured_image_320x200.jpg" align ="left">
+</a>
+<a href="/gb/20/8/29/n12365626.md#1" target="_blank">
+【翻墙必看】中共军方学者偷美机密机场被抓</a>
+<br>
+</h3>
+中共向南海发射东风中程导弹，正中美军下怀，成为中共军事应对的一大败......<br>
 <img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
 08月29日</td>
 </tr>
@@ -356,20 +384,6 @@
 <br>
 </h3>
 近日，山东省临沂市蒙阴县体育运动中心办公室主任公维强被指在微信群发......<br>
-<img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
-08月29日</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/29/n12365626.md#1" target="_blank">
-<img width="250" src="https://www.epochtimes.com/assets/themes/djy/images/djy_post_default_featured_image_320x200.jpg" align ="left">
-</a>
-<a href="/gb/20/8/29/n12365626.md#1" target="_blank">
-【翻墙必看】中共军事应对的一大败笔</a>
-<br>
-</h3>
-中共向南海发射东风中程导弹，正中美军下怀，成为中共军事应对的一大败......<br>
 <img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
 08月29日</td>
 </tr>
@@ -706,20 +720,6 @@
 <br>
 </h3>
 美东时间周四（8月27日）晚上8:30到11:00，美国共和党20......<br>
-<img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
-08月28日</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/28/n12363107.md#1" target="_blank">
-<img width="250" src="https://i.epochtimes.com/assets/uploads/2020/07/1906191226232384-320x200.jpg" align ="left">
-</a>
-<a href="/gb/20/8/28/n12363107.md#1" target="_blank">
-台湾馆长遭人开3枪 警政署誓言：究办到底</a>
-<br>
-</h3>
-台湾网络名人、“馆长”陈之汉8月28日凌晨2时左右遭人开3枪。案发......<br>
 <img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
 08月28日</td>
 </tr>

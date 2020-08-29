@@ -44,23 +44,23 @@
 <p>
 <a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
 大纪元</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/x513a" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/q513w" target="_blank">
 动态网</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/w12n" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/c12j" target="_blank">
 无界</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/i8j" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/i8k" target="_blank">
 退党</a>
  | <a href="https://git.io/fjHpT" target="_blank">
 网门</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/v4t" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/r4g" target="_blank">
 神韵</a>
  | <a href="https://git.io/fjHpI" target="_blank">
 新纪元</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/p11d" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/p11u" target="_blank">
 看中国</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/x3o" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/q3w" target="_blank">
 明慧网</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/r9i" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/h9e" target="_blank">
 希望之声</a>
  | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
 无罪辩护</a>
@@ -78,13 +78,13 @@
 亚太台</a>
  | <a href="https://git.io/fjHpG" target="_blank">
 直播</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/t12i" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/n12a" target="_blank">
 圣缘</a>
  | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
 伪火</a>
  | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
 九评</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/t10g" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/f10t" target="_blank">
 正见网</a>
  | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
 藏字石</a>

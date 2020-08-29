@@ -44,23 +44,23 @@
 <p>
 <a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
 大纪元</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/n513s" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/h513v" target="_blank">
 动态网</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/b12m" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/v12a" target="_blank">
 无界</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/w8x" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/t8n" target="_blank">
 退党</a>
  | <a href="https://git.io/fjHpT" target="_blank">
 网门</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/r4l" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/t4j" target="_blank">
 神韵</a>
  | <a href="https://git.io/fjHpI" target="_blank">
 新纪元</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/h11e" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/s11b" target="_blank">
 看中国</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/j3l" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/v3e" target="_blank">
 明慧网</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/f9t" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/z9j" target="_blank">
 希望之声</a>
  | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
 无罪辩护</a>
@@ -78,13 +78,13 @@
 亚太台</a>
  | <a href="https://git.io/fjHpG" target="_blank">
 直播</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/z12w" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/c12b" target="_blank">
 圣缘</a>
  | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
 伪火</a>
  | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
 九评</a>
- | <a href="https://tt6.jugd53.ml/kxtjl/m10u" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cmjlylm/c10b" target="_blank">
 正见网</a>
  | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
 藏字石</a>
@@ -348,6 +348,20 @@
   <tr>
 <td width="742">
 <h3>
+<a href="/gb/20/8/28/n12365016.md#1" target="_blank">
+成龙北京豪宅被拍卖 入住13年突遭查封</a>
+<br>
+</h3>
+<a href="/gb/20/8/28/n12365016.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/02/chenglong-150x120.jpg" align ="left">
+</a>
+8月28日，有大陆网友爆料称，成龙在北京东城区东直门内大街的豪宅正在拍卖。网上资料显示，位于9号院2号楼的1001室和1002室的面积共1,217.5平方米，起拍价7,190万元（人民币，下同）。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月29日 6:48 AM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
 <a href="/gb/20/8/25/n12355810.md#1" target="_blank">
 分析：台港存款余额创新低 人民币不值钱</a>
 <br>
@@ -372,20 +386,6 @@
 台湾网络名人、“馆长”陈之汉8月28日凌晨2时许遭人开3枪影片曝光。前时代力量立委黄国昌在脸书表示，此次案情并不单纯，枪击案绝非如媒体报导的只是警告。......<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
  2020年08月28日 4:02 PM			</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/28/n12365016.md#1" target="_blank">
-成龙北京豪宅被拍卖 入住13年突遭查封</a>
-<br>
-</h3>
-<a href="/gb/20/8/28/n12365016.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/02/chenglong-150x120.jpg" align ="left">
-</a>
-8月28日，有大陆网友爆料称，成龙在北京东城区东直门内大街的豪宅正在拍卖。网上资料显示，位于9号院2号楼的1001室和1002室的面积共1,217.5平方米，起拍价7,190万元（人民币，下同）。......<br>
-<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月29日 6:48 AM			</td>
 </tr>
   <tr>
 <td width="742">
@@ -684,6 +684,20 @@
   <tr>
 <td width="742">
 <h3>
+<a href="/gb/20/8/28/n12365225.md#1" target="_blank">
+美认定中化集团等11中企为中共军方企业</a>
+<br>
+</h3>
+<a href="/gb/20/8/28/n12365225.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2013/05/1010201428232208-150x120.jpg" align ="left">
+</a>
+川普（特朗普）政府周五（8月28日）指定另外11家中企为中共军方拥有或控制企业，为美政府的新制裁奠定基础。这份由国防部公布的名单包括中化集团和中国建筑巨头“中交建”。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月29日 6:18 AM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
 <a href="/gb/20/8/27/n12360857.md#1" target="_blank">
 李克强接连缺席两个重要场合 引外界关注</a>
 <br>
@@ -691,17 +705,6 @@
 近日，中共总理李克强接连缺席两个重要场合，引外界关注。    8月24日下午，习近平在中南海主持举行经济社会领域专家座谈会。习近平在会上承认中国的社会经济存在六大问题。习近平的九名最高级别的经济智囊在这场座谈上会曝光，不过，李克强没有列席。    8月26日，中共警察警旗授旗仪式在人民大会堂举行。习近平向警察队伍授旗并.........<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
  2020年08月27日 3:11 PM			</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/27/n12360599.md#1" target="_blank">
-杜绝粮食浪费？ 北京媒体暗访餐厅报导翻车</a>
-<br>
-</h3>
-最近，习近平下令“制止餐饮浪费行为”，之后中共各级政府掀起一场新的全国性所谓“杜绝粮食浪费”运动，各地出现大量奇葩操作，如N-1、N-2点餐模式等。日前，一篇陆媒的相关报道严重翻车。......<br>
-<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月27日 2:24 PM			</td>
 </tr>
   <tr>
 <td width="742">
