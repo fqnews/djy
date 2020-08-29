@@ -44,23 +44,23 @@
 <p>
 <a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
 大纪元</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/d513d" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/q513r" target="_blank">
 动态网</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/m12d" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/s12m" target="_blank">
 无界</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/q8z" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/a8p" target="_blank">
 退党</a>
  | <a href="https://git.io/fjHpT" target="_blank">
 网门</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/c4l" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/q4d" target="_blank">
 神韵</a>
  | <a href="https://git.io/fjHpI" target="_blank">
 新纪元</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/g11c" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/y11i" target="_blank">
 看中国</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/h3t" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/e3d" target="_blank">
 明慧网</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/b9h" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/r9v" target="_blank">
 希望之声</a>
  | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
 无罪辩护</a>
@@ -78,13 +78,13 @@
 亚太台</a>
  | <a href="https://git.io/fjHpG" target="_blank">
 直播</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/l12s" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/e12f" target="_blank">
 圣缘</a>
  | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
 伪火</a>
  | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
 九评</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/b10o" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/j10l" target="_blank">
 正见网</a>
  | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
 藏字石</a>
@@ -320,6 +320,34 @@
   <tr>
 <td width="742">
 <h3>
+<a href="/gb/20/8/29/n12365878.md#1" target="_blank">
+高雄突来大雨邮差先保护信件 网友：辛苦了！</a>
+<br>
+</h3>
+<a href="/gb/20/8/29/n12365878.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/0-150x120.jpg" align ="left">
+</a>
+台湾近日因西南气流，中南部连续多天豪雨，一名网友分享高雄突然下起大雨，但送信的邮差没有先穿雨衣，反而先替信件遮盖雨棚。邮差淋得全身湿的照片感动上万名网友，直呼“敬业精神，邮差先生辛苦了”。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月29日 3:23 PM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/29/n12365952.md#1" target="_blank">
+佳月：川普的哪些政策使非裔社区受益</a>
+<br>
+</h3>
+<a href="/gb/20/8/29/n12365952.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/000_1WT3AG-600x400-2-150x120.jpg" align ="left">
+</a>
+从2016年川普竞选总统开始，民主党与左派就用了先下手为强的手法，给川普扣上了一顶“种族歧视”的帽子。有了这顶帽子戴在头上，不管川普说什么，都是错的。在大陆生活过的中国人看到这种现象不应该奇怪，在中国大陆，被扣上帽子的人千千万万-“地主”，“富农”，“反革命”，“右派”，……数不胜数。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月29日 3:21 PM			</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
 <a href="/gb/20/8/29/n12365917.md#1" target="_blank">
 馆长枪伤 医院：恢复良好已可边换药边开玩笑</a>
 <br>
@@ -509,7 +537,7 @@ Heritage Bank共襄义举 捐赠森林湖学童书包</a>
 <a href="/gb/20/8/29/n12365590.md#1" target="_blank">
 <img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/GettyImages-1266433879-150x120.jpg" align ="left">
 </a>
-8月29日全球中共病毒（武汉肺炎）疫情最新情况：    中共肺炎全球疫情及美国疫情大数据请点击这里。  要点：  美国出现首起重复感染病例  美国确诊数破590万  墨西哥增逾5800例 总统驱散支持者  巴西增逾4.3万例 里约热内卢州长遭贪腐调查  FDA将瑞德西韦紧急授权 扩展至所有住院患者   加州本次重新开放.........<br>
+8月29日全球中共病毒（武汉肺炎）疫情最新情况：    中共肺炎全球疫情及美国疫情大数据请点击这里。  要点：  印度国会一名议员染疫病逝  美国出现首起重复感染病例  美国确诊数破590万  墨西哥增逾5800例 总统驱散支持者  巴西增逾4.3万例 里约热内卢州长遭贪腐调查  FDA将瑞德西韦紧急授权 扩展至所有住.........<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
  2020年08月29日 1:19 PM			</td>
 </tr>
@@ -7950,30 +7978,13 @@ CZU大火烧毁圣塔克鲁兹至少527幢建筑</a>
   <tr>
 <td width="742">
 <h3>
-<a href="/gb/20/8/26/n12359705.md#1" target="_blank">
-【时事纵横】新疆封区民吼 蓬佩奥：唯川普能抗共</a>
+<a href="/gb/20/8/29/n12365964.md#1" target="_blank">
+山西一饭店坍塌 已致2人亡10被埋</a>
 <br>
 </h3>
-<a href="/gb/20/8/26/n12359705.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/download-76-150x120.jpg" align ="left">
-</a>
-乌鲁木齐小区长时间封锁，居民憋得慌，有人在楼上开窗户高喊，发泄郁闷心情；多位居民反映，当局强迫居民每天三次吃药，不吃会被上报；各式粗暴封门方式网上曝光。搬起石头砸自己的脚？大陆网友不用翻墙就能了解蓬佩奥讲话精髓。党媒喉舌再把蓬佩奥当“标靶”，用三万字、三个整版反驳，评论区翻车，直言蓬佩奥讲话“击中了要害！”美国国务卿蓬.........<br>
+8月29日上午9时40分许，山西临汾市襄汾县一栋两层饭店突然发生坍塌，已致2人遇难，仍有约10人被埋。......<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月27日 7:18 AM			</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/26/n12360000.md#1" target="_blank">
-警方悬赏抓“黑命贵”抗议中的纵火嫌犯</a>
-<br>
-</h3>
-<a href="/gb/20/8/26/n12360000.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/GettyImages-1235311796-150x120.jpg" align ="left">
-</a>
-从5月底开始由弗洛伊德（George Floyd）之死在洛杉矶地区引发的系列“黑命贵”（BLM）抗议中，有抗议者乘机打砸抢商店、甚至故意纵火。周二（8月25日），酒精烟草武器爆炸物管理局公布了一名女子于5月31日在圣莫妮卡几家商户纵火的视频，悬赏5000美元抓捕该嫌犯。    https://youtu.be/TRLk.........<br>
-<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月27日 7:16 AM			</td>
+ 2020年08月29日 3:23 PM			</td>
 </tr>
   <tr>
 <td width="742">

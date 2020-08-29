@@ -44,23 +44,23 @@
 <p>
 <a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
 大纪元</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/o513s" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/v513b" target="_blank">
 动态网</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/m12n" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/w12g" target="_blank">
 无界</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/h8d" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/q8k" target="_blank">
 退党</a>
  | <a href="https://git.io/fjHpT" target="_blank">
 网门</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/r4d" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/x4m" target="_blank">
 神韵</a>
  | <a href="https://git.io/fjHpI" target="_blank">
 新纪元</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/w11p" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/q11j" target="_blank">
 看中国</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/a3r" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/c3u" target="_blank">
 明慧网</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/h9a" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/d9i" target="_blank">
 希望之声</a>
  | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
 无罪辩护</a>
@@ -78,13 +78,13 @@
 亚太台</a>
  | <a href="https://git.io/fjHpG" target="_blank">
 直播</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/t12e" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/z12v" target="_blank">
 圣缘</a>
  | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
 伪火</a>
  | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
 九评</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/s10b" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/o10f" target="_blank">
 正见网</a>
  | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
 藏字石</a>
@@ -306,14 +306,28 @@
   <tr>
 <td width="742">
 <h3>
+<a href="/gb/20/8/29/n12365917.md#1" target="_blank">
+<img width="250" src="https://i.epochtimes.com/assets/uploads/2019/07/bb8cfd8d31d635461deec9248e2e0a8e-600x400.jpg" align ="left">
+</a>
+<a href="/gb/20/8/29/n12365917.md#1" target="_blank">
+馆长枪伤 医院：恢复良好已可边换药边开玩笑</a>
+<br>
+</h3>
+台湾网络名人、“馆长”陈之汉8月28日凌晨遭枪击受伤。林口长庚医院表示，陈之汉今天（29日）换药时已......<br>
+<img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
+08月29日</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
 <a href="/gb/20/8/29/n12365773.md#1" target="_blank">
-<img width="250" src="https://i.epochtimes.com/assets/uploads/2020/08/2008290026232378-600x400.jpg" align ="left">
+<img width="250" src="https://i.epochtimes.com/assets/uploads/2020/08/2008290026232378-320x200.jpg" align ="left">
 </a>
 <a href="/gb/20/8/29/n12365773.md#1" target="_blank">
 台湾馆长枪击案 法院裁定凶嫌羁押禁见</a>
 <br>
 </h3>
-台湾网络名人、“馆长”陈之汉枪击案，涉嫌行凶被告刘嫌8月28日晚间遭检方声请羁押。新北地院表示，被告......<br>
+台湾网络名人、“馆长”陈之汉枪击案，涉嫌行凶被告刘嫌8月28日晚间......<br>
 <img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
 08月29日</td>
 </tr>
@@ -706,20 +720,6 @@
 <br>
 </h3>
 台湾网络名人、“馆长”陈之汉8月28日凌晨2时左右遭人开3枪。案发......<br>
-<img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
-08月28日</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/28/n12362990.md#1" target="_blank">
-<img width="250" src="https://i.epochtimes.com/assets/uploads/2018/12/1808231139272378-320x200.jpg" align ="left">
-</a>
-<a href="/gb/20/8/28/n12362990.md#1" target="_blank">
-投资环境风险排名 台湾续居世界第3亚洲第1</a>
-<br>
-</h3>
-中华民国经济部8月27日表示，根据美国商业环境风险评估公司（BER......<br>
 <img align="bottom" src="https://raw.githubusercontent.com/vxfjyj3317/www/master/t/ntdtv/time.gif">
 08月28日</td>
 </tr>

@@ -39,27 +39,27 @@
 <tr>
 <td colspan="2" valign=TOP>
 <p>
- <a href="https://tt6.jugd53.ml/bajbpw/c513f" target="_blank">
+ <a href="https://tt6.jugd53.ml/cwemlsd/e513c" target="_blank">
 动态网</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/p11i" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/m11a" target="_blank">
 看中国</a>
  | <a href="https://git.io/fjHpI" target="_blank">
 新纪元</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/e12c" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/p12k" target="_blank">
 无界</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/u8g" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/f8v" target="_blank">
 退党</a>
  | <a href="https://git.io/fjHpT" target="_blank">
 网门</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/a4e" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/y4g" target="_blank">
 神韵</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/k12j" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/y12o" target="_blank">
 圣缘</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/b3z" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/d3b" target="_blank">
 明慧网</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/j10z" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/q10h" target="_blank">
 正见网</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/f9a" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/x9l" target="_blank">
 希望之声</a>
  | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
 无罪辩护</a>

@@ -44,23 +44,23 @@
 <p>
 <a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
 大纪元</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/p513x" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/m513d" target="_blank">
 动态网</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/l12b" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/h12a" target="_blank">
 无界</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/x8g" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/l8h" target="_blank">
 退党</a>
  | <a href="https://git.io/fjHpT" target="_blank">
 网门</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/r4p" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/n4n" target="_blank">
 神韵</a>
  | <a href="https://git.io/fjHpI" target="_blank">
 新纪元</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/m11k" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/n11p" target="_blank">
 看中国</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/z3n" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/u3n" target="_blank">
 明慧网</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/b9d" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/a9l" target="_blank">
 希望之声</a>
  | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
 无罪辩护</a>
@@ -78,13 +78,13 @@
 亚太台</a>
  | <a href="https://git.io/fjHpG" target="_blank">
 直播</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/p12e" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/p12m" target="_blank">
 圣缘</a>
  | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
 伪火</a>
  | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
 九评</a>
- | <a href="https://tt6.jugd53.ml/bajbpw/g10k" target="_blank">
+ | <a href="https://tt6.jugd53.ml/cwemlsd/s10r" target="_blank">
 正见网</a>
  | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
 藏字石</a>
@@ -316,6 +316,20 @@
 中共向南海发射东风中程导弹，正中美军下怀，成为中共军事应对的一大败笔。中共过早掀开了底牌，暴露了军事实力，更激怒了周边国家。  中共军队太早露底牌  高手过招，先是试探，然后逐渐酣斗，关键时刻才会亮出绝招或杀手锏。美中军事对峙，仍然在相互试探阶段，还没有真正交手，中共军队就亮出了杀手锏。    东风中程导弹，几乎是中共.........<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
  2020年08月29日 7:40 AM	</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/29/n12365952.md#1" target="_blank">
+佳月：川普的哪些政策使非裔社区受益</a>
+<br>
+</h3>
+<a href="/gb/20/8/29/n12365952.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/000_1WT3AG-600x400-2-150x120.jpg" align ="left">
+</a>
+从2016年川普竞选总统开始，民主党与左派就用了先下手为强的手法，给川普扣上了一顶“种族歧视”的帽子。有了这顶帽子戴在头上，不管川普说什么，都是错的。在大陆生活过的中国人看到这种现象不应该奇怪，在中国大陆，被扣上帽子的人千千万万-“地主”，“富农”，“反革命”，“右派”，……数不胜数。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年08月29日 3:21 PM			</td>
 </tr>
   <tr>
 <td width="742">
@@ -638,20 +652,6 @@
 美国之音《时事大家谈》节目的主持人林枫先生，日前约谈中共最近面临的困境，和拟议中的“十四五规划”。说来滑稽，中共政权面临彻底的崩溃和解体，自顾不暇，上上下下都在逃命、保命、亡命的计划之中，还在奢谈什么第十四个“五年计划”，还要粉饰太平、装点岁月静好。这可能会继续愚弄那些还相信中共鬼话的人们，但中共红色政权一旦垮台，被愚.........<br>
 <img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
  2020年08月28日 3:16 AM			</td>
-</tr>
-  <tr>
-<td width="742">
-<h3>
-<a href="/gb/20/8/27/n12361331.md#1" target="_blank">
-【名家专栏】美国政府对中共恶意软件宣战</a>
-<br>
-</h3>
-<a href="/gb/20/8/27/n12361331.md#1" target="_blank">
-<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/12/019-12-05.08-150x120.jpg" align ="left">
-</a>
-华为的设备还不错，但美国司法部认为华为的电信系统及其商业运作掩盖了一个险恶的目的：他们不仅帮助、并且实际参与了北京当局的全球间谍活动。华为员工已经承认，该公司的硬件可以拦截中国大陆和全球的通讯。美国政府也已确认，华为数据库中保存着与华为业务无关的外国人员、电话记录和个人财产多方面的信息。......<br>
-<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
- 2020年08月28日 3:14 AM			</td>
 </tr>
   <tr>
 <td width="742">
