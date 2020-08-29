@@ -1,1 +1,764 @@
-<a name="1" id="1" target="_blank">\n&nbsp;</a>\n <span id="1">\n&nbsp;</span>\n<table align=center border="0">\n<tr>\n<td colspan="2" valign=TOP>\n<a href="/gb/nf1351518.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/1.jpg" title="大纪元">\n</a>\n<a href="/gb/n24hr.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/3.jpg" title="国际新闻">\n</a>\n<a href="/gb/nf1351518.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/4.jpg" title="大陆新闻">\n</a>\n<a href="/gb/news392.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/5.jpg" title="评论">\n</a>\n<a href="/gb/news2007.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/6.jpg" title="文化">\n</a>\n<a href="/gb/news2008.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/7.jpg" title="生活">\n</a>\n<a href="/gb/ncyule.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/8.jpg" title="娱乐">\n</a>\n<a href="/gb/nsc1002.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/9.jpg" title="健康">\n<a href="/gb/nf6092.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/10a.jpg" title="独家">\n</a>\n<a href="/gb/nf4514.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/11.jpg" title="头条">\n</a>\n<a href="/gb/zt.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/13.jpg" title="专题">\n</a>\n</td>\n</tr>\n<tr>\n<td colspan="2" valign=TOP>\n<p>\n<a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">\n大纪元</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/c513x" target="_blank">\n动态网</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/c12p" target="_blank">\n无界</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/p8c" target="_blank">\n退党</a>\n | <a href="https://git.io/fjHpT" target="_blank">\n网门</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/c4p" target="_blank">\n神韵</a>\n | <a href="https://git.io/fjHpI" target="_blank">\n新纪元</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/u11j" target="_blank">\n看中国</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/t3x" target="_blank">\n明慧网</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/c9a" target="_blank">\n希望之声</a>\n | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">\n无罪辩护</a>\n |  <a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">\n终级目的</a>\n | <a href="https://gitlab.com/szzdlab/w5/raw/master/5N.8.mp4" target="_blank">\n活摘调查</a>\n |<a href="https://gitlab.com/szzdlab/w5/raw/master/mtdwh.mp4" target="_blank">\n漫谈党文化</a>\n</p>\n<p>\n <a href="https://github.com/fqnews/ntdtv/blob/master/gb/prog204.md#1" target="_blank">\n新唐人</a>\n | <a href="https://git.io/JervF" target="_blank">\n亚太台</a>\n | <a href="https://git.io/fjHpG" target="_blank">\n直播</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/j12j" target="_blank">\n圣缘</a>\n | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">\n伪火</a>\n | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">\n九评</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/f10v" target="_blank">\n正见网</a>\n | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">\n藏字石</a>\n | <a href="https://gitlab.com/szzdlab/w5/raw/master/szt.mp4" target="_blank">\n寻正道</a>\n | <a href="https://gitlab.com/szzdlab/w5/raw/master/wm.mp4" target="_blank">\n告诉未来</a>\n |  <a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">\n未来神话</a>\n | <a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">\n清华学子</a>\n | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">\n红朝阴谋</a>\n |<a href="https://gitlab.com/szzdlab/w5/raw/master/fy.mp4" target="_blank">\n风雨天地行</a>\n</p>\n</td>\n</tr>\n<tr>\n<td width="742">\n<h3>\n<p>\n<strong>\n缤纷人物</strong>\n</p>\n</h3>\n</td>\n<td valign=TOP rowspan=50>\n<a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-11-4/SY-Classical-Chinese-Dance-Technique-Collection-2018.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gudianwu.jpg" title="神韵古典舞技巧表演" alt="神韵古典舞技巧表演">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/9ping.jpg" title="九评共产党" alt="九评共产党">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/communism.jpg" title="共产主义终极目的" alt="共产主义终极目的">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-11-12/zf-dsp-1128.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weihuo.jpg" title="中共的伪火骗局" alt="中共的伪火骗局">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-6-1/st5-29.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/changzhi.jpg" title="古今奇观-藏字石" alt="古今奇观-藏字石">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/3-JTT_CN_MH-360p.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/tianan.jpg" title="通往天安门的旅程" alt="通往天安门的旅程">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weilai.jpg" title="未来人的神话" alt="未来人的神话">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ji-zy.jpg" title="中共罪恶的活摘" alt="中共罪恶的活摘">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w5/raw/master/tzrs.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/huozhai.jpg" title="铁证如山" alt="铁证如山">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/er3n_3VVJ.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/4ke.jpg" title="一家四口死于中共暴政" alt="一家四口死于中共暴政">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/XmL0_0XDL2p.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jie-di.jpg" title="─弟妹相继死于中共迫害" alt="─弟妹相继死于中共迫害">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w2/raw/master/rs/NG8l.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ma-sj.jpg" title="她们许多已经被中共迫害至死" alt="她们许多已经被中共迫害至死">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/wt6Y_vPhM.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/shuan-cxl.jpg" title="双城血泪" alt="双城血泪">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/wu-zbh.jpg" title="震撼人心的无罪辩护" alt="震撼人心的无罪辩护">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/vG2w_fwq.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/6c10-720.jpg" title="从610到720" alt="从610到720">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/O2jN_uD.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/xian-z.jpg" title="中共官员的选择" alt="中共官员的选择">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-12-14/1400forge-1210.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/1400l.jpg" title="剖析1400例" alt="剖析1400例">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/C1WZ_mj.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/425.jpg" title="万人上访真相" alt="万人上访真相">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/qing-h.jpg" title="被中共迫害的清华学子" alt="被中共迫害的清华学子">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/JZ5e_5Vusp.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jian-z513.jpg" title="见证513" alt="见证513">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w2/raw/master/lyp/0iY.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gongfu.jpg" title="功夫 寻道" alt="功夫 寻道">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-2-21/guanguimin.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/guangguimian.jpg" title="歌唱家人生奇迹" alt="歌唱家人生奇迹">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/m1/raw/master/mjjy.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-jjy.jpg" title="名校精英的选择" alt="名校精英的选择">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/c4rB_QQbr.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/yin-lj.jpg" title="音乐之家的故事" alt="音乐之家的故事">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/O23c_E.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-hsf.jpg" title="平凡中的不平凡" alt="平凡中的不平凡">\n</a>\n<br>\n<a href="https://github.com/byeujs321/www/blob/master/README.md?dfh#9" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yong-h.jpg" title="永恒的见证"  alt="永恒的见证">\n</a>\n<br>\n<a href="/gb/13/9/29/n3974789.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/shang-lnz.jpg" title="善良女子被中共投男牢"  alt="善良女子被中共投男牢">\n</a>\n<br>\n<a href="/gb/16/3/16/n4663449.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z3.jpg" title="警卫目击中共活摘"  alt="警卫目击中共活摘">\n</a>\n<br>\n<a href="/gb/16/8/7/n8177641.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z4.jpg" title="证人描述活摘恐怖"  alt="证人描述活摘恐怖">\n</a>\n<br>\n<a href="/gb/10/4/19/n2881569.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z1.jpg" title="揭开活摘器官黑幕"  alt="揭开活摘器官黑幕">\n</a>\n<br>\n<a href="/gb/10/11/7/n3077476.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/ma-ks.jpg" title="马克思的成魔之路"  alt="马克思的成魔之路">\n</a>\n<br>\n<a href="/gb/18/5/10/n10381511.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/st1.jpg" title="关注3亿人三退"  alt="关注3亿人三退">\n</a>\n<br>\n<a href="/gb/18/3/21/n10237682.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jie-t.jpg" title="解体中共复兴中华"  alt="解体中共复兴中华">\n</a>\n<br>\n<a href="/gb/9/2/9/n2422991.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/gao-zs.jpg" title="中共迫害良心律师"  alt="中共迫害良心律师">\n</a>\n<br>\n<a href="/gb/18/12/9/n10900044.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj1.jpg" title="303万人举报江泽民"  alt="303万人举报江泽民">\n</a>\n<br>\n<a href="/gb/18/8/28/n10672014.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj2.jpg" title="这些官员为何起诉江泽民"  alt="这些官员为何起诉江泽民">\n</a>\n<br>\n<a href="/gb/8/12/18/n2367165.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/liangan.jpg" title="海峡两岸的强烈反差"  alt="海峡两岸的强烈反差">\n</a>\n<br>\n<a href="/gb/15/12/10/n4593139.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jia-ndzl.jpg" title="加拿大总理的贺信"  alt="加拿大总理的贺信">\n</a>\n<br>\n<a href="/gb/11/6/17/n3289382.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xiao-wd.jpg" title="探寻真相兼听则明"  alt="探寻真相兼听则明">\n</a>\n<br>\n<a href="/gb/18/10/27/n10812623.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yindu.jpg" title="印度媒体报道东方"  alt="印度媒体报道东方">\n</a>\n<br>\n<a href="/gb/18/6/9/n10469652.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xie-j.jpg" title="不一样的海外校园"  alt="不一样的海外校园">\n</a>\n<br>\n<a href="/gb/7/4/5/n1669415.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/li-up.jpg" title="从大师到徒弟的传奇"  alt="从大师到徒弟的传奇">\n</a>\n<br>\n<a href="/gb/17/5/26/n9191512.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl2.jpg" title="亿万人与东方一本奇书"  alt="亿万人与东方一本奇书">\n</a>\n<br>\n<a href="/gb/13/11/27/n4020290.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zhen-h.jpg" title="大陆见不到的震撼场面"  alt="大陆见不到的震撼场面">\n</a>\n<br>\n<a href="/gb/15/7/17/n4482910.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/dalu-sk.jpg" title="人心向善 大陆当初盛况"  alt="人心向善 大陆当初盛况">\n</a>\n<br>\n<a href="/gb/19/1/5/n10955468.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl1.jpg" title="追寻真理 这书讲什么"  alt="追寻真理 这书讲什么">\n</a>\n<br>\n<a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/fq1.jpg" title="下载免费翻墙软件"  alt="下载免费翻墙软件">\n</a>\n<br>\n</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/11/n12322329.md#1" target="_blank">\n发明卡拉OK的日本人 为何不申请专利？</a>\n<br>\n</h3>\n<a href="/gb/20/8/11/n12322329.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/video-4647668_1920-150x120.jpg" align ="left">\n</a>\n卡拉OK问世已有半个世纪的时间，它是现今风靡全球的大众休闲娱乐方式之一。如果当年发明卡拉OK的日本人井上大佑（Daisuke Inoue）申请专利的话，他光是去年一年就能赚到1亿美元的权利金。那他为什么不申请专利呢？......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月11日 7:49 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/7/28/n12288658.md#1" target="_blank">\n沉重的“7.20”——神韵艺术家回忆曾经的迫害</a>\n<br>\n</h3>\n<a href="/gb/20/7/28/n12288658.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/07/863893c6ef8924aa942c7a8381d06963-150x120.png" align ="left">\n</a>\n作为一家成立于美国的艺术团，神韵已经成为许多来自中国的杰出艺术家的新家园了，他们曾经因信仰而受到迫害。今天，让我们一起来听听其中两位艺术家，舞蹈编导古缘和琵琶演奏员梁玉的故事。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月28日 4:11 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/6/19/n12198822.md#1" target="_blank">\n43岁身心亮红灯 跑步让他甩掉压力、走出困境</a>\n<br>\n</h3>\n<a href="/gb/20/6/19/n12198822.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/run1_547472389-150x120.jpg" align ="left">\n</a>\n出版近20本书、被誉为“日本美学大师”的松浦弥太郎，在43岁那年因为解决不了的工作压力，陷入困境，身心健康都亮起红灯。谁知，当他开始尝试跑步后，甩掉了疲劳、压力，人生也重启。他坚持跑了九年，最后成书《只要我能跑，没什么不能解决的》分享跑步带来的人生改变。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年6月20日 2:22 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/1/12/n10970916.md#1" target="_blank">\n内在之美——访室内设计师Olena Balakina</a>\n<br>\n</h3>\n<a href="/gb/19/1/12/n10970916.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/01/IMG_4047-150x120.jpg" align ="left">\n</a>\n生长在乌克兰的基辅，Olena Balakina现在是当地一位颇有名气的室内设计师。尽管在这个行业中打拼的时间还不算长，Olena却取得了不俗的成绩。她曾设计过基辅一处名为San Pietro的大型艺术和文化中心，并用其源于文艺复兴的古典美学理念征服了许多人。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年5月30日 5:26 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/5/19/n12120654.md#1" target="_blank">\n英国男子救警察一命 中百万美元乐透</a>\n<br>\n</h3>\n<a href="/gb/20/5/19/n12120654.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/05/GettyImages-613156724-150x120.jpg" align ="left">\n</a>\n英国一名男子上个月对一名心脏病发作的警察进行急救，救了他一命。或许是善有善报，该名男子本月就中了100万英镑（122万美元）的乐透大奖。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年5月19日 5:36 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/5/6/n12087072.md#1" target="_blank">\n募款4千万美元 英百岁翁收到15万张生日贺卡</a>\n<br>\n</h3>\n<a href="/gb/20/5/6/n12087072.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/05/GettyImages-1210097695-150x120.jpg" align ="left">\n</a>\n英国一名100岁的二次大战老兵，上个月在生日前发起一项为医护人员募款的活动，迄今募得4,000万美元。此举获得英国民众的广大回响，纷纷寄生日卡片向他祝贺，其中不乏名人雅士。他总共收到了超过15万张卡片。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年5月6日 5:08 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/5/5/n12083937.md#1" target="_blank">\n美国女童写信给在天堂的小狗 意外收到回信</a>\n<br>\n</h3>\n<a href="/gb/20/5/5/n12083937.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/05/Fotolia_100883204_Subscription_L-150x120.jpg" align ="left">\n</a>\n美国康乃迪克州一名女童在心爱的小狗过世后伤心不已。她因为想念小狗而写信给在天堂的它，没想到收到回信。这让她高兴得露出久违的笑容，也让她知道，它永远会留存在她的心里。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年5月5日 3:26 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/5/4/n12081017.md#1" target="_blank">\n日本便当店行善 儿童购买可等长大后再付钱</a>\n<br>\n</h3>\n<a href="/gb/20/5/4/n12081017.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/05/japan-1743370_1920-150x120.jpg" align ="left">\n</a>\n受这波中共肺炎（武汉肺炎）疫情的影响，很多人收入减少，甚至失业。为了帮助解决人们经济上的负担，日本一家便当店推出新措施，凡是购买便当但手头不宽裕的儿童，可以过一段时间再付钱，甚至等到长大再付也没关系。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年5月4日 1:28 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/4/18/n12041253.md#1" target="_blank">\n渡黑水而来 台湾木匠阿公九死一生的故事</a>\n<br>\n</h3>\n<a href="/gb/20/4/18/n12041253.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/04/4f3d07fe514d17f2d8099ee165119b00-150x120.png" align ="left">\n</a>\n百年前渡黑水来台湾木匠子孙 ，八句《认祖诗》遥心系武汉。先民敬天信神得安生于乱世，现今疫情蔓延之时，人心惶惶何以自求多福？此故事或许值得省思借镜。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年4月22日 9:00 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/4/8/n12012857.md#1" target="_blank">\n口罩戴久耳朵痛？ 加拿大男童的护耳器有解</a>\n<br>\n</h3>\n<a href="/gb/20/4/8/n12012857.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/04/GettyImages-1208821498-150x120.jpg" align ="left">\n</a>\n在当前中共肺炎（武汉肺炎）疫情下，医护人员显得格外辛苦。他们不但要面对感染病毒的风险，而且必须长时间戴着口罩，这不光是会在脸上留下压痕或瘀青，也会导致耳朵疼痛。为此，加拿大一名男童制作了一个小装置，可以缓解他们耳朵疼痛的问题。他甚至还大量生产，并捐赠给各地的医院使用。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年4月8日 10:19 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/4/7/n12010421.md#1" target="_blank">\n疫情下行善 美暖男在超市为30名陌生人付账</a>\n<br>\n</h3>\n<a href="/gb/20/4/7/n12010421.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/04/GettyImages-1213569185-150x120.jpg" align ="left">\n</a>\n在很多人的荷包因为中共肺炎（武汉肺炎）疫情而缩水的情况下，美国维吉尼亚州一名男子在超市里为至少30名陌生人付账，帮助他们度过难关。这个暖心的举动受到众人的喝采。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年4月7日 4:52 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/4/5/n12004356.md#1" target="_blank">\n疫情下纽约房东行善 免收几百名房客的租金</a>\n<br>\n</h3>\n<a href="/gb/20/4/5/n12004356.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/04/GettyImages-88916360-150x120.jpg" align ="left">\n</a>\n受到中共肺炎（武汉肺炎）的冲击，很多人的收入减少，甚至失去工作，进而面临经济上的压力。为此，美国纽约市一名房东特别免除几百名房客一个月的房租，希望能减轻他们的压力。此一善举获得了人们的赞许。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年4月5日 2:09 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/4/3/n11999777.md#1" target="_blank">\n从2020美足之季末盛事─“超级杯”谈起</a>\n<br>\n</h3>\n<a href="/gb/20/4/3/n11999777.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/04/football-3471402_1920-150x120.jpg" align ="left">\n</a>\n美国人惯将世界各国公认，真正用脚去踢的“正牌”Football，名之为Soccer，然后把他国在橄榄球赛（Rugby）中使用的橄榄球，以别树一帜的规则，拿到球场去比划，还硬生生地冠以Football之名。似乎是有点儿“霸道”。为避免中译之混淆，我选择使用“美式足球”之名，就在文中简称为“美足”罢。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年4月3日 12:22 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/3/27/n11979165.md#1" target="_blank">\n分送马铃薯给居家隔离者 英国乐透得主获赞</a>\n<br>\n</h3>\n<a href="/gb/20/3/27/n11979165.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/03/Fotolia_53070616_Subscription_L-150x120.jpg" align ="left">\n</a>\n现在世界上有不少人在家里自我隔离，有人甚至为食物发愁。为此，英国一名乐透得主将自己种植的马铃薯分送给有需要的人群，因而赢得了人们的称赞。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年3月27日 2:16 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/2/20/n11882492.md#1" target="_blank">\n印度夫妇买35英亩土地 供野生老虎栖息</a>\n<br>\n</h3>\n<a href="/gb/20/2/20/n11882492.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/02/GettyImages-533406206-150x120.jpg" align ="left">\n</a>\n出自于对大自然和野生动物的喜爱，印度一对夫妇在一个老虎保护区旁购买了几十英亩的土地，让老虎等野生动物有更多生活与繁衍的空间。这个善举激励了其他动物爱好者，成为他们仿效的模范。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年2月20日 3:23 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/2/5/n11845830.md#1" target="_blank">\n纯属意外</a>\n<br>\n</h3>\n<a href="/gb/20/2/5/n11845830.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2015/09/1504281501452483-150x120.jpg" align ="left">\n</a>\n生命之途很难由自己完全掌控，淑华姐回顾自己波涛起伏的大半生，精心、缜密立下的志向，好像一样也没能达成，反倒是意外却接踵而来。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年2月15日 9:00 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/2/5/n11845504.md#1" target="_blank">\n“你可以叫我巴尼度”</a>\n<br>\n</h3>\n<a href="/gb/20/2/5/n11845504.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/02/15f068d7be4af5cc_ttl7dayHPg_Fotolia_42887585_Subscription_L___-150x120.jpg" align ="left">\n</a>\n他是我的老朋友，但我不知他的来历，甚至不知道他的本名，他说叫他“禹海”，现在也可以叫他“巴尼度”，是一位布农婆婆为他取的名字，意思是一株又圆又直的大树。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年2月8日 9:00 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/1/10/n11781469.md#1" target="_blank">\n野火灾情惨重 澳洲青年开车四处救无尾熊</a>\n<br>\n</h3>\n<a href="/gb/20/1/10/n11781469.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/01/GettyImages-1185446524-150x120.jpg" align ="left">\n</a>\n澳洲野火自去年9月延烧至今，已经烧掉相当于韩国那么大的林地，导致5亿只动物死亡，其中包括大量澳洲特有的可爱动物无尾熊。除了澳洲政府致力于灭火之外，当地民众也尽力救灾，其中包括弥迦（Micah）和迦勒（Caleb）这两名年轻男子。他们开车四处搜寻，试图拯救受灾的无尾熊。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年1月10日 1:38 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/1/9/n11778706.md#1" target="_blank">\n澳洲野火肆虐 鳄鱼先生一家救下9万只动物</a>\n<br>\n</h3>\n<a href="/gb/20/1/9/n11778706.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/01/GettyImages-1198156433-1-150x120.jpg" align ="left">\n</a>\n厄文（Steve Irwin）是澳洲著名的环保人士与电视节目主持人，素有“鳄鱼先生”的外号。尽管他已经离开人世，但他的家人继承他的遗志，在本次澳洲野火肆虐期间抢救受灾动物，迄今已超过9万只。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年1月9日 2:05 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/12/30/n11754206.md#1" target="_blank">\n美失窃小狗现身千里外 15人接力开车送回家</a>\n<br>\n</h3>\n<a href="/gb/19/12/30/n11754206.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/12/GettyImages-103200745-150x120.jpg" align ="left">\n</a>\n美国蒙大拿州一只小狗被窃贼偷走，并被带到2,000英里（3,219公里）之外的地方。在动物收容所的号召下，15名志工以接力的方式开车送它回家，让它得以在圣诞佳节之前与主人团聚。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年12月30日 12:50 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/12/28/n11751840.md#1" target="_blank">\n40年守护无数早产儿 医师许琼心：愿为小病人燃烧一生</a>\n<br>\n</h3>\n<a href="/gb/19/12/28/n11751840.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/12/xuqiongxin-1230-150x120.jpg" align ="left">\n</a>\n在马偕儿童医院的新生儿病房和早产儿加护病房之间，有一条长长的甬道，许琼心在这里疾步穿行了四十年。她就这样走入一个个“巴掌仙子”的人生。70岁的许琼心，在台湾儿科被男医师独占的年代，是马偕儿科的第一位女住院医师，也见证了台湾第一个新生儿加护病房的成立。她人生大半的岁月都在救援早产儿中度过。无数个瑟缩在保温箱里、......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年12月30日 12:29 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/12/17/n11727220.md#1" target="_blank">\n美5岁女童义卖饼干 帮123名学童缴午餐费用</a>\n<br>\n</h3>\n<a href="/gb/19/12/17/n11727220.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/12/GettyImages-2763347-150x120.jpg" align ="left">\n</a>\n美国加州一名5岁女童将义卖饼干与饮料的所得捐出，帮负担不起营养午餐的学童缴清费用，一共有123名学童因此而免于捱饿。此一善举获得该女童就读学校的褒奖。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年12月17日 1:18 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/12/16/n11724991.md#1" target="_blank">\n菲女童以绷带缠脚自制Nike运动鞋 赛跑夺冠</a>\n<br>\n</h3>\n<a href="/gb/19/12/16/n11724991.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/12/GettyImages-1181674094-150x120.jpg" align ="left">\n</a>\n菲律宾一名11岁女童以绷带缠脚自制耐吉（Nike）牌运动鞋，并以这双山寨版鞋子赢得赛跑比赛的三项冠军，而她也因此在网上爆红。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年12月16日 1:18 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/12/8/n11707955.md#1" target="_blank">\n美5岁男童出席收养仪式 全班同学到场祝贺</a>\n<br>\n</h3>\n<a href="/gb/19/12/8/n11707955.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/12/Fotolia_51021337_Subscription_L-150x120.jpg" align ="left">\n</a>\n美国密西根州一名5岁男童日前被一对夫妇正式收养。他在幼儿园的全班同学参加他的收养仪式，并向他表达支持与祝福之意，场面温馨感人。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年12月8日 1:33 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/11/26/n11680873.md#1" target="_blank">\n善举无价 澳慈善家为无家可归者购房</a>\n<br>\n</h3>\n<a href="/gb/19/11/26/n11680873.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/Avalcon-Center-150x120.jpg" align ="left">\n</a>\n墨尔本一位富有的女子自上世纪80年代后期以来，一直为无家可归者提供各种帮助。今年她开始为无家可归者购买住房，她表示，房屋有价、善举无价。据《悉尼晨锋报》报导，家住East Malvern的霍尔姆斯（Debbie Holmes）是一位热心公益的慈善家。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年11月29日 4:15 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/11/26/n11681148.md#1" target="_blank">\n花10天走350公里 俄邮差送爱到偏远地区</a>\n<br>\n</h3>\n<a href="/gb/19/11/26/n11681148.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/GettyImages-890942576-150x120.jpg" align ="left">\n</a>\n为了送信到偏远地区，俄罗斯一名邮差花了10天、走了350公里的路。他所递送的显然不光是邮件与包裹，还有满满的爱。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年11月26日 3:19 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/11/14/n11654615.md#1" target="_blank">\n天生无右手 世界唯一的单手钢琴家梦想成真</a>\n<br>\n</h3>\n<a href="/gb/19/11/14/n11654615.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/Fotolia_144598_Subscription_L-150x120.jpg" align ="left">\n</a>\n英国男子麦卡锡（Nicholas McCarthy）在出生时只有左手，没有右手，但他克服了先天的限制，不但进入高等学府学习音乐，也实现了成为钢琴家的梦想。而他也是目前已知在世的唯一一名单手钢琴家。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年11月14日 4:28 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/11/2/n11628263.md#1" target="_blank">\n他，挽救了地毯</a>\n<br>\n</h3>\n<a href="/gb/19/11/2/n11628263.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/Vancouver-Carpet-Jan-Kath-DSC1996-150x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" align ="left">\n</a>\n一名当时只有20岁出头的德国年轻人，却在地毯时代眼见就要终结的时刻，“天真地”接手了一家位于尼泊尔的地毯工厂。但就是这名年轻人，在短短数年内一手扭转了整个地毯业的颓势。他的理念，不仅打造出了一个横跨各大洲的地毯商业王国，而且引发了整个地毯界的“文艺复兴”。他就是Jan Kath，过去25年来全球最传奇的地毯设计师之一。Jan Kath地毯，在柏林、纽约、温哥华、多伦多等全球多个城市有展示厅。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年11月2日 9:24 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/10/22/n11603846.md#1" target="_blank">\n俄9岁男童替宠物作画 换物资捐动物收容所</a>\n<br>\n</h3>\n<a href="/gb/19/10/22/n11603846.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/10/Fotolia_159348450_Subscription_L-150x120.jpg" align ="left">\n</a>\n俄罗斯一名9岁男童以替人们的宠物作画的方式，换取他们提供的物资来捐给动物收容所。他以行动证明，每个人都可以在能力所及的范围内为动物保育尽一份心力。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年10月22日 1:30 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/11/27/n11684729.md#1" target="_blank">\n扫厕所爸“不敢说工作”同事温馨送礼扭转一切</a>\n<br>\n</h3>\n英国摄影师阿卡什（GMB Akash），在他的脸书中分享了1张表情生动的照片，并讲述了其令人动容的父爱故事；相片中的他是一位自认从事卑微工作的平凡爸爸，他努力工作只为了打造女儿们的未来幸福，甚至不敢跟女儿说自己的职业。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年11月29日 11:53 AM									</td>\n</tr>\n  <tr>\n<td>\n<h3>\n<a href="/gb/ncid286.md#1">\n上一页</a>\n&nbsp;&nbsp;1 &nbsp;&nbsp;<a href="/gb/ncid286_2.md#1">\n2</a>\n&nbsp;&nbsp;<a href="/gb/ncid286_3.md#1">\n3</a>\n&nbsp;&nbsp;<a href="/gb/ncid286_4.md#1">\n4</a>\n&nbsp;&nbsp;<a href="/gb/ncid286_5.md#1">\n5</a>\n&nbsp;&nbsp;<a href="/gb/ncid286_6.md#1">\n6</a>\n&nbsp;&nbsp;<a href="/gb/ncid286_7.md#1">\n7</a>\n&nbsp;&nbsp;<a href="/gb/ncid286_8.md#1">\n8</a>\n&nbsp;&nbsp;<a href="/gb/ncid286_9.md#1">\n9</a>\n&nbsp;&nbsp;<a href="/gb/ncid286_10.md#1">\n10</a>\n&nbsp;&nbsp;<a href="/gb/ncid286_2.md#1">\n下一页</a>\n</h3>\n</td>\n</tr>\n  </table>\n<div align="center">\n<h4>\n手机上长按并复制下列链接或二维码分享本文章：</h4>\n/gb/ncid286.md#1<br>\n<a href="/gb/ncid286.md#1">\n<img src="http://www.szzd.org/v.php?action=qrcode&url=/gb/ncid286.md%231" title="分享本文章">\n</a>\n<br>\n原文地址： <a href="https://www.epochtimes.com/gb/ncid286.htm">\nhttps://www.epochtimes.com/gb/ncid286.htm</a>\n    （国内需<a href="https://github.com/bannedbook/fanqiang/wiki">\n下载翻墙软件</a>\n才能访问）</div>\n
+<a name="1" id="1" target="_blank">
+&nbsp;</a>
+ <span id="1">
+&nbsp;</span>
+<table align=center border="0">
+<tr>
+<td colspan="2" valign=TOP>
+<a href="/gb/nf1351518.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/1.jpg" title="大纪元">
+</a>
+<a href="/gb/n24hr.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/3.jpg" title="国际新闻">
+</a>
+<a href="/gb/nf1351518.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/4.jpg" title="大陆新闻">
+</a>
+<a href="/gb/news392.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/5.jpg" title="评论">
+</a>
+<a href="/gb/news2007.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/6.jpg" title="文化">
+</a>
+<a href="/gb/news2008.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/7.jpg" title="生活">
+</a>
+<a href="/gb/ncyule.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/8.jpg" title="娱乐">
+</a>
+<a href="/gb/nsc1002.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/9.jpg" title="健康">
+<a href="/gb/nf6092.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/10a.jpg" title="独家">
+</a>
+<a href="/gb/nf4514.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/11.jpg" title="头条">
+</a>
+<a href="/gb/zt.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/13.jpg" title="专题">
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign=TOP>
+<p>
+<a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
+大纪元</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/c513x" target="_blank">
+动态网</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/c12p" target="_blank">
+无界</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/p8c" target="_blank">
+退党</a>
+ | <a href="https://git.io/fjHpT" target="_blank">
+网门</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/c4p" target="_blank">
+神韵</a>
+ | <a href="https://git.io/fjHpI" target="_blank">
+新纪元</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/u11j" target="_blank">
+看中国</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/t3x" target="_blank">
+明慧网</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/c9a" target="_blank">
+希望之声</a>
+ | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
+无罪辩护</a>
+ |  <a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">
+终级目的</a>
+ | <a href="https://gitlab.com/szzdlab/w5/raw/master/5N.8.mp4" target="_blank">
+活摘调查</a>
+ |<a href="https://gitlab.com/szzdlab/w5/raw/master/mtdwh.mp4" target="_blank">
+漫谈党文化</a>
+</p>
+<p>
+ <a href="https://github.com/fqnews/ntdtv/blob/master/gb/prog204.md#1" target="_blank">
+新唐人</a>
+ | <a href="https://git.io/JervF" target="_blank">
+亚太台</a>
+ | <a href="https://git.io/fjHpG" target="_blank">
+直播</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/j12j" target="_blank">
+圣缘</a>
+ | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
+伪火</a>
+ | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
+九评</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/f10v" target="_blank">
+正见网</a>
+ | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
+藏字石</a>
+ | <a href="https://gitlab.com/szzdlab/w5/raw/master/szt.mp4" target="_blank">
+寻正道</a>
+ | <a href="https://gitlab.com/szzdlab/w5/raw/master/wm.mp4" target="_blank">
+告诉未来</a>
+ |  <a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">
+未来神话</a>
+ | <a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">
+清华学子</a>
+ | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">
+红朝阴谋</a>
+ |<a href="https://gitlab.com/szzdlab/w5/raw/master/fy.mp4" target="_blank">
+风雨天地行</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="742">
+<h3>
+<p>
+<strong>
+缤纷人物</strong>
+</p>
+</h3>
+</td>
+<td valign=TOP rowspan=50>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-11-4/SY-Classical-Chinese-Dance-Technique-Collection-2018.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gudianwu.jpg" title="神韵古典舞技巧表演" alt="神韵古典舞技巧表演">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/9ping.jpg" title="九评共产党" alt="九评共产党">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/communism.jpg" title="共产主义终极目的" alt="共产主义终极目的">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-11-12/zf-dsp-1128.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weihuo.jpg" title="中共的伪火骗局" alt="中共的伪火骗局">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-6-1/st5-29.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/changzhi.jpg" title="古今奇观-藏字石" alt="古今奇观-藏字石">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/3-JTT_CN_MH-360p.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/tianan.jpg" title="通往天安门的旅程" alt="通往天安门的旅程">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weilai.jpg" title="未来人的神话" alt="未来人的神话">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ji-zy.jpg" title="中共罪恶的活摘" alt="中共罪恶的活摘">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/tzrs.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/huozhai.jpg" title="铁证如山" alt="铁证如山">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/er3n_3VVJ.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/4ke.jpg" title="一家四口死于中共暴政" alt="一家四口死于中共暴政">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/XmL0_0XDL2p.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jie-di.jpg" title="─弟妹相继死于中共迫害" alt="─弟妹相继死于中共迫害">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w2/raw/master/rs/NG8l.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ma-sj.jpg" title="她们许多已经被中共迫害至死" alt="她们许多已经被中共迫害至死">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/wt6Y_vPhM.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/shuan-cxl.jpg" title="双城血泪" alt="双城血泪">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/wu-zbh.jpg" title="震撼人心的无罪辩护" alt="震撼人心的无罪辩护">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/vG2w_fwq.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/6c10-720.jpg" title="从610到720" alt="从610到720">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/O2jN_uD.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/xian-z.jpg" title="中共官员的选择" alt="中共官员的选择">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-12-14/1400forge-1210.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/1400l.jpg" title="剖析1400例" alt="剖析1400例">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/C1WZ_mj.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/425.jpg" title="万人上访真相" alt="万人上访真相">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/qing-h.jpg" title="被中共迫害的清华学子" alt="被中共迫害的清华学子">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/JZ5e_5Vusp.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jian-z513.jpg" title="见证513" alt="见证513">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w2/raw/master/lyp/0iY.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gongfu.jpg" title="功夫 寻道" alt="功夫 寻道">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-2-21/guanguimin.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/guangguimian.jpg" title="歌唱家人生奇迹" alt="歌唱家人生奇迹">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/m1/raw/master/mjjy.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-jjy.jpg" title="名校精英的选择" alt="名校精英的选择">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/c4rB_QQbr.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/yin-lj.jpg" title="音乐之家的故事" alt="音乐之家的故事">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/O23c_E.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-hsf.jpg" title="平凡中的不平凡" alt="平凡中的不平凡">
+</a>
+<br>
+<a href="https://github.com/byeujs321/www/blob/master/README.md?dfh#9" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yong-h.jpg" title="永恒的见证"  alt="永恒的见证">
+</a>
+<br>
+<a href="/gb/13/9/29/n3974789.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/shang-lnz.jpg" title="善良女子被中共投男牢"  alt="善良女子被中共投男牢">
+</a>
+<br>
+<a href="/gb/16/3/16/n4663449.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z3.jpg" title="警卫目击中共活摘"  alt="警卫目击中共活摘">
+</a>
+<br>
+<a href="/gb/16/8/7/n8177641.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z4.jpg" title="证人描述活摘恐怖"  alt="证人描述活摘恐怖">
+</a>
+<br>
+<a href="/gb/10/4/19/n2881569.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z1.jpg" title="揭开活摘器官黑幕"  alt="揭开活摘器官黑幕">
+</a>
+<br>
+<a href="/gb/10/11/7/n3077476.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/ma-ks.jpg" title="马克思的成魔之路"  alt="马克思的成魔之路">
+</a>
+<br>
+<a href="/gb/18/5/10/n10381511.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/st1.jpg" title="关注3亿人三退"  alt="关注3亿人三退">
+</a>
+<br>
+<a href="/gb/18/3/21/n10237682.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jie-t.jpg" title="解体中共复兴中华"  alt="解体中共复兴中华">
+</a>
+<br>
+<a href="/gb/9/2/9/n2422991.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/gao-zs.jpg" title="中共迫害良心律师"  alt="中共迫害良心律师">
+</a>
+<br>
+<a href="/gb/18/12/9/n10900044.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj1.jpg" title="303万人举报江泽民"  alt="303万人举报江泽民">
+</a>
+<br>
+<a href="/gb/18/8/28/n10672014.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj2.jpg" title="这些官员为何起诉江泽民"  alt="这些官员为何起诉江泽民">
+</a>
+<br>
+<a href="/gb/8/12/18/n2367165.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/liangan.jpg" title="海峡两岸的强烈反差"  alt="海峡两岸的强烈反差">
+</a>
+<br>
+<a href="/gb/15/12/10/n4593139.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jia-ndzl.jpg" title="加拿大总理的贺信"  alt="加拿大总理的贺信">
+</a>
+<br>
+<a href="/gb/11/6/17/n3289382.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xiao-wd.jpg" title="探寻真相兼听则明"  alt="探寻真相兼听则明">
+</a>
+<br>
+<a href="/gb/18/10/27/n10812623.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yindu.jpg" title="印度媒体报道东方"  alt="印度媒体报道东方">
+</a>
+<br>
+<a href="/gb/18/6/9/n10469652.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xie-j.jpg" title="不一样的海外校园"  alt="不一样的海外校园">
+</a>
+<br>
+<a href="/gb/7/4/5/n1669415.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/li-up.jpg" title="从大师到徒弟的传奇"  alt="从大师到徒弟的传奇">
+</a>
+<br>
+<a href="/gb/17/5/26/n9191512.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl2.jpg" title="亿万人与东方一本奇书"  alt="亿万人与东方一本奇书">
+</a>
+<br>
+<a href="/gb/13/11/27/n4020290.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zhen-h.jpg" title="大陆见不到的震撼场面"  alt="大陆见不到的震撼场面">
+</a>
+<br>
+<a href="/gb/15/7/17/n4482910.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/dalu-sk.jpg" title="人心向善 大陆当初盛况"  alt="人心向善 大陆当初盛况">
+</a>
+<br>
+<a href="/gb/19/1/5/n10955468.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl1.jpg" title="追寻真理 这书讲什么"  alt="追寻真理 这书讲什么">
+</a>
+<br>
+<a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/fq1.jpg" title="下载免费翻墙软件"  alt="下载免费翻墙软件">
+</a>
+<br>
+</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/11/n12322329.md#1" target="_blank">
+发明卡拉OK的日本人 为何不申请专利？</a>
+<br>
+</h3>
+<a href="/gb/20/8/11/n12322329.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/video-4647668_1920-150x120.jpg" align ="left">
+</a>
+卡拉OK问世已有半个世纪的时间，它是现今风靡全球的大众休闲娱乐方式之一。如果当年发明卡拉OK的日本人井上大佑（Daisuke Inoue）申请专利的话，他光是去年一年就能赚到1亿美元的权利金。那他为什么不申请专利呢？......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月11日 7:49 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/7/28/n12288658.md#1" target="_blank">
+沉重的“7.20”——神韵艺术家回忆曾经的迫害</a>
+<br>
+</h3>
+<a href="/gb/20/7/28/n12288658.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/07/863893c6ef8924aa942c7a8381d06963-150x120.png" align ="left">
+</a>
+作为一家成立于美国的艺术团，神韵已经成为许多来自中国的杰出艺术家的新家园了，他们曾经因信仰而受到迫害。今天，让我们一起来听听其中两位艺术家，舞蹈编导古缘和琵琶演奏员梁玉的故事。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月28日 4:11 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/6/19/n12198822.md#1" target="_blank">
+43岁身心亮红灯 跑步让他甩掉压力、走出困境</a>
+<br>
+</h3>
+<a href="/gb/20/6/19/n12198822.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/run1_547472389-150x120.jpg" align ="left">
+</a>
+出版近20本书、被誉为“日本美学大师”的松浦弥太郎，在43岁那年因为解决不了的工作压力，陷入困境，身心健康都亮起红灯。谁知，当他开始尝试跑步后，甩掉了疲劳、压力，人生也重启。他坚持跑了九年，最后成书《只要我能跑，没什么不能解决的》分享跑步带来的人生改变。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年6月20日 2:22 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/1/12/n10970916.md#1" target="_blank">
+内在之美——访室内设计师Olena Balakina</a>
+<br>
+</h3>
+<a href="/gb/19/1/12/n10970916.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/01/IMG_4047-150x120.jpg" align ="left">
+</a>
+生长在乌克兰的基辅，Olena Balakina现在是当地一位颇有名气的室内设计师。尽管在这个行业中打拼的时间还不算长，Olena却取得了不俗的成绩。她曾设计过基辅一处名为San Pietro的大型艺术和文化中心，并用其源于文艺复兴的古典美学理念征服了许多人。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年5月30日 5:26 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/5/19/n12120654.md#1" target="_blank">
+英国男子救警察一命 中百万美元乐透</a>
+<br>
+</h3>
+<a href="/gb/20/5/19/n12120654.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/05/GettyImages-613156724-150x120.jpg" align ="left">
+</a>
+英国一名男子上个月对一名心脏病发作的警察进行急救，救了他一命。或许是善有善报，该名男子本月就中了100万英镑（122万美元）的乐透大奖。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年5月19日 5:36 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/5/6/n12087072.md#1" target="_blank">
+募款4千万美元 英百岁翁收到15万张生日贺卡</a>
+<br>
+</h3>
+<a href="/gb/20/5/6/n12087072.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/05/GettyImages-1210097695-150x120.jpg" align ="left">
+</a>
+英国一名100岁的二次大战老兵，上个月在生日前发起一项为医护人员募款的活动，迄今募得4,000万美元。此举获得英国民众的广大回响，纷纷寄生日卡片向他祝贺，其中不乏名人雅士。他总共收到了超过15万张卡片。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年5月6日 5:08 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/5/5/n12083937.md#1" target="_blank">
+美国女童写信给在天堂的小狗 意外收到回信</a>
+<br>
+</h3>
+<a href="/gb/20/5/5/n12083937.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/05/Fotolia_100883204_Subscription_L-150x120.jpg" align ="left">
+</a>
+美国康乃迪克州一名女童在心爱的小狗过世后伤心不已。她因为想念小狗而写信给在天堂的它，没想到收到回信。这让她高兴得露出久违的笑容，也让她知道，它永远会留存在她的心里。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年5月5日 3:26 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/5/4/n12081017.md#1" target="_blank">
+日本便当店行善 儿童购买可等长大后再付钱</a>
+<br>
+</h3>
+<a href="/gb/20/5/4/n12081017.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/05/japan-1743370_1920-150x120.jpg" align ="left">
+</a>
+受这波中共肺炎（武汉肺炎）疫情的影响，很多人收入减少，甚至失业。为了帮助解决人们经济上的负担，日本一家便当店推出新措施，凡是购买便当但手头不宽裕的儿童，可以过一段时间再付钱，甚至等到长大再付也没关系。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年5月4日 1:28 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/4/18/n12041253.md#1" target="_blank">
+渡黑水而来 台湾木匠阿公九死一生的故事</a>
+<br>
+</h3>
+<a href="/gb/20/4/18/n12041253.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/04/4f3d07fe514d17f2d8099ee165119b00-150x120.png" align ="left">
+</a>
+百年前渡黑水来台湾木匠子孙 ，八句《认祖诗》遥心系武汉。先民敬天信神得安生于乱世，现今疫情蔓延之时，人心惶惶何以自求多福？此故事或许值得省思借镜。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年4月22日 9:00 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/4/8/n12012857.md#1" target="_blank">
+口罩戴久耳朵痛？ 加拿大男童的护耳器有解</a>
+<br>
+</h3>
+<a href="/gb/20/4/8/n12012857.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/04/GettyImages-1208821498-150x120.jpg" align ="left">
+</a>
+在当前中共肺炎（武汉肺炎）疫情下，医护人员显得格外辛苦。他们不但要面对感染病毒的风险，而且必须长时间戴着口罩，这不光是会在脸上留下压痕或瘀青，也会导致耳朵疼痛。为此，加拿大一名男童制作了一个小装置，可以缓解他们耳朵疼痛的问题。他甚至还大量生产，并捐赠给各地的医院使用。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年4月8日 10:19 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/4/7/n12010421.md#1" target="_blank">
+疫情下行善 美暖男在超市为30名陌生人付账</a>
+<br>
+</h3>
+<a href="/gb/20/4/7/n12010421.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/04/GettyImages-1213569185-150x120.jpg" align ="left">
+</a>
+在很多人的荷包因为中共肺炎（武汉肺炎）疫情而缩水的情况下，美国维吉尼亚州一名男子在超市里为至少30名陌生人付账，帮助他们度过难关。这个暖心的举动受到众人的喝采。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年4月7日 4:52 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/4/5/n12004356.md#1" target="_blank">
+疫情下纽约房东行善 免收几百名房客的租金</a>
+<br>
+</h3>
+<a href="/gb/20/4/5/n12004356.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/04/GettyImages-88916360-150x120.jpg" align ="left">
+</a>
+受到中共肺炎（武汉肺炎）的冲击，很多人的收入减少，甚至失去工作，进而面临经济上的压力。为此，美国纽约市一名房东特别免除几百名房客一个月的房租，希望能减轻他们的压力。此一善举获得了人们的赞许。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年4月5日 2:09 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/4/3/n11999777.md#1" target="_blank">
+从2020美足之季末盛事─“超级杯”谈起</a>
+<br>
+</h3>
+<a href="/gb/20/4/3/n11999777.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/04/football-3471402_1920-150x120.jpg" align ="left">
+</a>
+美国人惯将世界各国公认，真正用脚去踢的“正牌”Football，名之为Soccer，然后把他国在橄榄球赛（Rugby）中使用的橄榄球，以别树一帜的规则，拿到球场去比划，还硬生生地冠以Football之名。似乎是有点儿“霸道”。为避免中译之混淆，我选择使用“美式足球”之名，就在文中简称为“美足”罢。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年4月3日 12:22 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/3/27/n11979165.md#1" target="_blank">
+分送马铃薯给居家隔离者 英国乐透得主获赞</a>
+<br>
+</h3>
+<a href="/gb/20/3/27/n11979165.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/03/Fotolia_53070616_Subscription_L-150x120.jpg" align ="left">
+</a>
+现在世界上有不少人在家里自我隔离，有人甚至为食物发愁。为此，英国一名乐透得主将自己种植的马铃薯分送给有需要的人群，因而赢得了人们的称赞。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年3月27日 2:16 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/2/20/n11882492.md#1" target="_blank">
+印度夫妇买35英亩土地 供野生老虎栖息</a>
+<br>
+</h3>
+<a href="/gb/20/2/20/n11882492.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/02/GettyImages-533406206-150x120.jpg" align ="left">
+</a>
+出自于对大自然和野生动物的喜爱，印度一对夫妇在一个老虎保护区旁购买了几十英亩的土地，让老虎等野生动物有更多生活与繁衍的空间。这个善举激励了其他动物爱好者，成为他们仿效的模范。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年2月20日 3:23 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/2/5/n11845830.md#1" target="_blank">
+纯属意外</a>
+<br>
+</h3>
+<a href="/gb/20/2/5/n11845830.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2015/09/1504281501452483-150x120.jpg" align ="left">
+</a>
+生命之途很难由自己完全掌控，淑华姐回顾自己波涛起伏的大半生，精心、缜密立下的志向，好像一样也没能达成，反倒是意外却接踵而来。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年2月15日 9:00 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/2/5/n11845504.md#1" target="_blank">
+“你可以叫我巴尼度”</a>
+<br>
+</h3>
+<a href="/gb/20/2/5/n11845504.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/02/15f068d7be4af5cc_ttl7dayHPg_Fotolia_42887585_Subscription_L___-150x120.jpg" align ="left">
+</a>
+他是我的老朋友，但我不知他的来历，甚至不知道他的本名，他说叫他“禹海”，现在也可以叫他“巴尼度”，是一位布农婆婆为他取的名字，意思是一株又圆又直的大树。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年2月8日 9:00 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/1/10/n11781469.md#1" target="_blank">
+野火灾情惨重 澳洲青年开车四处救无尾熊</a>
+<br>
+</h3>
+<a href="/gb/20/1/10/n11781469.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/01/GettyImages-1185446524-150x120.jpg" align ="left">
+</a>
+澳洲野火自去年9月延烧至今，已经烧掉相当于韩国那么大的林地，导致5亿只动物死亡，其中包括大量澳洲特有的可爱动物无尾熊。除了澳洲政府致力于灭火之外，当地民众也尽力救灾，其中包括弥迦（Micah）和迦勒（Caleb）这两名年轻男子。他们开车四处搜寻，试图拯救受灾的无尾熊。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年1月10日 1:38 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/1/9/n11778706.md#1" target="_blank">
+澳洲野火肆虐 鳄鱼先生一家救下9万只动物</a>
+<br>
+</h3>
+<a href="/gb/20/1/9/n11778706.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/01/GettyImages-1198156433-1-150x120.jpg" align ="left">
+</a>
+厄文（Steve Irwin）是澳洲著名的环保人士与电视节目主持人，素有“鳄鱼先生”的外号。尽管他已经离开人世，但他的家人继承他的遗志，在本次澳洲野火肆虐期间抢救受灾动物，迄今已超过9万只。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年1月9日 2:05 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/12/30/n11754206.md#1" target="_blank">
+美失窃小狗现身千里外 15人接力开车送回家</a>
+<br>
+</h3>
+<a href="/gb/19/12/30/n11754206.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/12/GettyImages-103200745-150x120.jpg" align ="left">
+</a>
+美国蒙大拿州一只小狗被窃贼偷走，并被带到2,000英里（3,219公里）之外的地方。在动物收容所的号召下，15名志工以接力的方式开车送它回家，让它得以在圣诞佳节之前与主人团聚。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年12月30日 12:50 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/12/28/n11751840.md#1" target="_blank">
+40年守护无数早产儿 医师许琼心：愿为小病人燃烧一生</a>
+<br>
+</h3>
+<a href="/gb/19/12/28/n11751840.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/12/xuqiongxin-1230-150x120.jpg" align ="left">
+</a>
+在马偕儿童医院的新生儿病房和早产儿加护病房之间，有一条长长的甬道，许琼心在这里疾步穿行了四十年。她就这样走入一个个“巴掌仙子”的人生。70岁的许琼心，在台湾儿科被男医师独占的年代，是马偕儿科的第一位女住院医师，也见证了台湾第一个新生儿加护病房的成立。她人生大半的岁月都在救援早产儿中度过。无数个瑟缩在保温箱里、......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年12月30日 12:29 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/12/17/n11727220.md#1" target="_blank">
+美5岁女童义卖饼干 帮123名学童缴午餐费用</a>
+<br>
+</h3>
+<a href="/gb/19/12/17/n11727220.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/12/GettyImages-2763347-150x120.jpg" align ="left">
+</a>
+美国加州一名5岁女童将义卖饼干与饮料的所得捐出，帮负担不起营养午餐的学童缴清费用，一共有123名学童因此而免于捱饿。此一善举获得该女童就读学校的褒奖。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年12月17日 1:18 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/12/16/n11724991.md#1" target="_blank">
+菲女童以绷带缠脚自制Nike运动鞋 赛跑夺冠</a>
+<br>
+</h3>
+<a href="/gb/19/12/16/n11724991.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/12/GettyImages-1181674094-150x120.jpg" align ="left">
+</a>
+菲律宾一名11岁女童以绷带缠脚自制耐吉（Nike）牌运动鞋，并以这双山寨版鞋子赢得赛跑比赛的三项冠军，而她也因此在网上爆红。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年12月16日 1:18 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/12/8/n11707955.md#1" target="_blank">
+美5岁男童出席收养仪式 全班同学到场祝贺</a>
+<br>
+</h3>
+<a href="/gb/19/12/8/n11707955.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/12/Fotolia_51021337_Subscription_L-150x120.jpg" align ="left">
+</a>
+美国密西根州一名5岁男童日前被一对夫妇正式收养。他在幼儿园的全班同学参加他的收养仪式，并向他表达支持与祝福之意，场面温馨感人。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年12月8日 1:33 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/11/26/n11680873.md#1" target="_blank">
+善举无价 澳慈善家为无家可归者购房</a>
+<br>
+</h3>
+<a href="/gb/19/11/26/n11680873.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/Avalcon-Center-150x120.jpg" align ="left">
+</a>
+墨尔本一位富有的女子自上世纪80年代后期以来，一直为无家可归者提供各种帮助。今年她开始为无家可归者购买住房，她表示，房屋有价、善举无价。据《悉尼晨锋报》报导，家住East Malvern的霍尔姆斯（Debbie Holmes）是一位热心公益的慈善家。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年11月29日 4:15 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/11/26/n11681148.md#1" target="_blank">
+花10天走350公里 俄邮差送爱到偏远地区</a>
+<br>
+</h3>
+<a href="/gb/19/11/26/n11681148.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/GettyImages-890942576-150x120.jpg" align ="left">
+</a>
+为了送信到偏远地区，俄罗斯一名邮差花了10天、走了350公里的路。他所递送的显然不光是邮件与包裹，还有满满的爱。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年11月26日 3:19 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/11/14/n11654615.md#1" target="_blank">
+天生无右手 世界唯一的单手钢琴家梦想成真</a>
+<br>
+</h3>
+<a href="/gb/19/11/14/n11654615.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/Fotolia_144598_Subscription_L-150x120.jpg" align ="left">
+</a>
+英国男子麦卡锡（Nicholas McCarthy）在出生时只有左手，没有右手，但他克服了先天的限制，不但进入高等学府学习音乐，也实现了成为钢琴家的梦想。而他也是目前已知在世的唯一一名单手钢琴家。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年11月14日 4:28 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/11/2/n11628263.md#1" target="_blank">
+他，挽救了地毯</a>
+<br>
+</h3>
+<a href="/gb/19/11/2/n11628263.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/Vancouver-Carpet-Jan-Kath-DSC1996-150x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" align ="left">
+</a>
+一名当时只有20岁出头的德国年轻人，却在地毯时代眼见就要终结的时刻，“天真地”接手了一家位于尼泊尔的地毯工厂。但就是这名年轻人，在短短数年内一手扭转了整个地毯业的颓势。他的理念，不仅打造出了一个横跨各大洲的地毯商业王国，而且引发了整个地毯界的“文艺复兴”。他就是Jan Kath，过去25年来全球最传奇的地毯设计师之一。Jan Kath地毯，在柏林、纽约、温哥华、多伦多等全球多个城市有展示厅。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年11月2日 9:24 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/10/22/n11603846.md#1" target="_blank">
+俄9岁男童替宠物作画 换物资捐动物收容所</a>
+<br>
+</h3>
+<a href="/gb/19/10/22/n11603846.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/10/Fotolia_159348450_Subscription_L-150x120.jpg" align ="left">
+</a>
+俄罗斯一名9岁男童以替人们的宠物作画的方式，换取他们提供的物资来捐给动物收容所。他以行动证明，每个人都可以在能力所及的范围内为动物保育尽一份心力。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年10月22日 1:30 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/11/27/n11684729.md#1" target="_blank">
+扫厕所爸“不敢说工作”同事温馨送礼扭转一切</a>
+<br>
+</h3>
+英国摄影师阿卡什（GMB Akash），在他的脸书中分享了1张表情生动的照片，并讲述了其令人动容的父爱故事；相片中的他是一位自认从事卑微工作的平凡爸爸，他努力工作只为了打造女儿们的未来幸福，甚至不敢跟女儿说自己的职业。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年11月29日 11:53 AM									</td>
+</tr>
+  <tr>
+<td>
+<h3>
+<a href="/gb/ncid286.md#1">
+上一页</a>
+&nbsp;&nbsp;1 &nbsp;&nbsp;<a href="/gb/ncid286_2.md#1">
+2</a>
+&nbsp;&nbsp;<a href="/gb/ncid286_3.md#1">
+3</a>
+&nbsp;&nbsp;<a href="/gb/ncid286_4.md#1">
+4</a>
+&nbsp;&nbsp;<a href="/gb/ncid286_5.md#1">
+5</a>
+&nbsp;&nbsp;<a href="/gb/ncid286_6.md#1">
+6</a>
+&nbsp;&nbsp;<a href="/gb/ncid286_7.md#1">
+7</a>
+&nbsp;&nbsp;<a href="/gb/ncid286_8.md#1">
+8</a>
+&nbsp;&nbsp;<a href="/gb/ncid286_9.md#1">
+9</a>
+&nbsp;&nbsp;<a href="/gb/ncid286_10.md#1">
+10</a>
+&nbsp;&nbsp;<a href="/gb/ncid286_2.md#1">
+下一页</a>
+</h3>
+</td>
+</tr>
+  </table>
+<div align="center">
+<h4>
+手机上长按并复制下列链接或二维码分享本文章：</h4>
+/gb/ncid286.md#1<br>
+<a href="/gb/ncid286.md#1">
+<img src="http://www.szzd.org/v.php?action=qrcode&url=/gb/ncid286.md%231" title="分享本文章">
+</a>
+<br>
+原文地址： <a href="https://www.epochtimes.com/gb/ncid286.htm">
+https://www.epochtimes.com/gb/ncid286.htm</a>
+    （国内需<a href="https://github.com/bannedbook/fanqiang/wiki">
+下载翻墙软件</a>
+才能访问）</div>

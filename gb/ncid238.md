@@ -1,1 +1,767 @@
-<a name="1" id="1" target="_blank">\n&nbsp;</a>\n <span id="1">\n&nbsp;</span>\n<table align=center border="0">\n<tr>\n<td colspan="2" valign=TOP>\n<a href="/gb/nf1351518.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/1.jpg" title="大纪元">\n</a>\n<a href="/gb/n24hr.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/3.jpg" title="国际新闻">\n</a>\n<a href="/gb/nf1351518.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/4.jpg" title="大陆新闻">\n</a>\n<a href="/gb/news392.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/5.jpg" title="评论">\n</a>\n<a href="/gb/news2007.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/6.jpg" title="文化">\n</a>\n<a href="/gb/news2008.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/7.jpg" title="生活">\n</a>\n<a href="/gb/ncyule.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/8.jpg" title="娱乐">\n</a>\n<a href="/gb/nsc1002.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/9.jpg" title="健康">\n<a href="/gb/nf6092.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/10a.jpg" title="独家">\n</a>\n<a href="/gb/nf4514.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/11.jpg" title="头条">\n</a>\n<a href="/gb/zt.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/13.jpg" title="专题">\n</a>\n</td>\n</tr>\n<tr>\n<td colspan="2" valign=TOP>\n<p>\n<a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">\n大纪元</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/p513q" target="_blank">\n动态网</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/s12f" target="_blank">\n无界</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/t8x" target="_blank">\n退党</a>\n | <a href="https://git.io/fjHpT" target="_blank">\n网门</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/n4g" target="_blank">\n神韵</a>\n | <a href="https://git.io/fjHpI" target="_blank">\n新纪元</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/o11g" target="_blank">\n看中国</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/l3s" target="_blank">\n明慧网</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/i9r" target="_blank">\n希望之声</a>\n | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">\n无罪辩护</a>\n |  <a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">\n终级目的</a>\n | <a href="https://gitlab.com/szzdlab/w5/raw/master/5N.8.mp4" target="_blank">\n活摘调查</a>\n |<a href="https://gitlab.com/szzdlab/w5/raw/master/mtdwh.mp4" target="_blank">\n漫谈党文化</a>\n</p>\n<p>\n <a href="https://github.com/fqnews/ntdtv/blob/master/gb/prog204.md#1" target="_blank">\n新唐人</a>\n | <a href="https://git.io/JervF" target="_blank">\n亚太台</a>\n | <a href="https://git.io/fjHpG" target="_blank">\n直播</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/r12p" target="_blank">\n圣缘</a>\n | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">\n伪火</a>\n | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">\n九评</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/a10j" target="_blank">\n正见网</a>\n | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">\n藏字石</a>\n | <a href="https://gitlab.com/szzdlab/w5/raw/master/szt.mp4" target="_blank">\n寻正道</a>\n | <a href="https://gitlab.com/szzdlab/w5/raw/master/wm.mp4" target="_blank">\n告诉未来</a>\n |  <a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">\n未来神话</a>\n | <a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">\n清华学子</a>\n | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">\n红朝阴谋</a>\n |<a href="https://gitlab.com/szzdlab/w5/raw/master/fy.mp4" target="_blank">\n风雨天地行</a>\n</p>\n</td>\n</tr>\n<tr>\n<td width="742">\n<h3>\n<p>\n<strong>\n中国历代名人</strong>\n</p>\n</h3>\n</td>\n<td valign=TOP rowspan=50>\n<a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-11-4/SY-Classical-Chinese-Dance-Technique-Collection-2018.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gudianwu.jpg" title="神韵古典舞技巧表演" alt="神韵古典舞技巧表演">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/9ping.jpg" title="九评共产党" alt="九评共产党">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/communism.jpg" title="共产主义终极目的" alt="共产主义终极目的">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-11-12/zf-dsp-1128.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weihuo.jpg" title="中共的伪火骗局" alt="中共的伪火骗局">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-6-1/st5-29.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/changzhi.jpg" title="古今奇观-藏字石" alt="古今奇观-藏字石">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/3-JTT_CN_MH-360p.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/tianan.jpg" title="通往天安门的旅程" alt="通往天安门的旅程">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weilai.jpg" title="未来人的神话" alt="未来人的神话">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ji-zy.jpg" title="中共罪恶的活摘" alt="中共罪恶的活摘">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w5/raw/master/tzrs.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/huozhai.jpg" title="铁证如山" alt="铁证如山">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/er3n_3VVJ.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/4ke.jpg" title="一家四口死于中共暴政" alt="一家四口死于中共暴政">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/XmL0_0XDL2p.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jie-di.jpg" title="─弟妹相继死于中共迫害" alt="─弟妹相继死于中共迫害">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w2/raw/master/rs/NG8l.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ma-sj.jpg" title="她们许多已经被中共迫害至死" alt="她们许多已经被中共迫害至死">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/wt6Y_vPhM.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/shuan-cxl.jpg" title="双城血泪" alt="双城血泪">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/wu-zbh.jpg" title="震撼人心的无罪辩护" alt="震撼人心的无罪辩护">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/vG2w_fwq.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/6c10-720.jpg" title="从610到720" alt="从610到720">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/O2jN_uD.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/xian-z.jpg" title="中共官员的选择" alt="中共官员的选择">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-12-14/1400forge-1210.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/1400l.jpg" title="剖析1400例" alt="剖析1400例">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/C1WZ_mj.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/425.jpg" title="万人上访真相" alt="万人上访真相">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/qing-h.jpg" title="被中共迫害的清华学子" alt="被中共迫害的清华学子">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/JZ5e_5Vusp.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jian-z513.jpg" title="见证513" alt="见证513">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w2/raw/master/lyp/0iY.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gongfu.jpg" title="功夫 寻道" alt="功夫 寻道">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-2-21/guanguimin.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/guangguimian.jpg" title="歌唱家人生奇迹" alt="歌唱家人生奇迹">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/m1/raw/master/mjjy.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-jjy.jpg" title="名校精英的选择" alt="名校精英的选择">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/c4rB_QQbr.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/yin-lj.jpg" title="音乐之家的故事" alt="音乐之家的故事">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/O23c_E.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-hsf.jpg" title="平凡中的不平凡" alt="平凡中的不平凡">\n</a>\n<br>\n<a href="https://github.com/byeujs321/www/blob/master/README.md?dfh#9" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yong-h.jpg" title="永恒的见证"  alt="永恒的见证">\n</a>\n<br>\n<a href="/gb/13/9/29/n3974789.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/shang-lnz.jpg" title="善良女子被中共投男牢"  alt="善良女子被中共投男牢">\n</a>\n<br>\n<a href="/gb/16/3/16/n4663449.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z3.jpg" title="警卫目击中共活摘"  alt="警卫目击中共活摘">\n</a>\n<br>\n<a href="/gb/16/8/7/n8177641.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z4.jpg" title="证人描述活摘恐怖"  alt="证人描述活摘恐怖">\n</a>\n<br>\n<a href="/gb/10/4/19/n2881569.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z1.jpg" title="揭开活摘器官黑幕"  alt="揭开活摘器官黑幕">\n</a>\n<br>\n<a href="/gb/10/11/7/n3077476.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/ma-ks.jpg" title="马克思的成魔之路"  alt="马克思的成魔之路">\n</a>\n<br>\n<a href="/gb/18/5/10/n10381511.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/st1.jpg" title="关注3亿人三退"  alt="关注3亿人三退">\n</a>\n<br>\n<a href="/gb/18/3/21/n10237682.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jie-t.jpg" title="解体中共复兴中华"  alt="解体中共复兴中华">\n</a>\n<br>\n<a href="/gb/9/2/9/n2422991.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/gao-zs.jpg" title="中共迫害良心律师"  alt="中共迫害良心律师">\n</a>\n<br>\n<a href="/gb/18/12/9/n10900044.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj1.jpg" title="303万人举报江泽民"  alt="303万人举报江泽民">\n</a>\n<br>\n<a href="/gb/18/8/28/n10672014.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj2.jpg" title="这些官员为何起诉江泽民"  alt="这些官员为何起诉江泽民">\n</a>\n<br>\n<a href="/gb/8/12/18/n2367165.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/liangan.jpg" title="海峡两岸的强烈反差"  alt="海峡两岸的强烈反差">\n</a>\n<br>\n<a href="/gb/15/12/10/n4593139.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jia-ndzl.jpg" title="加拿大总理的贺信"  alt="加拿大总理的贺信">\n</a>\n<br>\n<a href="/gb/11/6/17/n3289382.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xiao-wd.jpg" title="探寻真相兼听则明"  alt="探寻真相兼听则明">\n</a>\n<br>\n<a href="/gb/18/10/27/n10812623.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yindu.jpg" title="印度媒体报道东方"  alt="印度媒体报道东方">\n</a>\n<br>\n<a href="/gb/18/6/9/n10469652.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xie-j.jpg" title="不一样的海外校园"  alt="不一样的海外校园">\n</a>\n<br>\n<a href="/gb/7/4/5/n1669415.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/li-up.jpg" title="从大师到徒弟的传奇"  alt="从大师到徒弟的传奇">\n</a>\n<br>\n<a href="/gb/17/5/26/n9191512.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl2.jpg" title="亿万人与东方一本奇书"  alt="亿万人与东方一本奇书">\n</a>\n<br>\n<a href="/gb/13/11/27/n4020290.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zhen-h.jpg" title="大陆见不到的震撼场面"  alt="大陆见不到的震撼场面">\n</a>\n<br>\n<a href="/gb/15/7/17/n4482910.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/dalu-sk.jpg" title="人心向善 大陆当初盛况"  alt="人心向善 大陆当初盛况">\n</a>\n<br>\n<a href="/gb/19/1/5/n10955468.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl1.jpg" title="追寻真理 这书讲什么"  alt="追寻真理 这书讲什么">\n</a>\n<br>\n<a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/fq1.jpg" title="下载免费翻墙软件"  alt="下载免费翻墙软件">\n</a>\n<br>\n</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/13/n12327382.md#1" target="_blank">\n北虏未灭 何以家为</a>\n<br>\n</h3>\n<a href="/gb/20/8/13/n12327382.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/fiema-150x120.jpg" align ="left">\n</a>\n所谓忠者，至公无私也。当岳飞少年时在照顾寡母与从军报国两难的抉择中犹豫不决时，母亲以刺字的方式给予他宝贵的教诲：精忠报国。精忠，意即不掺私情、一心为民为国的忠诚。如果贪恋朝廷的封赏，想要拥有豪宅田产、美女和财物，那就不能算作精忠了。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月17日 11:14 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/17/n12336909.md#1" target="_blank">\n王昭素品行卓绝 宋太祖受言书屏</a>\n<br>\n</h3>\n<a href="/gb/20/8/17/n12336909.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/shuyanshuping-150x120.jpg" align ="left">\n</a>\n北宋时期，都城开封酸枣县有位叫王昭素的士人，不仅满腹经纶，而且品行卓绝。他博通《九经》，兼研究老庄学说，对《诗经》、《易经》尤为精通。他认为三国魏王弼、东晋韩康伯注释的《易经》及唐代孔颖达、东汉马融的疏义都没有很好地道尽其内涵，所以自己就写了《易论》二十三篇。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月17日 11:11 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/16/n12335448.md#1" target="_blank">\n神秘的中国绝代王后（上）</a>\n<br>\n</h3>\n<a href="/gb/20/8/16/n12335448.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/shutterstock_156157613_1@1200x1200-150x120.jpg" align ="left">\n</a>\n中国有一位神奇的王后，她的事迹好得惊人，她的名字也跟“好”相印。她深得王夫的爱戴与信任，又如诸侯般拥有自己的军队和领地。她是当时最高级的知识精英，她是所向披靡的统帅，她是最早死后有谥号的王后，而正史中却不见只言词组的痕迹。她的墓穿越了3200年风云，以保存完好的古代珍宝震惊世人。于是，她的名号伴随着一段辉煌的文明重见天光。这位女人，后世无人再能凝聚她所有的光芒。说她是世界上无与伦比的王后，一点儿也不为过。她是谁？她就是殷商的伟大君王——武丁的王后“妇好”。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月17日 3:21 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/14/n12331993.md#1" target="_blank">\n【佳人传】袁枚首席女弟子——席佩兰</a>\n<br>\n</h3>\n<a href="/gb/20/8/14/n12331993.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/Chinese-Lady-Xipeilan1-150x120.jpg" align ="left">\n</a>\n明清时期，江南才女如群星闪耀。其中有一位传奇闺秀席氏女，因擅长画兰而以“佩兰”为号。她不仅能教丈夫写诗，双双结为人间诗侣；而且惊世骇俗，成为“乾隆三大家”之首袁枚最推崇的女弟子。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月16日 5:03 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/11/n12323309.md#1" target="_blank">\n保国土还是守承诺？ 东周巴国将军以生命诠释忠义</a>\n<br>\n</h3>\n<a href="/gb/20/8/11/n12323309.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/111201105623100445-600x400-150x120.jpg" align ="left">\n</a>\n清朝人王尔鉴写过一首题为“巴蔓子墓”的诗：穹窿哉，蔓子墓，渝城颠，石封固。多少王侯将相陵寝穴樵儿，独此屹立两江虹势迥盘护。头断头不断，万古须眉宛然见。城许城还存，年年春草青墓门。君不见背弱主，降强主，断主之头献其土。又不见明奉君，暗通邻，求和割地荣其身。惜哉不识蔓子坟。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月14日 4:40 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/6/n12310782.md#1" target="_blank">\n顺天意民心退位让国 隆裕太后获盛赞</a>\n<br>\n</h3>\n<a href="/gb/20/8/6/n12310782.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/2da8fe5a4463a6ed3fea5a218b0cf75a-150x120.jpeg" align ="left">\n</a>\n民国二年，即1913年2月22日，一位在近代历史上留下浓重一笔的女子在北京紫禁城长春宫病逝，终年46岁。她就是清朝最后的皇太后隆裕太后。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月12日 12:54 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/4/n12306901.md#1" target="_blank">\n【佳人传】明清贤媛之冠——商景兰</a>\n<br>\n</h3>\n<a href="/gb/20/8/4/n12306901.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/20200804-jiarenzhuan-Shangjinglan-e1596569005415-150x100.jpg" align ="left">\n</a>\n“天地英灵之气，不钟于世之男子，而钟于妇人。”明清以来，许多文人认同这一论点，重视女子才华，因而这一时期才女大量涌现，才女文学之繁荣，也大大超越以往的朝代。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月8日 7:48 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/5/n12309182.md#1" target="_blank">\n医泽绵长的东海徐氏世医家族</a>\n<br>\n</h3>\n<a href="/gb/20/8/5/n12309182.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2018/08/shutterstock_1035339628-150x120.jpg" align ="left">\n</a>\n上古时代的医者通常是师父寻找有天分的弟子，由其传承医术，到了大约魏晋南北朝时期，世医家族开始出现，即医术由医者家族内部的子弟传承。当时，东海徐家、馆陶李家、高阳许家等均为有名的世医家族，其中影响最大的当属东海徐家。徐家从晋代徐熙起，传至北朝徐之才时已至少六代行医，声名显赫。其后，徐家之医术传承逾千年，直至明代洪武年间的太医院院使徐枢，可以说是医泽绵长了。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月7日 1:37 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/3/n12302282.md#1" target="_blank">\n佛法东传两高僧——摄摩腾与竺法兰</a>\n<br>\n</h3>\n<a href="/gb/20/8/3/n12302282.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/Dharmaratna1-horz-150x120.jpg" align ="left">\n</a>\n永平年间一天夜里，东汉明帝刘庄梦见一位金色神人，头顶有着有如太阳般的白色光环，身高约一丈六尺，从空中飞来，在宫廷里大放光芒。隔天他便召集群臣解梦。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月5日 4:55 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/3/n12304112.md#1" target="_blank">\n麒麟阁功臣榜排名第二 张安世“满而不溢”</a>\n<br>\n</h3>\n<a href="/gb/20/8/3/n12304112.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/1507232217572483-600x400-150x120.jpg" align ="left">\n</a>\n唐代大诗人李白在赞美守疆战士忠君报国的组诗《塞下曲》中有这样两句：“功成画麟阁，独有霍嫖姚。”诗中所言的麒麟阁在汉代未央宫中，因汉武帝元狩年间打猎获得麒麟而命名。公元前51年，汉宣帝因匈奴归降大汉，回忆往昔辅佐汉室的有功之臣，遂令人将十一位功臣的画像置于麒麟阁内，“法其容貌，署其官爵、姓名”，以示纪念和表彰。这十一位功臣是霍光、张安世、韩增、赵充国、魏相、丙吉、杜延年、刘德、梁丘贺、萧望之、苏武。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月4日 2:23 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/6/4/n12162213.md#1" target="_blank">\n【康熙大帝】康熙晚年与雍正嗣位</a>\n<br>\n</h3>\n<a href="/gb/20/6/4/n12162213.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">\n</a>\n皇太子两度废立的风波，是康熙帝晚年时期发生的一件大事。才华出众的几位皇子，主动或被动地卷入了夺嫡之战，酿成了父子恩断、兄弟反目的皇室悲剧。“煮豆持作羹，漉菽以为汁。萁在釜下然，豆在釜中泣。本自同根生，相煎何太急？”曹植当年的“七步诗”，道出了皇子们的真实心声。康熙帝在处理皇权与储君，以及皇子之间的矛盾时，越发体悟到册立太子的弊端。最终，他采取遗诏立储的方式，化解了皇室矛盾，让皇权平稳过渡，盛世得以延续。他的对策，也成了一次创举，开启清王朝秘密建储的先河。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月2日 8:27 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/6/4/n12162122.md#1" target="_blank">\n【康熙大帝】太子废立风波</a>\n<br>\n</h3>\n<a href="/gb/20/6/4/n12162122.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">\n</a>\n清圣祖仁皇帝康熙，一生勤政审慎，在位六十一年开创清初承平盛世，成为历史上唯一集圣、仁于一身的贤明君主。当步入人生的暮年时，他在处理国政之余，一个重要的问题萦绕心头，那就是如何为清王朝选择最合适的继承人。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月31日 7:00 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/7/26/n12284647.md#1" target="_blank">\n【人间云游】诗仙李白一生修行上蓬莱</a>\n<br>\n</h3>\n<a href="/gb/20/7/26/n12284647.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/07/fccd01a23c6e861414e8c0f71a090ccd-150x120.jpg" align ="left">\n</a>\n“谪仙”的冠号，把李白的前世、今生和此生修道返本归真的心路历程都涵盖进去了。在李白的许多诗歌中也一再显现他寻仙境、返本归真的生命追寻。李白一生经历哪些修炼的考验呢？......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月30日 7:49 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/7/25/n12283672.md#1" target="_blank">\n【佳人传】黄氏姐妹的不同人生</a>\n<br>\n</h3>\n<a href="/gb/20/7/25/n12283672.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/07/7d16cdf068c5d6e1e700a3713401478f-e1595879183926-150x100.jpg" align ="left">\n</a>\n西湖之畔，段家桥头，有一处小摊格外引人瞩目。摊位上摆着一幅幅颇具元人笔法的淡墨山水，画作上题着娟秀的小楷——“黄媛介”，摊主恰恰是位布衣荆钗的少妇。一旦赚够一日的生活费，她就匆匆收摊，不肯再作画。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月29日 7:52 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/9/12/8/n2747593.md#1" target="_blank">\n时穷节乃见  为张睢阳齿——张巡</a>\n<br>\n</h3>\n<a href="/gb/9/12/8/n2747593.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/eb9292cc89527d43825c8313ddcc6fa2-150x120.jpg" align ="left">\n</a>\n安史之乱中，张巡挺身而出，率领仅有的数千名将士抵抗十三万叛军，展开了一场惊天地、泣鬼神的睢阳血战。最后虽然由于众寡悬殊，粮尽援绝而失败，但却有力地遏止了叛军南下，保住了大唐半壁江山和江淮丰厚的财源，为大唐王朝反击，赢得了宝贵的时间和物质保障。唐朝大诗人韩愈，在评价这场历史上最惨烈的战役时，就说“无睢阳即无江淮，无睢阳即无大唐”，可见其重要性；而这悲壮的一幕，更使文天祥“骂贼张巡，爱君许远，留取声名万古香”的诗句流传千古。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月27日 5:33 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/7/15/n12258297.md#1" target="_blank">\n【人间云游】大诗人白居易  生生劫劫誓为佛弟子</a>\n<br>\n</h3>\n<a href="/gb/20/7/15/n12258297.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/12/3_Zhu_Haogu_and_Zhang_Boyuan._The_Paradise_of_Maitreya._ca._1320._Royal_Ontario_Museum.-150x120.jpg" align ="left">\n</a>\n中唐最具代表性的诗人之一、也是唐代存世诗歌最多的作家白居易为何生生劫劫誓为弥勒弟子？他歌颂竹之德，和他的人生修行展现怎样的对应关联？......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月25日 7:59 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/7/16/n12261609.md#1" target="_blank">\n【佳人传】既是婆媳、更是知音的蕉园才女</a>\n<br>\n</h3>\n<a href="/gb/20/7/16/n12261609.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Lady-book-cover-150x120.jpg" align ="left">\n</a>\n蕉园诗社的成员，皆是来自书香世家的才女。由于血缘或姻亲的关系，她们时常来往、交际，相同的爱好和品味，又促成她们结社的机缘。她们或是母女、姐妹、密友，更特别的是还有两对婆媳。她们不仅仅是亲人，更因为诗词成为彼此的知音。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月21日 9:19 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/7/20/n12270583.md#1" target="_blank">\n苏东坡前世为和尚 黄庭坚由信佛女子转生</a>\n<br>\n</h3>\n<a href="/gb/20/7/20/n12270583.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2013/10/1310020211411873-150x120.jpg" align ="left">\n</a>\n北宋文学大家辈出，其中堪称“文星旷世，曜耀寰中，千古奇才”的当非苏轼莫属。苏轼，世人又称其为苏东坡，与其父苏洵、弟苏辙合称“三苏”。他一生仕途坎坷，但从不失其抱负和胸襟。他在诗词、书画、散文等方面皆有很高成就，后世流传甚广。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月21日 3:43 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/6/4/n12161729.md#1" target="_blank">\n【康熙大帝】孺慕汉文化 诗文鼎盛</a>\n<br>\n</h3>\n<a href="/gb/20/6/4/n12161729.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">\n</a>\n清朝，作为最后一个传统的中华王朝，在文学史上有着集大成的特点，是古代文学的一个完美总结。在最繁盛的康熙朝，国力的强大、经济的繁荣，也带来了斐然灿烂的文化。热爱儒学与诗文的康熙帝，就像一位开拓者，打开清初文坛的局面，也奠定了整个清朝文学的繁荣。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月19日 7:34 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/7/3/n12229972.md#1" target="_blank">\n苏轼的勇武担当与济世救民</a>\n<br>\n</h3>\n<a href="/gb/20/7/3/n12229972.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/07/2004092123462815-150x120.jpg" align ="left">\n</a>\n苏轼对安民治国之道，曾经直抒胸臆：“国家之所以生存和灭亡的原因，在于道德的高低，不在于国家的强弱；改朝换代之所以有长有短，在于风俗的轻薄敦厚，不在于国家的富有与贫穷。”他的一生辗转流离，但是却守着至真至善的道理从未放弃，用具体的行为来印证，用出世的诗文来阐明，给后人留下了一笔宝贵的精神财富。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月19日 4:28 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/6/4/n12161581.md#1" target="_blank">\n【康熙大帝】恤农惠商 开创承平盛世</a>\n<br>\n</h3>\n<a href="/gb/20/6/4/n12161581.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">\n</a>\n清初，因战乱、圈地、重税等原因，国内耕地荒芜，百姓四散流亡，导致国赋不足、民生困苦。加上康熙帝亲政不久，三藩作乱，这种境况更加严重。自听政以来，康熙帝就非常关心民间疾苦，关注各地农业丰歉情况。有学者统计，康熙朝四十多年来，内外大臣留存下来的奏折中，约有半数包含了气候、粮食收成有关的奏报。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月17日 9:34 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/7/15/n12258506.md#1" target="_blank">\n落花无意恋春华——宋代女词人魏玩</a>\n<br>\n</h3>\n<a href="/gb/20/7/15/n12258506.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/02/7f936b31a0f6cad10da90c81bd283775-150x120.jpg" align ="left">\n</a>\n魏夫人（1040年—1103年）名玩，字玉汝，襄州襄阳（今湖北襄樊）人。魏玩出身世家， 其弟魏泰有《东轩笔录》、《临汉诗话》等著作传世。魏玩为宰相曾布之妻、文学家曾巩的弟媳，曾巩为“唐宋散文八大家”之一，世称“南丰先生”。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月16日 3:05 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/5/28/n12144510.md#1" target="_blank">\n【康熙大帝】盛世下的西洋景观（下）</a>\n<br>\n</h3>\n<a href="/gb/20/5/28/n12144510.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">\n</a>\n历法，不仅是关乎古代农耕的国本重器，也是一个朝代的象征，具有重要意义。传统的历法，经朝廷专业的司职官员修订，再由皇帝钦定，以诏书的隆重形式颁行天下。定正朔、颁历法，往往昭示着国家一统和秩序的砥定。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月15日 7:58 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/7/8/n12242586.md#1" target="_blank">\n【佳人传】倜傥有丈夫气的王端淑</a>\n<br>\n</h3>\n<a href="/gb/20/7/8/n12242586.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/07/wang-duan-shu-150x120.jpg" align ="left">\n</a>\n天启年间，大明国运走向没落。仕宦书香之家，尚能享有片刻闲适安宁的天伦之乐。在大学者王思任家中，聪慧婉丽的三小姐正无忧无虑地成长着。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月14日 7:49 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/5/28/n12144368.md#1" target="_blank">\n【康熙大帝】盛世下的西洋景观（上）</a>\n<br>\n</h3>\n<a href="/gb/20/5/28/n12144368.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">\n</a>\n晚明时期，一个叫利玛窦的意大利人踏上中土，从此开启“传教士”在中华王朝的传奇经历。到了清初，其中的佼佼者更和圣祖皇帝结下不解之缘，成为大清盛世下，万千气象中别开生面的奇景。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月13日 5:00 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/5/28/n12144105.md#1" target="_blank">\n【康熙大帝】毕生治河 天下安澜二十载</a>\n<br>\n</h3>\n<a href="/gb/20/5/28/n12144105.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">\n</a>\n俗话说，乱世治兵，盛世治水。黄河清、圣人出，黄河宁、天下平，是历代帝王治国安邦的理想。在葛尔丹之乱平息后，清王朝呈现出太平安定的局面，康熙帝也能够将治国的主要精力，重新放在治河大事上。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月11日 5:01 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/7/10/n12246373.md#1" target="_blank">\n只有江梅伴幽独——宋代闺秀词人孙道绚</a>\n<br>\n</h3>\n<a href="/gb/20/7/10/n12246373.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2018/06/getCollectionImage-150x120.jpg" align ="left">\n</a>\n孙道绚，号冲虚居士，生卒年不详，文献记载甚少，她大约生活在南宋的高宗年间。一说她祖籍河南开封，后迁移至福建建瓯。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月11日 12:43 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/5/28/n12143788.md#1" target="_blank">\n【康熙大帝】靳辅治河与康熙南巡</a>\n<br>\n</h3>\n<a href="/gb/20/5/28/n12143788.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">\n</a>\n黄河之水天上来，滔滔河水在灌溉良田、孕育文明的同时，也因为频繁的泛滥、决口和改道，给百姓带来深重灾难。传统中国以农业立国，黄河的安定是关乎粮食、漕运、财赋等国计民生的大事，因而治河也成为历朝君王施政的重头戏。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月9日 7:41 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/5/27/n12141489.md#1" target="_blank">\n【康熙大帝】远赴朔漠 三征葛尔丹</a>\n<br>\n</h3>\n<a href="/gb/20/5/27/n12141489.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">\n</a>\n清王朝的东北边境刚刚平静，西北大漠狼烟再起。大一统王朝盛世，还要面临最后一场大型的战争考验。与满清世代联姻、忠心归附的蒙古汗国，出了一位枭雄葛尔丹。他意图称霸西北，与清南北对峙，成为康熙帝的一大劲敌。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月7日 6:05 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/7/6/n12236855.md#1" target="_blank">\n唐朝宰相卢钧德义兼备 得神明相助</a>\n<br>\n</h3>\n<a href="/gb/20/7/6/n12236855.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2016/09/1609110053182357-150x120.jpg" align ="left">\n</a>\n唐朝中晚期时的名臣卢钧（778年—864年），唐宪宗时中进士，唐文宗时任左补阙，以审理宰相宋申锡之冤狱而成名。此后，在文宗、武宗、宣宗三朝，先后拜尚书郎、常州刺史、给事中、镇国军使、广州刺史、御史大夫、岭南节度使、山南东道节度使、昭义节度使、宣武节度使、河东节度使、尚书左仆射（宰相）、太保等职，政绩显着，史称其“践历中外，事功益茂”。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月7日 1:25 AM									</td>\n</tr>\n  <tr>\n<td>\n<h3>\n<a href="/gb/ncid238.md#1">\n上一页</a>\n&nbsp;&nbsp;1 &nbsp;&nbsp;<a href="/gb/ncid238_2.md#1">\n2</a>\n&nbsp;&nbsp;<a href="/gb/ncid238_3.md#1">\n3</a>\n&nbsp;&nbsp;<a href="/gb/ncid238_4.md#1">\n4</a>\n&nbsp;&nbsp;<a href="/gb/ncid238_5.md#1">\n5</a>\n&nbsp;&nbsp;<a href="/gb/ncid238_6.md#1">\n6</a>\n&nbsp;&nbsp;<a href="/gb/ncid238_7.md#1">\n7</a>\n&nbsp;&nbsp;<a href="/gb/ncid238_8.md#1">\n8</a>\n&nbsp;&nbsp;<a href="/gb/ncid238_9.md#1">\n9</a>\n&nbsp;&nbsp;<a href="/gb/ncid238_10.md#1">\n10</a>\n&nbsp;&nbsp;<a href="/gb/ncid238_2.md#1">\n下一页</a>\n</h3>\n</td>\n</tr>\n  </table>\n<div align="center">\n<h4>\n手机上长按并复制下列链接或二维码分享本文章：</h4>\n/gb/ncid238.md#1<br>\n<a href="/gb/ncid238.md#1">\n<img src="http://www.szzd.org/v.php?action=qrcode&url=/gb/ncid238.md%231" title="分享本文章">\n</a>\n<br>\n原文地址： <a href="https://www.epochtimes.com/gb/ncid238.htm">\nhttps://www.epochtimes.com/gb/ncid238.htm</a>\n    （国内需<a href="https://github.com/bannedbook/fanqiang/wiki">\n下载翻墙软件</a>\n才能访问）</div>\n
+<a name="1" id="1" target="_blank">
+&nbsp;</a>
+ <span id="1">
+&nbsp;</span>
+<table align=center border="0">
+<tr>
+<td colspan="2" valign=TOP>
+<a href="/gb/nf1351518.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/1.jpg" title="大纪元">
+</a>
+<a href="/gb/n24hr.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/3.jpg" title="国际新闻">
+</a>
+<a href="/gb/nf1351518.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/4.jpg" title="大陆新闻">
+</a>
+<a href="/gb/news392.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/5.jpg" title="评论">
+</a>
+<a href="/gb/news2007.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/6.jpg" title="文化">
+</a>
+<a href="/gb/news2008.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/7.jpg" title="生活">
+</a>
+<a href="/gb/ncyule.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/8.jpg" title="娱乐">
+</a>
+<a href="/gb/nsc1002.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/9.jpg" title="健康">
+<a href="/gb/nf6092.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/10a.jpg" title="独家">
+</a>
+<a href="/gb/nf4514.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/11.jpg" title="头条">
+</a>
+<a href="/gb/zt.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/13.jpg" title="专题">
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign=TOP>
+<p>
+<a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
+大纪元</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/p513q" target="_blank">
+动态网</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/s12f" target="_blank">
+无界</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/t8x" target="_blank">
+退党</a>
+ | <a href="https://git.io/fjHpT" target="_blank">
+网门</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/n4g" target="_blank">
+神韵</a>
+ | <a href="https://git.io/fjHpI" target="_blank">
+新纪元</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/o11g" target="_blank">
+看中国</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/l3s" target="_blank">
+明慧网</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/i9r" target="_blank">
+希望之声</a>
+ | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
+无罪辩护</a>
+ |  <a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">
+终级目的</a>
+ | <a href="https://gitlab.com/szzdlab/w5/raw/master/5N.8.mp4" target="_blank">
+活摘调查</a>
+ |<a href="https://gitlab.com/szzdlab/w5/raw/master/mtdwh.mp4" target="_blank">
+漫谈党文化</a>
+</p>
+<p>
+ <a href="https://github.com/fqnews/ntdtv/blob/master/gb/prog204.md#1" target="_blank">
+新唐人</a>
+ | <a href="https://git.io/JervF" target="_blank">
+亚太台</a>
+ | <a href="https://git.io/fjHpG" target="_blank">
+直播</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/r12p" target="_blank">
+圣缘</a>
+ | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
+伪火</a>
+ | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
+九评</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/a10j" target="_blank">
+正见网</a>
+ | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
+藏字石</a>
+ | <a href="https://gitlab.com/szzdlab/w5/raw/master/szt.mp4" target="_blank">
+寻正道</a>
+ | <a href="https://gitlab.com/szzdlab/w5/raw/master/wm.mp4" target="_blank">
+告诉未来</a>
+ |  <a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">
+未来神话</a>
+ | <a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">
+清华学子</a>
+ | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">
+红朝阴谋</a>
+ |<a href="https://gitlab.com/szzdlab/w5/raw/master/fy.mp4" target="_blank">
+风雨天地行</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="742">
+<h3>
+<p>
+<strong>
+中国历代名人</strong>
+</p>
+</h3>
+</td>
+<td valign=TOP rowspan=50>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-11-4/SY-Classical-Chinese-Dance-Technique-Collection-2018.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gudianwu.jpg" title="神韵古典舞技巧表演" alt="神韵古典舞技巧表演">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/9ping.jpg" title="九评共产党" alt="九评共产党">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/communism.jpg" title="共产主义终极目的" alt="共产主义终极目的">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-11-12/zf-dsp-1128.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weihuo.jpg" title="中共的伪火骗局" alt="中共的伪火骗局">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-6-1/st5-29.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/changzhi.jpg" title="古今奇观-藏字石" alt="古今奇观-藏字石">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/3-JTT_CN_MH-360p.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/tianan.jpg" title="通往天安门的旅程" alt="通往天安门的旅程">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weilai.jpg" title="未来人的神话" alt="未来人的神话">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ji-zy.jpg" title="中共罪恶的活摘" alt="中共罪恶的活摘">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/tzrs.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/huozhai.jpg" title="铁证如山" alt="铁证如山">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/er3n_3VVJ.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/4ke.jpg" title="一家四口死于中共暴政" alt="一家四口死于中共暴政">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/XmL0_0XDL2p.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jie-di.jpg" title="─弟妹相继死于中共迫害" alt="─弟妹相继死于中共迫害">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w2/raw/master/rs/NG8l.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ma-sj.jpg" title="她们许多已经被中共迫害至死" alt="她们许多已经被中共迫害至死">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/wt6Y_vPhM.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/shuan-cxl.jpg" title="双城血泪" alt="双城血泪">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/wu-zbh.jpg" title="震撼人心的无罪辩护" alt="震撼人心的无罪辩护">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/vG2w_fwq.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/6c10-720.jpg" title="从610到720" alt="从610到720">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/O2jN_uD.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/xian-z.jpg" title="中共官员的选择" alt="中共官员的选择">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-12-14/1400forge-1210.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/1400l.jpg" title="剖析1400例" alt="剖析1400例">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/C1WZ_mj.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/425.jpg" title="万人上访真相" alt="万人上访真相">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/qing-h.jpg" title="被中共迫害的清华学子" alt="被中共迫害的清华学子">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/JZ5e_5Vusp.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jian-z513.jpg" title="见证513" alt="见证513">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w2/raw/master/lyp/0iY.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gongfu.jpg" title="功夫 寻道" alt="功夫 寻道">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-2-21/guanguimin.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/guangguimian.jpg" title="歌唱家人生奇迹" alt="歌唱家人生奇迹">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/m1/raw/master/mjjy.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-jjy.jpg" title="名校精英的选择" alt="名校精英的选择">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/c4rB_QQbr.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/yin-lj.jpg" title="音乐之家的故事" alt="音乐之家的故事">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/O23c_E.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-hsf.jpg" title="平凡中的不平凡" alt="平凡中的不平凡">
+</a>
+<br>
+<a href="https://github.com/byeujs321/www/blob/master/README.md?dfh#9" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yong-h.jpg" title="永恒的见证"  alt="永恒的见证">
+</a>
+<br>
+<a href="/gb/13/9/29/n3974789.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/shang-lnz.jpg" title="善良女子被中共投男牢"  alt="善良女子被中共投男牢">
+</a>
+<br>
+<a href="/gb/16/3/16/n4663449.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z3.jpg" title="警卫目击中共活摘"  alt="警卫目击中共活摘">
+</a>
+<br>
+<a href="/gb/16/8/7/n8177641.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z4.jpg" title="证人描述活摘恐怖"  alt="证人描述活摘恐怖">
+</a>
+<br>
+<a href="/gb/10/4/19/n2881569.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z1.jpg" title="揭开活摘器官黑幕"  alt="揭开活摘器官黑幕">
+</a>
+<br>
+<a href="/gb/10/11/7/n3077476.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/ma-ks.jpg" title="马克思的成魔之路"  alt="马克思的成魔之路">
+</a>
+<br>
+<a href="/gb/18/5/10/n10381511.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/st1.jpg" title="关注3亿人三退"  alt="关注3亿人三退">
+</a>
+<br>
+<a href="/gb/18/3/21/n10237682.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jie-t.jpg" title="解体中共复兴中华"  alt="解体中共复兴中华">
+</a>
+<br>
+<a href="/gb/9/2/9/n2422991.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/gao-zs.jpg" title="中共迫害良心律师"  alt="中共迫害良心律师">
+</a>
+<br>
+<a href="/gb/18/12/9/n10900044.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj1.jpg" title="303万人举报江泽民"  alt="303万人举报江泽民">
+</a>
+<br>
+<a href="/gb/18/8/28/n10672014.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj2.jpg" title="这些官员为何起诉江泽民"  alt="这些官员为何起诉江泽民">
+</a>
+<br>
+<a href="/gb/8/12/18/n2367165.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/liangan.jpg" title="海峡两岸的强烈反差"  alt="海峡两岸的强烈反差">
+</a>
+<br>
+<a href="/gb/15/12/10/n4593139.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jia-ndzl.jpg" title="加拿大总理的贺信"  alt="加拿大总理的贺信">
+</a>
+<br>
+<a href="/gb/11/6/17/n3289382.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xiao-wd.jpg" title="探寻真相兼听则明"  alt="探寻真相兼听则明">
+</a>
+<br>
+<a href="/gb/18/10/27/n10812623.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yindu.jpg" title="印度媒体报道东方"  alt="印度媒体报道东方">
+</a>
+<br>
+<a href="/gb/18/6/9/n10469652.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xie-j.jpg" title="不一样的海外校园"  alt="不一样的海外校园">
+</a>
+<br>
+<a href="/gb/7/4/5/n1669415.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/li-up.jpg" title="从大师到徒弟的传奇"  alt="从大师到徒弟的传奇">
+</a>
+<br>
+<a href="/gb/17/5/26/n9191512.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl2.jpg" title="亿万人与东方一本奇书"  alt="亿万人与东方一本奇书">
+</a>
+<br>
+<a href="/gb/13/11/27/n4020290.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zhen-h.jpg" title="大陆见不到的震撼场面"  alt="大陆见不到的震撼场面">
+</a>
+<br>
+<a href="/gb/15/7/17/n4482910.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/dalu-sk.jpg" title="人心向善 大陆当初盛况"  alt="人心向善 大陆当初盛况">
+</a>
+<br>
+<a href="/gb/19/1/5/n10955468.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl1.jpg" title="追寻真理 这书讲什么"  alt="追寻真理 这书讲什么">
+</a>
+<br>
+<a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/fq1.jpg" title="下载免费翻墙软件"  alt="下载免费翻墙软件">
+</a>
+<br>
+</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/13/n12327382.md#1" target="_blank">
+北虏未灭 何以家为</a>
+<br>
+</h3>
+<a href="/gb/20/8/13/n12327382.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/fiema-150x120.jpg" align ="left">
+</a>
+所谓忠者，至公无私也。当岳飞少年时在照顾寡母与从军报国两难的抉择中犹豫不决时，母亲以刺字的方式给予他宝贵的教诲：精忠报国。精忠，意即不掺私情、一心为民为国的忠诚。如果贪恋朝廷的封赏，想要拥有豪宅田产、美女和财物，那就不能算作精忠了。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月17日 11:14 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/17/n12336909.md#1" target="_blank">
+王昭素品行卓绝 宋太祖受言书屏</a>
+<br>
+</h3>
+<a href="/gb/20/8/17/n12336909.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/shuyanshuping-150x120.jpg" align ="left">
+</a>
+北宋时期，都城开封酸枣县有位叫王昭素的士人，不仅满腹经纶，而且品行卓绝。他博通《九经》，兼研究老庄学说，对《诗经》、《易经》尤为精通。他认为三国魏王弼、东晋韩康伯注释的《易经》及唐代孔颖达、东汉马融的疏义都没有很好地道尽其内涵，所以自己就写了《易论》二十三篇。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月17日 11:11 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/16/n12335448.md#1" target="_blank">
+神秘的中国绝代王后（上）</a>
+<br>
+</h3>
+<a href="/gb/20/8/16/n12335448.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/shutterstock_156157613_1@1200x1200-150x120.jpg" align ="left">
+</a>
+中国有一位神奇的王后，她的事迹好得惊人，她的名字也跟“好”相印。她深得王夫的爱戴与信任，又如诸侯般拥有自己的军队和领地。她是当时最高级的知识精英，她是所向披靡的统帅，她是最早死后有谥号的王后，而正史中却不见只言词组的痕迹。她的墓穿越了3200年风云，以保存完好的古代珍宝震惊世人。于是，她的名号伴随着一段辉煌的文明重见天光。这位女人，后世无人再能凝聚她所有的光芒。说她是世界上无与伦比的王后，一点儿也不为过。她是谁？她就是殷商的伟大君王——武丁的王后“妇好”。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月17日 3:21 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/14/n12331993.md#1" target="_blank">
+【佳人传】袁枚首席女弟子——席佩兰</a>
+<br>
+</h3>
+<a href="/gb/20/8/14/n12331993.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/Chinese-Lady-Xipeilan1-150x120.jpg" align ="left">
+</a>
+明清时期，江南才女如群星闪耀。其中有一位传奇闺秀席氏女，因擅长画兰而以“佩兰”为号。她不仅能教丈夫写诗，双双结为人间诗侣；而且惊世骇俗，成为“乾隆三大家”之首袁枚最推崇的女弟子。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月16日 5:03 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/11/n12323309.md#1" target="_blank">
+保国土还是守承诺？ 东周巴国将军以生命诠释忠义</a>
+<br>
+</h3>
+<a href="/gb/20/8/11/n12323309.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/111201105623100445-600x400-150x120.jpg" align ="left">
+</a>
+清朝人王尔鉴写过一首题为“巴蔓子墓”的诗：穹窿哉，蔓子墓，渝城颠，石封固。多少王侯将相陵寝穴樵儿，独此屹立两江虹势迥盘护。头断头不断，万古须眉宛然见。城许城还存，年年春草青墓门。君不见背弱主，降强主，断主之头献其土。又不见明奉君，暗通邻，求和割地荣其身。惜哉不识蔓子坟。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月14日 4:40 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/6/n12310782.md#1" target="_blank">
+顺天意民心退位让国 隆裕太后获盛赞</a>
+<br>
+</h3>
+<a href="/gb/20/8/6/n12310782.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/2da8fe5a4463a6ed3fea5a218b0cf75a-150x120.jpeg" align ="left">
+</a>
+民国二年，即1913年2月22日，一位在近代历史上留下浓重一笔的女子在北京紫禁城长春宫病逝，终年46岁。她就是清朝最后的皇太后隆裕太后。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月12日 12:54 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/4/n12306901.md#1" target="_blank">
+【佳人传】明清贤媛之冠——商景兰</a>
+<br>
+</h3>
+<a href="/gb/20/8/4/n12306901.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/20200804-jiarenzhuan-Shangjinglan-e1596569005415-150x100.jpg" align ="left">
+</a>
+“天地英灵之气，不钟于世之男子，而钟于妇人。”明清以来，许多文人认同这一论点，重视女子才华，因而这一时期才女大量涌现，才女文学之繁荣，也大大超越以往的朝代。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月8日 7:48 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/5/n12309182.md#1" target="_blank">
+医泽绵长的东海徐氏世医家族</a>
+<br>
+</h3>
+<a href="/gb/20/8/5/n12309182.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2018/08/shutterstock_1035339628-150x120.jpg" align ="left">
+</a>
+上古时代的医者通常是师父寻找有天分的弟子，由其传承医术，到了大约魏晋南北朝时期，世医家族开始出现，即医术由医者家族内部的子弟传承。当时，东海徐家、馆陶李家、高阳许家等均为有名的世医家族，其中影响最大的当属东海徐家。徐家从晋代徐熙起，传至北朝徐之才时已至少六代行医，声名显赫。其后，徐家之医术传承逾千年，直至明代洪武年间的太医院院使徐枢，可以说是医泽绵长了。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月7日 1:37 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/3/n12302282.md#1" target="_blank">
+佛法东传两高僧——摄摩腾与竺法兰</a>
+<br>
+</h3>
+<a href="/gb/20/8/3/n12302282.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/Dharmaratna1-horz-150x120.jpg" align ="left">
+</a>
+永平年间一天夜里，东汉明帝刘庄梦见一位金色神人，头顶有着有如太阳般的白色光环，身高约一丈六尺，从空中飞来，在宫廷里大放光芒。隔天他便召集群臣解梦。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月5日 4:55 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/3/n12304112.md#1" target="_blank">
+麒麟阁功臣榜排名第二 张安世“满而不溢”</a>
+<br>
+</h3>
+<a href="/gb/20/8/3/n12304112.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/1507232217572483-600x400-150x120.jpg" align ="left">
+</a>
+唐代大诗人李白在赞美守疆战士忠君报国的组诗《塞下曲》中有这样两句：“功成画麟阁，独有霍嫖姚。”诗中所言的麒麟阁在汉代未央宫中，因汉武帝元狩年间打猎获得麒麟而命名。公元前51年，汉宣帝因匈奴归降大汉，回忆往昔辅佐汉室的有功之臣，遂令人将十一位功臣的画像置于麒麟阁内，“法其容貌，署其官爵、姓名”，以示纪念和表彰。这十一位功臣是霍光、张安世、韩增、赵充国、魏相、丙吉、杜延年、刘德、梁丘贺、萧望之、苏武。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月4日 2:23 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/6/4/n12162213.md#1" target="_blank">
+【康熙大帝】康熙晚年与雍正嗣位</a>
+<br>
+</h3>
+<a href="/gb/20/6/4/n12162213.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">
+</a>
+皇太子两度废立的风波，是康熙帝晚年时期发生的一件大事。才华出众的几位皇子，主动或被动地卷入了夺嫡之战，酿成了父子恩断、兄弟反目的皇室悲剧。“煮豆持作羹，漉菽以为汁。萁在釜下然，豆在釜中泣。本自同根生，相煎何太急？”曹植当年的“七步诗”，道出了皇子们的真实心声。康熙帝在处理皇权与储君，以及皇子之间的矛盾时，越发体悟到册立太子的弊端。最终，他采取遗诏立储的方式，化解了皇室矛盾，让皇权平稳过渡，盛世得以延续。他的对策，也成了一次创举，开启清王朝秘密建储的先河。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月2日 8:27 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/6/4/n12162122.md#1" target="_blank">
+【康熙大帝】太子废立风波</a>
+<br>
+</h3>
+<a href="/gb/20/6/4/n12162122.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">
+</a>
+清圣祖仁皇帝康熙，一生勤政审慎，在位六十一年开创清初承平盛世，成为历史上唯一集圣、仁于一身的贤明君主。当步入人生的暮年时，他在处理国政之余，一个重要的问题萦绕心头，那就是如何为清王朝选择最合适的继承人。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月31日 7:00 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/7/26/n12284647.md#1" target="_blank">
+【人间云游】诗仙李白一生修行上蓬莱</a>
+<br>
+</h3>
+<a href="/gb/20/7/26/n12284647.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/07/fccd01a23c6e861414e8c0f71a090ccd-150x120.jpg" align ="left">
+</a>
+“谪仙”的冠号，把李白的前世、今生和此生修道返本归真的心路历程都涵盖进去了。在李白的许多诗歌中也一再显现他寻仙境、返本归真的生命追寻。李白一生经历哪些修炼的考验呢？......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月30日 7:49 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/7/25/n12283672.md#1" target="_blank">
+【佳人传】黄氏姐妹的不同人生</a>
+<br>
+</h3>
+<a href="/gb/20/7/25/n12283672.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/07/7d16cdf068c5d6e1e700a3713401478f-e1595879183926-150x100.jpg" align ="left">
+</a>
+西湖之畔，段家桥头，有一处小摊格外引人瞩目。摊位上摆着一幅幅颇具元人笔法的淡墨山水，画作上题着娟秀的小楷——“黄媛介”，摊主恰恰是位布衣荆钗的少妇。一旦赚够一日的生活费，她就匆匆收摊，不肯再作画。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月29日 7:52 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/9/12/8/n2747593.md#1" target="_blank">
+时穷节乃见  为张睢阳齿——张巡</a>
+<br>
+</h3>
+<a href="/gb/9/12/8/n2747593.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/eb9292cc89527d43825c8313ddcc6fa2-150x120.jpg" align ="left">
+</a>
+安史之乱中，张巡挺身而出，率领仅有的数千名将士抵抗十三万叛军，展开了一场惊天地、泣鬼神的睢阳血战。最后虽然由于众寡悬殊，粮尽援绝而失败，但却有力地遏止了叛军南下，保住了大唐半壁江山和江淮丰厚的财源，为大唐王朝反击，赢得了宝贵的时间和物质保障。唐朝大诗人韩愈，在评价这场历史上最惨烈的战役时，就说“无睢阳即无江淮，无睢阳即无大唐”，可见其重要性；而这悲壮的一幕，更使文天祥“骂贼张巡，爱君许远，留取声名万古香”的诗句流传千古。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月27日 5:33 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/7/15/n12258297.md#1" target="_blank">
+【人间云游】大诗人白居易  生生劫劫誓为佛弟子</a>
+<br>
+</h3>
+<a href="/gb/20/7/15/n12258297.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/12/3_Zhu_Haogu_and_Zhang_Boyuan._The_Paradise_of_Maitreya._ca._1320._Royal_Ontario_Museum.-150x120.jpg" align ="left">
+</a>
+中唐最具代表性的诗人之一、也是唐代存世诗歌最多的作家白居易为何生生劫劫誓为弥勒弟子？他歌颂竹之德，和他的人生修行展现怎样的对应关联？......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月25日 7:59 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/7/16/n12261609.md#1" target="_blank">
+【佳人传】既是婆媳、更是知音的蕉园才女</a>
+<br>
+</h3>
+<a href="/gb/20/7/16/n12261609.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Lady-book-cover-150x120.jpg" align ="left">
+</a>
+蕉园诗社的成员，皆是来自书香世家的才女。由于血缘或姻亲的关系，她们时常来往、交际，相同的爱好和品味，又促成她们结社的机缘。她们或是母女、姐妹、密友，更特别的是还有两对婆媳。她们不仅仅是亲人，更因为诗词成为彼此的知音。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月21日 9:19 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/7/20/n12270583.md#1" target="_blank">
+苏东坡前世为和尚 黄庭坚由信佛女子转生</a>
+<br>
+</h3>
+<a href="/gb/20/7/20/n12270583.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2013/10/1310020211411873-150x120.jpg" align ="left">
+</a>
+北宋文学大家辈出，其中堪称“文星旷世，曜耀寰中，千古奇才”的当非苏轼莫属。苏轼，世人又称其为苏东坡，与其父苏洵、弟苏辙合称“三苏”。他一生仕途坎坷，但从不失其抱负和胸襟。他在诗词、书画、散文等方面皆有很高成就，后世流传甚广。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月21日 3:43 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/6/4/n12161729.md#1" target="_blank">
+【康熙大帝】孺慕汉文化 诗文鼎盛</a>
+<br>
+</h3>
+<a href="/gb/20/6/4/n12161729.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">
+</a>
+清朝，作为最后一个传统的中华王朝，在文学史上有着集大成的特点，是古代文学的一个完美总结。在最繁盛的康熙朝，国力的强大、经济的繁荣，也带来了斐然灿烂的文化。热爱儒学与诗文的康熙帝，就像一位开拓者，打开清初文坛的局面，也奠定了整个清朝文学的繁荣。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月19日 7:34 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/7/3/n12229972.md#1" target="_blank">
+苏轼的勇武担当与济世救民</a>
+<br>
+</h3>
+<a href="/gb/20/7/3/n12229972.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/07/2004092123462815-150x120.jpg" align ="left">
+</a>
+苏轼对安民治国之道，曾经直抒胸臆：“国家之所以生存和灭亡的原因，在于道德的高低，不在于国家的强弱；改朝换代之所以有长有短，在于风俗的轻薄敦厚，不在于国家的富有与贫穷。”他的一生辗转流离，但是却守着至真至善的道理从未放弃，用具体的行为来印证，用出世的诗文来阐明，给后人留下了一笔宝贵的精神财富。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月19日 4:28 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/6/4/n12161581.md#1" target="_blank">
+【康熙大帝】恤农惠商 开创承平盛世</a>
+<br>
+</h3>
+<a href="/gb/20/6/4/n12161581.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">
+</a>
+清初，因战乱、圈地、重税等原因，国内耕地荒芜，百姓四散流亡，导致国赋不足、民生困苦。加上康熙帝亲政不久，三藩作乱，这种境况更加严重。自听政以来，康熙帝就非常关心民间疾苦，关注各地农业丰歉情况。有学者统计，康熙朝四十多年来，内外大臣留存下来的奏折中，约有半数包含了气候、粮食收成有关的奏报。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月17日 9:34 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/7/15/n12258506.md#1" target="_blank">
+落花无意恋春华——宋代女词人魏玩</a>
+<br>
+</h3>
+<a href="/gb/20/7/15/n12258506.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/02/7f936b31a0f6cad10da90c81bd283775-150x120.jpg" align ="left">
+</a>
+魏夫人（1040年—1103年）名玩，字玉汝，襄州襄阳（今湖北襄樊）人。魏玩出身世家， 其弟魏泰有《东轩笔录》、《临汉诗话》等著作传世。魏玩为宰相曾布之妻、文学家曾巩的弟媳，曾巩为“唐宋散文八大家”之一，世称“南丰先生”。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月16日 3:05 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/5/28/n12144510.md#1" target="_blank">
+【康熙大帝】盛世下的西洋景观（下）</a>
+<br>
+</h3>
+<a href="/gb/20/5/28/n12144510.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">
+</a>
+历法，不仅是关乎古代农耕的国本重器，也是一个朝代的象征，具有重要意义。传统的历法，经朝廷专业的司职官员修订，再由皇帝钦定，以诏书的隆重形式颁行天下。定正朔、颁历法，往往昭示着国家一统和秩序的砥定。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月15日 7:58 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/7/8/n12242586.md#1" target="_blank">
+【佳人传】倜傥有丈夫气的王端淑</a>
+<br>
+</h3>
+<a href="/gb/20/7/8/n12242586.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/07/wang-duan-shu-150x120.jpg" align ="left">
+</a>
+天启年间，大明国运走向没落。仕宦书香之家，尚能享有片刻闲适安宁的天伦之乐。在大学者王思任家中，聪慧婉丽的三小姐正无忧无虑地成长着。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月14日 7:49 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/5/28/n12144368.md#1" target="_blank">
+【康熙大帝】盛世下的西洋景观（上）</a>
+<br>
+</h3>
+<a href="/gb/20/5/28/n12144368.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">
+</a>
+晚明时期，一个叫利玛窦的意大利人踏上中土，从此开启“传教士”在中华王朝的传奇经历。到了清初，其中的佼佼者更和圣祖皇帝结下不解之缘，成为大清盛世下，万千气象中别开生面的奇景。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月13日 5:00 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/5/28/n12144105.md#1" target="_blank">
+【康熙大帝】毕生治河 天下安澜二十载</a>
+<br>
+</h3>
+<a href="/gb/20/5/28/n12144105.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">
+</a>
+俗话说，乱世治兵，盛世治水。黄河清、圣人出，黄河宁、天下平，是历代帝王治国安邦的理想。在葛尔丹之乱平息后，清王朝呈现出太平安定的局面，康熙帝也能够将治国的主要精力，重新放在治河大事上。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月11日 5:01 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/7/10/n12246373.md#1" target="_blank">
+只有江梅伴幽独——宋代闺秀词人孙道绚</a>
+<br>
+</h3>
+<a href="/gb/20/7/10/n12246373.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2018/06/getCollectionImage-150x120.jpg" align ="left">
+</a>
+孙道绚，号冲虚居士，生卒年不详，文献记载甚少，她大约生活在南宋的高宗年间。一说她祖籍河南开封，后迁移至福建建瓯。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月11日 12:43 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/5/28/n12143788.md#1" target="_blank">
+【康熙大帝】靳辅治河与康熙南巡</a>
+<br>
+</h3>
+<a href="/gb/20/5/28/n12143788.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">
+</a>
+黄河之水天上来，滔滔河水在灌溉良田、孕育文明的同时，也因为频繁的泛滥、决口和改道，给百姓带来深重灾难。传统中国以农业立国，黄河的安定是关乎粮食、漕运、财赋等国计民生的大事，因而治河也成为历朝君王施政的重头戏。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月9日 7:41 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/5/27/n12141489.md#1" target="_blank">
+【康熙大帝】远赴朔漠 三征葛尔丹</a>
+<br>
+</h3>
+<a href="/gb/20/5/27/n12141489.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/06/Kang-Xi-cover-150x120.jpg" align ="left">
+</a>
+清王朝的东北边境刚刚平静，西北大漠狼烟再起。大一统王朝盛世，还要面临最后一场大型的战争考验。与满清世代联姻、忠心归附的蒙古汗国，出了一位枭雄葛尔丹。他意图称霸西北，与清南北对峙，成为康熙帝的一大劲敌。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月7日 6:05 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/7/6/n12236855.md#1" target="_blank">
+唐朝宰相卢钧德义兼备 得神明相助</a>
+<br>
+</h3>
+<a href="/gb/20/7/6/n12236855.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2016/09/1609110053182357-150x120.jpg" align ="left">
+</a>
+唐朝中晚期时的名臣卢钧（778年—864年），唐宪宗时中进士，唐文宗时任左补阙，以审理宰相宋申锡之冤狱而成名。此后，在文宗、武宗、宣宗三朝，先后拜尚书郎、常州刺史、给事中、镇国军使、广州刺史、御史大夫、岭南节度使、山南东道节度使、昭义节度使、宣武节度使、河东节度使、尚书左仆射（宰相）、太保等职，政绩显着，史称其“践历中外，事功益茂”。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月7日 1:25 AM									</td>
+</tr>
+  <tr>
+<td>
+<h3>
+<a href="/gb/ncid238.md#1">
+上一页</a>
+&nbsp;&nbsp;1 &nbsp;&nbsp;<a href="/gb/ncid238_2.md#1">
+2</a>
+&nbsp;&nbsp;<a href="/gb/ncid238_3.md#1">
+3</a>
+&nbsp;&nbsp;<a href="/gb/ncid238_4.md#1">
+4</a>
+&nbsp;&nbsp;<a href="/gb/ncid238_5.md#1">
+5</a>
+&nbsp;&nbsp;<a href="/gb/ncid238_6.md#1">
+6</a>
+&nbsp;&nbsp;<a href="/gb/ncid238_7.md#1">
+7</a>
+&nbsp;&nbsp;<a href="/gb/ncid238_8.md#1">
+8</a>
+&nbsp;&nbsp;<a href="/gb/ncid238_9.md#1">
+9</a>
+&nbsp;&nbsp;<a href="/gb/ncid238_10.md#1">
+10</a>
+&nbsp;&nbsp;<a href="/gb/ncid238_2.md#1">
+下一页</a>
+</h3>
+</td>
+</tr>
+  </table>
+<div align="center">
+<h4>
+手机上长按并复制下列链接或二维码分享本文章：</h4>
+/gb/ncid238.md#1<br>
+<a href="/gb/ncid238.md#1">
+<img src="http://www.szzd.org/v.php?action=qrcode&url=/gb/ncid238.md%231" title="分享本文章">
+</a>
+<br>
+原文地址： <a href="https://www.epochtimes.com/gb/ncid238.htm">
+https://www.epochtimes.com/gb/ncid238.htm</a>
+    （国内需<a href="https://github.com/bannedbook/fanqiang/wiki">
+下载翻墙软件</a>
+才能访问）</div>

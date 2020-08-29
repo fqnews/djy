@@ -1,1 +1,755 @@
-<a name="1" id="1" target="_blank">\n&nbsp;</a>\n <span id="1">\n&nbsp;</span>\n<table align=center border="0">\n<tr>\n<td colspan="2" valign=TOP>\n<a href="/gb/nf1351518.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/1.jpg" title="大纪元">\n</a>\n<a href="/gb/n24hr.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/3.jpg" title="国际新闻">\n</a>\n<a href="/gb/nf1351518.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/4.jpg" title="大陆新闻">\n</a>\n<a href="/gb/news392.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/5.jpg" title="评论">\n</a>\n<a href="/gb/news2007.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/6.jpg" title="文化">\n</a>\n<a href="/gb/news2008.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/7.jpg" title="生活">\n</a>\n<a href="/gb/ncyule.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/8.jpg" title="娱乐">\n</a>\n<a href="/gb/nsc1002.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/9.jpg" title="健康">\n<a href="/gb/nf6092.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/10a.jpg" title="独家">\n</a>\n<a href="/gb/nf4514.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/11.jpg" title="头条">\n</a>\n<a href="/gb/zt.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/13.jpg" title="专题">\n</a>\n</td>\n</tr>\n<tr>\n<td colspan="2" valign=TOP>\n<p>\n<a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">\n大纪元</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/c513t" target="_blank">\n动态网</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/k12m" target="_blank">\n无界</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/k8g" target="_blank">\n退党</a>\n | <a href="https://git.io/fjHpT" target="_blank">\n网门</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/t4s" target="_blank">\n神韵</a>\n | <a href="https://git.io/fjHpI" target="_blank">\n新纪元</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/m11e" target="_blank">\n看中国</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/q3m" target="_blank">\n明慧网</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/j9z" target="_blank">\n希望之声</a>\n | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">\n无罪辩护</a>\n |  <a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">\n终级目的</a>\n | <a href="https://gitlab.com/szzdlab/w5/raw/master/5N.8.mp4" target="_blank">\n活摘调查</a>\n |<a href="https://gitlab.com/szzdlab/w5/raw/master/mtdwh.mp4" target="_blank">\n漫谈党文化</a>\n</p>\n<p>\n <a href="https://github.com/fqnews/ntdtv/blob/master/gb/prog204.md#1" target="_blank">\n新唐人</a>\n | <a href="https://git.io/JervF" target="_blank">\n亚太台</a>\n | <a href="https://git.io/fjHpG" target="_blank">\n直播</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/a12a" target="_blank">\n圣缘</a>\n | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">\n伪火</a>\n | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">\n九评</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/g10b" target="_blank">\n正见网</a>\n | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">\n藏字石</a>\n | <a href="https://gitlab.com/szzdlab/w5/raw/master/szt.mp4" target="_blank">\n寻正道</a>\n | <a href="https://gitlab.com/szzdlab/w5/raw/master/wm.mp4" target="_blank">\n告诉未来</a>\n |  <a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">\n未来神话</a>\n | <a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">\n清华学子</a>\n | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">\n红朝阴谋</a>\n |<a href="https://gitlab.com/szzdlab/w5/raw/master/fy.mp4" target="_blank">\n风雨天地行</a>\n</p>\n</td>\n</tr>\n<tr>\n<td width="742">\n<h3>\n<p>\n<strong>\n当代名人</strong>\n</p>\n</h3>\n</td>\n<td valign=TOP rowspan=50>\n<a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-11-4/SY-Classical-Chinese-Dance-Technique-Collection-2018.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gudianwu.jpg" title="神韵古典舞技巧表演" alt="神韵古典舞技巧表演">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/9ping.jpg" title="九评共产党" alt="九评共产党">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/communism.jpg" title="共产主义终极目的" alt="共产主义终极目的">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-11-12/zf-dsp-1128.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weihuo.jpg" title="中共的伪火骗局" alt="中共的伪火骗局">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-6-1/st5-29.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/changzhi.jpg" title="古今奇观-藏字石" alt="古今奇观-藏字石">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/3-JTT_CN_MH-360p.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/tianan.jpg" title="通往天安门的旅程" alt="通往天安门的旅程">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weilai.jpg" title="未来人的神话" alt="未来人的神话">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ji-zy.jpg" title="中共罪恶的活摘" alt="中共罪恶的活摘">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w5/raw/master/tzrs.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/huozhai.jpg" title="铁证如山" alt="铁证如山">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/er3n_3VVJ.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/4ke.jpg" title="一家四口死于中共暴政" alt="一家四口死于中共暴政">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/XmL0_0XDL2p.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jie-di.jpg" title="─弟妹相继死于中共迫害" alt="─弟妹相继死于中共迫害">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w2/raw/master/rs/NG8l.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ma-sj.jpg" title="她们许多已经被中共迫害至死" alt="她们许多已经被中共迫害至死">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/wt6Y_vPhM.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/shuan-cxl.jpg" title="双城血泪" alt="双城血泪">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/wu-zbh.jpg" title="震撼人心的无罪辩护" alt="震撼人心的无罪辩护">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/vG2w_fwq.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/6c10-720.jpg" title="从610到720" alt="从610到720">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/O2jN_uD.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/xian-z.jpg" title="中共官员的选择" alt="中共官员的选择">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-12-14/1400forge-1210.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/1400l.jpg" title="剖析1400例" alt="剖析1400例">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/C1WZ_mj.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/425.jpg" title="万人上访真相" alt="万人上访真相">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/qing-h.jpg" title="被中共迫害的清华学子" alt="被中共迫害的清华学子">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/JZ5e_5Vusp.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jian-z513.jpg" title="见证513" alt="见证513">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w2/raw/master/lyp/0iY.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gongfu.jpg" title="功夫 寻道" alt="功夫 寻道">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-2-21/guanguimin.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/guangguimian.jpg" title="歌唱家人生奇迹" alt="歌唱家人生奇迹">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/m1/raw/master/mjjy.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-jjy.jpg" title="名校精英的选择" alt="名校精英的选择">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/c4rB_QQbr.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/yin-lj.jpg" title="音乐之家的故事" alt="音乐之家的故事">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/O23c_E.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-hsf.jpg" title="平凡中的不平凡" alt="平凡中的不平凡">\n</a>\n<br>\n<a href="https://github.com/byeujs321/www/blob/master/README.md?dfh#9" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yong-h.jpg" title="永恒的见证"  alt="永恒的见证">\n</a>\n<br>\n<a href="/gb/13/9/29/n3974789.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/shang-lnz.jpg" title="善良女子被中共投男牢"  alt="善良女子被中共投男牢">\n</a>\n<br>\n<a href="/gb/16/3/16/n4663449.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z3.jpg" title="警卫目击中共活摘"  alt="警卫目击中共活摘">\n</a>\n<br>\n<a href="/gb/16/8/7/n8177641.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z4.jpg" title="证人描述活摘恐怖"  alt="证人描述活摘恐怖">\n</a>\n<br>\n<a href="/gb/10/4/19/n2881569.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z1.jpg" title="揭开活摘器官黑幕"  alt="揭开活摘器官黑幕">\n</a>\n<br>\n<a href="/gb/10/11/7/n3077476.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/ma-ks.jpg" title="马克思的成魔之路"  alt="马克思的成魔之路">\n</a>\n<br>\n<a href="/gb/18/5/10/n10381511.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/st1.jpg" title="关注3亿人三退"  alt="关注3亿人三退">\n</a>\n<br>\n<a href="/gb/18/3/21/n10237682.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jie-t.jpg" title="解体中共复兴中华"  alt="解体中共复兴中华">\n</a>\n<br>\n<a href="/gb/9/2/9/n2422991.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/gao-zs.jpg" title="中共迫害良心律师"  alt="中共迫害良心律师">\n</a>\n<br>\n<a href="/gb/18/12/9/n10900044.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj1.jpg" title="303万人举报江泽民"  alt="303万人举报江泽民">\n</a>\n<br>\n<a href="/gb/18/8/28/n10672014.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj2.jpg" title="这些官员为何起诉江泽民"  alt="这些官员为何起诉江泽民">\n</a>\n<br>\n<a href="/gb/8/12/18/n2367165.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/liangan.jpg" title="海峡两岸的强烈反差"  alt="海峡两岸的强烈反差">\n</a>\n<br>\n<a href="/gb/15/12/10/n4593139.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jia-ndzl.jpg" title="加拿大总理的贺信"  alt="加拿大总理的贺信">\n</a>\n<br>\n<a href="/gb/11/6/17/n3289382.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xiao-wd.jpg" title="探寻真相兼听则明"  alt="探寻真相兼听则明">\n</a>\n<br>\n<a href="/gb/18/10/27/n10812623.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yindu.jpg" title="印度媒体报道东方"  alt="印度媒体报道东方">\n</a>\n<br>\n<a href="/gb/18/6/9/n10469652.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xie-j.jpg" title="不一样的海外校园"  alt="不一样的海外校园">\n</a>\n<br>\n<a href="/gb/7/4/5/n1669415.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/li-up.jpg" title="从大师到徒弟的传奇"  alt="从大师到徒弟的传奇">\n</a>\n<br>\n<a href="/gb/17/5/26/n9191512.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl2.jpg" title="亿万人与东方一本奇书"  alt="亿万人与东方一本奇书">\n</a>\n<br>\n<a href="/gb/13/11/27/n4020290.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zhen-h.jpg" title="大陆见不到的震撼场面"  alt="大陆见不到的震撼场面">\n</a>\n<br>\n<a href="/gb/15/7/17/n4482910.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/dalu-sk.jpg" title="人心向善 大陆当初盛况"  alt="人心向善 大陆当初盛况">\n</a>\n<br>\n<a href="/gb/19/1/5/n10955468.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl1.jpg" title="追寻真理 这书讲什么"  alt="追寻真理 这书讲什么">\n</a>\n<br>\n<a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/fq1.jpg" title="下载免费翻墙软件"  alt="下载免费翻墙软件">\n</a>\n<br>\n</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/14/n12329430.md#1" target="_blank">\n疗愈人心的天堂歌声——创作歌手凯蒂?曼蒂克</a>\n<br>\n</h3>\n<a href="/gb/20/8/14/n12329430.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/20200814_6_4_KatyRiverShots-700x420_Katy_Mantyk_1-150x120.jpg" align ="left">\n</a>\n“一个人创作的音乐通常和他们的天性、他们的性格和信仰有关”，她说，“我是一个充满希望的人；生活中有很多值得希望的事物。我偏好让音乐充满希望或解方。”......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月16日 9:31 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/7/14/n12255240.md#1" target="_blank">\n打破音障 美国空军传奇人物耶格尔</a>\n<br>\n</h3>\n<a href="/gb/20/7/14/n12255240.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/07/Chuck-Yeager-i-a-700x420-150x120.jpg" align ="left">\n</a>\n1947年，美国空军飞行员查理斯·埃尔伍德·耶格尔创造了历史，成为第一个在水准飞行中打破音障的人。其胜利激发出了一本书和一部电影，而这位获奖无数飞行员的职业生涯则腾飞了70年。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年7月15日 3:33 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/3/17/n11946008.md#1" target="_blank">\n名人纷确诊 《权力游戏》《复仇者》演员染疫</a>\n<br>\n</h3>\n<a href="/gb/20/3/17/n11946008.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/03/GettyImages-1194784512-150x120.jpg" align ="left">\n</a>\n武汉肺炎疫情持续，明星、政客皆不能幸免，近日媒体报导多位名人确诊，包括曾参演《复仇者》电影的英国型男演员伊德瑞斯·艾尔巴（Idris Elba）、出演《权力游戏》的挪威演员克里斯托弗·希夫朱（Kristofer Hivju），以及巴西经济部副部长马科斯·特洛伊乔（Marcos Troyjo）。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年3月17日 12:35 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/2/8/n11854503.md#1" target="_blank">\n智慧幽默的里根总统</a>\n<br>\n</h3>\n<a href="/gb/20/2/8/n11854503.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/02/GettyImages-1762245-600x400-150x120.jpg" align ="left">\n</a>\n2020年2月6日是美国总统罗纳德?里根 （Ronald Reagan）诞辰109周年，他于1981年至1989年连任美国总统，在多次民意调查中被推崇为美国史上最受欢迎的总统之一。    1966年，里根当选加州州长时政府赤字超过2亿美元.........<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年2月9日 6:50 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/10/24/n11609861.md#1" target="_blank">\n云裳木兰的芳姿淑韵（下）</a>\n<br>\n</h3>\n<a href="/gb/19/10/24/n11609861.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/10/3c30509693db0e87094b8234ec777222-150x120.jpg" align ="left">\n</a>\n陈云裳福慧双全、进退自如的一生，既有云霞蒸蔚的绚丽多姿，又有光风霁月的明净清爽……是远比娱乐圈的绯闻婚变更适宜年轻姑娘眺望的风景。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年11月5日 8:37 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/11/2/n11628263.md#1" target="_blank">\n他，挽救了地毯</a>\n<br>\n</h3>\n<a href="/gb/19/11/2/n11628263.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/Vancouver-Carpet-Jan-Kath-DSC1996-150x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" align ="left">\n</a>\n一名当时只有20岁出头的德国年轻人，却在地毯时代眼见就要终结的时刻，“天真地”接手了一家位于尼泊尔的地毯工厂。但就是这名年轻人，在短短数年内一手扭转了整个地毯业的颓势。他的理念，不仅打造出了一个横跨各大洲的地毯商业王国，而且引发了整个地毯界的“文艺复兴”。他就是Jan Kath，过去25年来全球最传奇的地毯设计师之一。Jan Kath地毯，在柏林、纽约、温哥华、多伦多等全球多个城市有展示厅。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年11月2日 9:24 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/10/23/n11606740.md#1" target="_blank">\n云裳木兰的芳姿淑韵（上）</a>\n<br>\n</h3>\n<a href="/gb/19/10/23/n11606740.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/10/4ed192d3b631c6f1950c9b0f15514eed-150x120.jpg" align ="left">\n</a>\n女扮男装、替父从军的花木兰，迪士尼改编成颇具女权色彩、实现自我价值的超级英雄。而神州千古传颂的木兰则是忠孝节义、智勇双全、贤淑高洁的化身。虽然战功赫赫、封为尚书郎，木兰还是辞官隐退，回归传统的女性生涯。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年10月28日 5:11 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/10/7/n11573879.md#1" target="_blank">\n2岁开始画画 17岁有大师级画功让人赞叹</a>\n<br>\n</h3>\n<a href="/gb/19/10/7/n11573879.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/10/365ce64c8580603c720bcf62143b9fc6-150x120.jpg" align ="left">\n</a>\n赛尔维亚有一位被称为天才的少年画家，名叫杜辛?克尔托理察（Du?an Krtolica），今年只有17岁，可他却有15年的绘画经历；俨然大师级的绘画功力让人惊叹不已，至今已开过6次个人画展，并多次接受电视等媒体采访。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年10月11日 7:57 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/8/30/n11487913.md#1" target="_blank">\n人生的身段：坚毅慈心唐美云</a>\n<br>\n</h3>\n<a href="/gb/19/8/30/n11487913.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2015/01/1501200907502384-150x120.jpg" align ="left">\n</a>\n唐美云出身歌仔戏世家，感于父母对歌仔戏的热爱，不忍见其逐渐没落，故投身歌仔戏成为一代名伶。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年8月31日 4:34 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/8/29/n11484765.md#1" target="_blank">\n一个名伶的生命承担与文化自觉</a>\n<br>\n</h3>\n<a href="/gb/19/8/29/n11484765.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/08/PO_X4611-150x120.jpg" align ="left">\n</a>\n唐美云戏演得好不说，出身戏曲家庭，她对于自己的生命角色有深深的承担，更有深深的自觉。她成立戏班，培养后进，年年推出新戏，作可能的探索却永远不忘戏曲的立基，她将全副心力何只花在表演上，更直显一个演员在生命承担与文化重振上的可能角色。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年8月29日 12:15 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/6/18/n11329746.md#1" target="_blank">\n传奇总统里根（10）：一封家书承载使命</a>\n<br>\n</h3>\n<a href="/gb/19/6/18/n11329746.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/06/GettyImages-127980647-150x120.jpg" align ="left">\n</a>\n1911年2月6日，一名男婴降生在美国伊利诺伊州的塔皮克小镇。父亲望着他说：“也许有朝一日他会成为总统。”此话日后成真，这名男婴就是美国总统里根（雷根）。里根的每一段经历都体现了对美国精神的理解、诠释和守护：捍卫正义、坚守真理、勇于担当、完成使命、诚实勇敢、宽容慷慨、虔诚自信、坚持不懈、善于创新、乐观幽默。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年6月19日 2:54 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/5/31/n11292322.md#1" target="_blank">\n张德培率弟子日本球员锦织圭 再战法网</a>\n<br>\n</h3>\n<a href="/gb/19/5/31/n11292322.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/05/GettyImages-1146859042-150x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" align ="left">\n</a>\n锦织圭还没有出生，他的教练张德培（Michael Chang）就打出了史上最出色的网球镜头之一。在1989年法国网球公开赛的第四轮比赛中，张德培使用下手发球对阵排名第一的艾云．兰度（Ivan Lendl）。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年6月1日 12:35 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/5/30/n11290539.md#1" target="_blank">\n拒持武器的士兵救下75命 获最高军事勋章</a>\n<br>\n</h3>\n<a href="/gb/19/5/30/n11290539.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/05/Desmond-Doss-fb-2-150x120.jpg" align ="left">\n</a>\n二战英雄德斯蒙德·道斯是个拒绝打仗、连武器也不肯带的士兵。道斯在1942年4月应征入伍，但他拒绝拿武器，因而被看作一个“良心拒服兵役者”。尽管如此，他却因冲绳战役的钢锯岭一战获得美国最高军事勋章，在那里，他救下了75人的生命。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年5月31日 3:07 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/5/18/n11266077.md#1" target="_blank">\n世界上历史最悠久的王朝——日本菊花王朝</a>\n<br>\n</h3>\n<a href="/gb/19/5/18/n11266077.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2008/01/801041055041528-150x120.jpg" align ="left">\n</a>\n2019年4月30日，日本君王明仁退位，宣告历时30年的平成时代结束。次日，他的长子浩宫德仁继位，开启令和元年。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年5月25日 3:12 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/5/14/n11256823.md#1" target="_blank">\n夏志清夏济安书信集：卷五（1962-1965）（下）</a>\n<br>\n</h3>\n<a href="/gb/19/5/14/n11256823.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/05/1611071325452483-150x120.jpg" align ="left">\n</a>\n家常、感情、文学、电影、时政，中国现代文学批评界的两大巨擘──夏济安、夏志清夏氏兄弟，18年的鱼雁往返，是一代知识分子珍贵的时代缩影。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年5月19日 12:23 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/5/14/n11256655.md#1" target="_blank">\n夏志清夏济安书信集：卷五（1962-1965）（中）</a>\n<br>\n</h3>\n<a href="/gb/19/5/14/n11256655.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/01/shutterstock_586546133-150x120.jpg" align ="left">\n</a>\n李欧梵：夏氏兄弟的生活、学术、感情，都在书中完整呈现，五六十年代美国汉学界的各路人马，也纷纷登场。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年5月17日 11:06 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/5/14/n11256511.md#1" target="_blank">\n夏志清夏济安书信集：卷五（1962-1965）（上）</a>\n<br>\n</h3>\n<a href="/gb/19/5/14/n11256511.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/05/54a3fac073f19bd9b04d313292756d54-150x120.jpg" align ="left">\n</a>\n王德威：夏氏兄弟志同道合，也是难得的平生知己。他们的六百六十三封通信起自一九四七年秋夏志清赴美留学，终于夏济安一九六五年二月二十三日脑溢血过世，横跨十八年，从未间断。不论就内容或数量而言，这批信件的出版都是现代中国学术史料的重要事件。在历史惘惘的威胁下，夏氏兄弟以书信记录生命的吉光片羽，兼论文艺，饶有魏晋风雅，尤见手足真情。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年5月16日 12:17 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/5/14/n11256653.md#1" target="_blank">\n夏志清夏济安书信集：卷四（1959-1962）（下）</a>\n<br>\n</h3>\n<a href="/gb/19/5/14/n11256653.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2018/02/1510131630582483-150x120.jpg" align ="left">\n</a>\n白先勇：文学导师夏济安夏志清，二人的书信集比美苏轼苏辙的诗歌往来：“与君世世为兄弟，更结来生未了因”，手足情深，真挚动人。《夏志清夏济安书信集》不仅表露二人的兄弟感情，亦记载了当时的文艺思潮，二人的文学评语，启人深思，弥足珍贵。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年5月15日 11:06 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/5/14/n11256515.md#1" target="_blank">\n夏志清夏济安书信集：卷四（1959-1962）（上）</a>\n<br>\n</h3>\n<a href="/gb/19/5/14/n11256515.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/05/7deaa9815ac33dfcc7ae5d529cccfcb9-150x120.jpg" align ="left">\n</a>\n中国现代文学批评界的两大巨擘 ── 夏济安、夏志清 兄弟，18年的鱼雁往返，是一代知识分子珍贵的时代缩影。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年5月14日 11:50 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/3/18/n11122568.md#1" target="_blank">\n美13岁少年在家自制反应器 成功运作核聚变</a>\n<br>\n</h3>\n<a href="/gb/19/3/18/n11122568.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/03/GettyImages-186277396-150x120.jpg" align ="left">\n</a>\n美国田纳西州少年杰克逊·奥斯华特（Jackson Oswalt）杰克逊在12岁时已经立下雄心壮志，并在他迎接13岁的前几个小时——2018年1月19日，在位于孟菲斯（Memphis）的家中实现了核聚变，从而成为全美、乃至全世界最年轻的可运作核聚变反应器制造者。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年3月18日 10:46 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/3/15/n11116722.md#1" target="_blank">\n王家卫获编剧家协会大奖 背后墨镜故事谁人知</a>\n<br>\n</h3>\n<a href="/gb/19/3/15/n11116722.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2017/10/GettyImages-160891868-150x120.jpg" align ="left">\n</a>\n曾以《重庆森林》、《一代宗师》等作品风靡影坛的香港导演王家卫，15日获香港电影编剧家协会颁发的“荣誉大奖”。当他从香港编剧家协会主席庄澄手中接过奖座时，还亮出了他一笔一划手写的原始剧本，以此澄清他拍戏无剧本的传闻。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年3月16日 5:39 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/2/28/n11078337.md#1" target="_blank">\n改写科学史的梦(下) 数学天才与神经学之父</a>\n<br>\n</h3>\n<a href="/gb/19/2/28/n11078337.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/02/8a0b26de21de9386b334623ad741969b-150x120.jpg" align ="left">\n</a>\n梦对许多人来说充满神秘，有些人在梦中游历天堂、地狱，有些人通过梦预知未来。除此之外，梦还能带给人们灵感，进而改变世界。今天人们所学的许多科学知识，其实都归功于梦的启发。改写科学史的梦（下），为大家介绍两位数学家、神经学之父，还有一个关于鱼化石的梦。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年3月2日 4:56 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/2/22/n11063526.md#1" target="_blank">\n这3项重大发明 竟然来自梦境</a>\n<br>\n</h3>\n<a href="/gb/19/2/22/n11063526.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/02/1206242222171758-150x120.jpg" align ="left">\n</a>\n梦对人类影响很大，一些人通过梦境预知未来，不少科学发现得到梦的启发，一些重大发明竟也归功于梦。以下就是其中的三例，Google搜寻引擎、缝纫机，以及被称为“改变二战进程”的改良高射炮。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年2月23日 11:12 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/2/22/n11063642.md#1" target="_blank">\n梦中受传技艺 三个真实案例</a>\n<br>\n</h3>\n<a href="/gb/19/2/22/n11063642.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/02/D5_1@900x600-150x120.jpg" align ="left">\n</a>\n清初思想家黄宗羲，在他的《王征南墓志铭》中，记述过太极拳祖师张三丰的一件奇事。张三丰曾梦见玄武大帝传授他拳法，从此就拥有了以一对百的神力，梦中承传技艺的事在近代也不少，在此列举三个著名案例。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年2月23日 11:47 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/2/21/n11061269.md#1" target="_blank">\n石雕纪录乡土人文 郑文裕创作展现生命力</a>\n<br>\n</h3>\n<a href="/gb/19/2/21/n11061269.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/02/1-IMG-150x120.jpg" align ="left">\n</a>\n2019年开春之际，石雕艺术家郑文裕以“守护”为主题的系列作品，在高雄市立文化中心连展10天，许多前来观展民众感受到作品散发出的温暖，这是他践行创作理念后获得的共鸣。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年2月22日 12:07 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/2/8/n11031942.md#1" target="_blank">\n传奇总统里根（8）：向中国播撒自由精神</a>\n<br>\n</h3>\n<a href="/gb/19/2/8/n11031942.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/02/1-16-150x120.jpg" align ="left">\n</a>\n1984年10月1日，中国前总理赵紫阳与里根（雷根）总统在雨中撑着伞，穿过白宫草坪。这是赵紫阳第二次访问美国。同年1月，赵紫阳首次访美，寻求里根和美国在中国的现代化经济建设上提供帮助。双方重点谈了美中在工业和技术上的合作可能，也涉及广泛的世界及双边关系话题。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年2月11日 10:41 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/10/7/n11574432.md#1" target="_blank">\n【历史回眸】“反共才是爱国”的倪匡</a>\n<br>\n</h3>\n倪匡，原籍浙江镇海，1935年5月30日出生于上海一知识分子家庭，倪匡是家中老四，本名倪聪。他小时候跑去看过枪毙“反革命”，给他留下深刻印象，那种场面，“回来吃不下饭。”......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年10月17日 9:07 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/3/30/n11151700.md#1" target="_blank">\n传奇总统里根（9）：善幽默的沟通家</a>\n<br>\n</h3>\n幽默似乎是里根（雷根）与生俱来的特质，即便里根受枪击、命悬一线的时刻，他也不忘以幽默为周围的人带来轻松和信心。里根被人们成为是伟大的沟通者，他的话常集智慧、幽默和启发于一体，令人回味。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年3月31日 8:32 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/3/18/n11122476.md#1" target="_blank">\n7岁百米13秒48 “地球最快男孩”的成功心法</a>\n<br>\n</h3>\n他只有七岁，但是一举一动却有近51万名推特粉丝追踪，他就是被誉为牙买加闪电波尔特接班人的美国短跑小健将鲁道夫·英格拉姆（Rudolph Ingram）。他的百米纪录是13.48秒。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年3月22日 11:17 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/2/19/n11054623.md#1" target="_blank">\n彭博社采访 记者手表竟比李嘉诚的贵30倍</a>\n<br>\n</h3>\n香港首富李嘉诚，一向以生活简朴著称。过去几十年来，他一直戴着一款50美元的手表。直到近几年才升级为西铁城（星辰）表，价值大约500美元。有报导指出，李嘉诚的星辰表，价格不及采访记者手表的30分之一。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年2月26日 2:45 AM									</td>\n</tr>\n  <tr>\n<td>\n<h3>\n<a href="/gb/ncid285.md#1">\n上一页</a>\n&nbsp;&nbsp;1 &nbsp;&nbsp;<a href="/gb/ncid285_2.md#1">\n2</a>\n&nbsp;&nbsp;<a href="/gb/ncid285_3.md#1">\n3</a>\n&nbsp;&nbsp;<a href="/gb/ncid285_4.md#1">\n4</a>\n&nbsp;&nbsp;<a href="/gb/ncid285_5.md#1">\n5</a>\n&nbsp;&nbsp;<a href="/gb/ncid285_6.md#1">\n6</a>\n&nbsp;&nbsp;<a href="/gb/ncid285_7.md#1">\n7</a>\n&nbsp;&nbsp;<a href="/gb/ncid285_8.md#1">\n8</a>\n&nbsp;&nbsp;<a href="/gb/ncid285_9.md#1">\n9</a>\n&nbsp;&nbsp;<a href="/gb/ncid285_10.md#1">\n10</a>\n&nbsp;&nbsp;<a href="/gb/ncid285_2.md#1">\n下一页</a>\n</h3>\n</td>\n</tr>\n  </table>\n<div align="center">\n<h4>\n手机上长按并复制下列链接或二维码分享本文章：</h4>\n/gb/ncid285.md#1<br>\n<a href="/gb/ncid285.md#1">\n<img src="http://www.szzd.org/v.php?action=qrcode&url=/gb/ncid285.md%231" title="分享本文章">\n</a>\n<br>\n原文地址： <a href="https://www.epochtimes.com/gb/ncid285.htm">\nhttps://www.epochtimes.com/gb/ncid285.htm</a>\n    （国内需<a href="https://github.com/bannedbook/fanqiang/wiki">\n下载翻墙软件</a>\n才能访问）</div>\n
+<a name="1" id="1" target="_blank">
+&nbsp;</a>
+ <span id="1">
+&nbsp;</span>
+<table align=center border="0">
+<tr>
+<td colspan="2" valign=TOP>
+<a href="/gb/nf1351518.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/1.jpg" title="大纪元">
+</a>
+<a href="/gb/n24hr.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/3.jpg" title="国际新闻">
+</a>
+<a href="/gb/nf1351518.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/4.jpg" title="大陆新闻">
+</a>
+<a href="/gb/news392.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/5.jpg" title="评论">
+</a>
+<a href="/gb/news2007.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/6.jpg" title="文化">
+</a>
+<a href="/gb/news2008.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/7.jpg" title="生活">
+</a>
+<a href="/gb/ncyule.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/8.jpg" title="娱乐">
+</a>
+<a href="/gb/nsc1002.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/9.jpg" title="健康">
+<a href="/gb/nf6092.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/10a.jpg" title="独家">
+</a>
+<a href="/gb/nf4514.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/11.jpg" title="头条">
+</a>
+<a href="/gb/zt.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/13.jpg" title="专题">
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign=TOP>
+<p>
+<a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
+大纪元</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/c513t" target="_blank">
+动态网</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/k12m" target="_blank">
+无界</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/k8g" target="_blank">
+退党</a>
+ | <a href="https://git.io/fjHpT" target="_blank">
+网门</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/t4s" target="_blank">
+神韵</a>
+ | <a href="https://git.io/fjHpI" target="_blank">
+新纪元</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/m11e" target="_blank">
+看中国</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/q3m" target="_blank">
+明慧网</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/j9z" target="_blank">
+希望之声</a>
+ | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
+无罪辩护</a>
+ |  <a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">
+终级目的</a>
+ | <a href="https://gitlab.com/szzdlab/w5/raw/master/5N.8.mp4" target="_blank">
+活摘调查</a>
+ |<a href="https://gitlab.com/szzdlab/w5/raw/master/mtdwh.mp4" target="_blank">
+漫谈党文化</a>
+</p>
+<p>
+ <a href="https://github.com/fqnews/ntdtv/blob/master/gb/prog204.md#1" target="_blank">
+新唐人</a>
+ | <a href="https://git.io/JervF" target="_blank">
+亚太台</a>
+ | <a href="https://git.io/fjHpG" target="_blank">
+直播</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/a12a" target="_blank">
+圣缘</a>
+ | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
+伪火</a>
+ | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
+九评</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/g10b" target="_blank">
+正见网</a>
+ | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
+藏字石</a>
+ | <a href="https://gitlab.com/szzdlab/w5/raw/master/szt.mp4" target="_blank">
+寻正道</a>
+ | <a href="https://gitlab.com/szzdlab/w5/raw/master/wm.mp4" target="_blank">
+告诉未来</a>
+ |  <a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">
+未来神话</a>
+ | <a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">
+清华学子</a>
+ | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">
+红朝阴谋</a>
+ |<a href="https://gitlab.com/szzdlab/w5/raw/master/fy.mp4" target="_blank">
+风雨天地行</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="742">
+<h3>
+<p>
+<strong>
+当代名人</strong>
+</p>
+</h3>
+</td>
+<td valign=TOP rowspan=50>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-11-4/SY-Classical-Chinese-Dance-Technique-Collection-2018.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gudianwu.jpg" title="神韵古典舞技巧表演" alt="神韵古典舞技巧表演">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/9ping.jpg" title="九评共产党" alt="九评共产党">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/communism.jpg" title="共产主义终极目的" alt="共产主义终极目的">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-11-12/zf-dsp-1128.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weihuo.jpg" title="中共的伪火骗局" alt="中共的伪火骗局">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-6-1/st5-29.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/changzhi.jpg" title="古今奇观-藏字石" alt="古今奇观-藏字石">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/3-JTT_CN_MH-360p.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/tianan.jpg" title="通往天安门的旅程" alt="通往天安门的旅程">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weilai.jpg" title="未来人的神话" alt="未来人的神话">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ji-zy.jpg" title="中共罪恶的活摘" alt="中共罪恶的活摘">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/tzrs.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/huozhai.jpg" title="铁证如山" alt="铁证如山">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/er3n_3VVJ.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/4ke.jpg" title="一家四口死于中共暴政" alt="一家四口死于中共暴政">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/XmL0_0XDL2p.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jie-di.jpg" title="─弟妹相继死于中共迫害" alt="─弟妹相继死于中共迫害">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w2/raw/master/rs/NG8l.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ma-sj.jpg" title="她们许多已经被中共迫害至死" alt="她们许多已经被中共迫害至死">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/wt6Y_vPhM.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/shuan-cxl.jpg" title="双城血泪" alt="双城血泪">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/wu-zbh.jpg" title="震撼人心的无罪辩护" alt="震撼人心的无罪辩护">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/vG2w_fwq.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/6c10-720.jpg" title="从610到720" alt="从610到720">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/O2jN_uD.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/xian-z.jpg" title="中共官员的选择" alt="中共官员的选择">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-12-14/1400forge-1210.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/1400l.jpg" title="剖析1400例" alt="剖析1400例">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/C1WZ_mj.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/425.jpg" title="万人上访真相" alt="万人上访真相">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/qing-h.jpg" title="被中共迫害的清华学子" alt="被中共迫害的清华学子">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/JZ5e_5Vusp.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jian-z513.jpg" title="见证513" alt="见证513">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w2/raw/master/lyp/0iY.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gongfu.jpg" title="功夫 寻道" alt="功夫 寻道">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-2-21/guanguimin.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/guangguimian.jpg" title="歌唱家人生奇迹" alt="歌唱家人生奇迹">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/m1/raw/master/mjjy.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-jjy.jpg" title="名校精英的选择" alt="名校精英的选择">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/c4rB_QQbr.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/yin-lj.jpg" title="音乐之家的故事" alt="音乐之家的故事">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/O23c_E.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-hsf.jpg" title="平凡中的不平凡" alt="平凡中的不平凡">
+</a>
+<br>
+<a href="https://github.com/byeujs321/www/blob/master/README.md?dfh#9" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yong-h.jpg" title="永恒的见证"  alt="永恒的见证">
+</a>
+<br>
+<a href="/gb/13/9/29/n3974789.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/shang-lnz.jpg" title="善良女子被中共投男牢"  alt="善良女子被中共投男牢">
+</a>
+<br>
+<a href="/gb/16/3/16/n4663449.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z3.jpg" title="警卫目击中共活摘"  alt="警卫目击中共活摘">
+</a>
+<br>
+<a href="/gb/16/8/7/n8177641.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z4.jpg" title="证人描述活摘恐怖"  alt="证人描述活摘恐怖">
+</a>
+<br>
+<a href="/gb/10/4/19/n2881569.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z1.jpg" title="揭开活摘器官黑幕"  alt="揭开活摘器官黑幕">
+</a>
+<br>
+<a href="/gb/10/11/7/n3077476.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/ma-ks.jpg" title="马克思的成魔之路"  alt="马克思的成魔之路">
+</a>
+<br>
+<a href="/gb/18/5/10/n10381511.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/st1.jpg" title="关注3亿人三退"  alt="关注3亿人三退">
+</a>
+<br>
+<a href="/gb/18/3/21/n10237682.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jie-t.jpg" title="解体中共复兴中华"  alt="解体中共复兴中华">
+</a>
+<br>
+<a href="/gb/9/2/9/n2422991.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/gao-zs.jpg" title="中共迫害良心律师"  alt="中共迫害良心律师">
+</a>
+<br>
+<a href="/gb/18/12/9/n10900044.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj1.jpg" title="303万人举报江泽民"  alt="303万人举报江泽民">
+</a>
+<br>
+<a href="/gb/18/8/28/n10672014.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj2.jpg" title="这些官员为何起诉江泽民"  alt="这些官员为何起诉江泽民">
+</a>
+<br>
+<a href="/gb/8/12/18/n2367165.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/liangan.jpg" title="海峡两岸的强烈反差"  alt="海峡两岸的强烈反差">
+</a>
+<br>
+<a href="/gb/15/12/10/n4593139.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jia-ndzl.jpg" title="加拿大总理的贺信"  alt="加拿大总理的贺信">
+</a>
+<br>
+<a href="/gb/11/6/17/n3289382.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xiao-wd.jpg" title="探寻真相兼听则明"  alt="探寻真相兼听则明">
+</a>
+<br>
+<a href="/gb/18/10/27/n10812623.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yindu.jpg" title="印度媒体报道东方"  alt="印度媒体报道东方">
+</a>
+<br>
+<a href="/gb/18/6/9/n10469652.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xie-j.jpg" title="不一样的海外校园"  alt="不一样的海外校园">
+</a>
+<br>
+<a href="/gb/7/4/5/n1669415.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/li-up.jpg" title="从大师到徒弟的传奇"  alt="从大师到徒弟的传奇">
+</a>
+<br>
+<a href="/gb/17/5/26/n9191512.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl2.jpg" title="亿万人与东方一本奇书"  alt="亿万人与东方一本奇书">
+</a>
+<br>
+<a href="/gb/13/11/27/n4020290.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zhen-h.jpg" title="大陆见不到的震撼场面"  alt="大陆见不到的震撼场面">
+</a>
+<br>
+<a href="/gb/15/7/17/n4482910.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/dalu-sk.jpg" title="人心向善 大陆当初盛况"  alt="人心向善 大陆当初盛况">
+</a>
+<br>
+<a href="/gb/19/1/5/n10955468.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl1.jpg" title="追寻真理 这书讲什么"  alt="追寻真理 这书讲什么">
+</a>
+<br>
+<a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/fq1.jpg" title="下载免费翻墙软件"  alt="下载免费翻墙软件">
+</a>
+<br>
+</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/14/n12329430.md#1" target="_blank">
+疗愈人心的天堂歌声——创作歌手凯蒂?曼蒂克</a>
+<br>
+</h3>
+<a href="/gb/20/8/14/n12329430.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/20200814_6_4_KatyRiverShots-700x420_Katy_Mantyk_1-150x120.jpg" align ="left">
+</a>
+“一个人创作的音乐通常和他们的天性、他们的性格和信仰有关”，她说，“我是一个充满希望的人；生活中有很多值得希望的事物。我偏好让音乐充满希望或解方。”......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月16日 9:31 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/7/14/n12255240.md#1" target="_blank">
+打破音障 美国空军传奇人物耶格尔</a>
+<br>
+</h3>
+<a href="/gb/20/7/14/n12255240.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/07/Chuck-Yeager-i-a-700x420-150x120.jpg" align ="left">
+</a>
+1947年，美国空军飞行员查理斯·埃尔伍德·耶格尔创造了历史，成为第一个在水准飞行中打破音障的人。其胜利激发出了一本书和一部电影，而这位获奖无数飞行员的职业生涯则腾飞了70年。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年7月15日 3:33 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/3/17/n11946008.md#1" target="_blank">
+名人纷确诊 《权力游戏》《复仇者》演员染疫</a>
+<br>
+</h3>
+<a href="/gb/20/3/17/n11946008.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/03/GettyImages-1194784512-150x120.jpg" align ="left">
+</a>
+武汉肺炎疫情持续，明星、政客皆不能幸免，近日媒体报导多位名人确诊，包括曾参演《复仇者》电影的英国型男演员伊德瑞斯·艾尔巴（Idris Elba）、出演《权力游戏》的挪威演员克里斯托弗·希夫朱（Kristofer Hivju），以及巴西经济部副部长马科斯·特洛伊乔（Marcos Troyjo）。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年3月17日 12:35 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/2/8/n11854503.md#1" target="_blank">
+智慧幽默的里根总统</a>
+<br>
+</h3>
+<a href="/gb/20/2/8/n11854503.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/02/GettyImages-1762245-600x400-150x120.jpg" align ="left">
+</a>
+2020年2月6日是美国总统罗纳德?里根 （Ronald Reagan）诞辰109周年，他于1981年至1989年连任美国总统，在多次民意调查中被推崇为美国史上最受欢迎的总统之一。    1966年，里根当选加州州长时政府赤字超过2亿美元.........<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年2月9日 6:50 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/10/24/n11609861.md#1" target="_blank">
+云裳木兰的芳姿淑韵（下）</a>
+<br>
+</h3>
+<a href="/gb/19/10/24/n11609861.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/10/3c30509693db0e87094b8234ec777222-150x120.jpg" align ="left">
+</a>
+陈云裳福慧双全、进退自如的一生，既有云霞蒸蔚的绚丽多姿，又有光风霁月的明净清爽……是远比娱乐圈的绯闻婚变更适宜年轻姑娘眺望的风景。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年11月5日 8:37 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/11/2/n11628263.md#1" target="_blank">
+他，挽救了地毯</a>
+<br>
+</h3>
+<a href="/gb/19/11/2/n11628263.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/Vancouver-Carpet-Jan-Kath-DSC1996-150x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" align ="left">
+</a>
+一名当时只有20岁出头的德国年轻人，却在地毯时代眼见就要终结的时刻，“天真地”接手了一家位于尼泊尔的地毯工厂。但就是这名年轻人，在短短数年内一手扭转了整个地毯业的颓势。他的理念，不仅打造出了一个横跨各大洲的地毯商业王国，而且引发了整个地毯界的“文艺复兴”。他就是Jan Kath，过去25年来全球最传奇的地毯设计师之一。Jan Kath地毯，在柏林、纽约、温哥华、多伦多等全球多个城市有展示厅。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年11月2日 9:24 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/10/23/n11606740.md#1" target="_blank">
+云裳木兰的芳姿淑韵（上）</a>
+<br>
+</h3>
+<a href="/gb/19/10/23/n11606740.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/10/4ed192d3b631c6f1950c9b0f15514eed-150x120.jpg" align ="left">
+</a>
+女扮男装、替父从军的花木兰，迪士尼改编成颇具女权色彩、实现自我价值的超级英雄。而神州千古传颂的木兰则是忠孝节义、智勇双全、贤淑高洁的化身。虽然战功赫赫、封为尚书郎，木兰还是辞官隐退，回归传统的女性生涯。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年10月28日 5:11 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/10/7/n11573879.md#1" target="_blank">
+2岁开始画画 17岁有大师级画功让人赞叹</a>
+<br>
+</h3>
+<a href="/gb/19/10/7/n11573879.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/10/365ce64c8580603c720bcf62143b9fc6-150x120.jpg" align ="left">
+</a>
+赛尔维亚有一位被称为天才的少年画家，名叫杜辛?克尔托理察（Du?an Krtolica），今年只有17岁，可他却有15年的绘画经历；俨然大师级的绘画功力让人惊叹不已，至今已开过6次个人画展，并多次接受电视等媒体采访。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年10月11日 7:57 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/8/30/n11487913.md#1" target="_blank">
+人生的身段：坚毅慈心唐美云</a>
+<br>
+</h3>
+<a href="/gb/19/8/30/n11487913.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2015/01/1501200907502384-150x120.jpg" align ="left">
+</a>
+唐美云出身歌仔戏世家，感于父母对歌仔戏的热爱，不忍见其逐渐没落，故投身歌仔戏成为一代名伶。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年8月31日 4:34 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/8/29/n11484765.md#1" target="_blank">
+一个名伶的生命承担与文化自觉</a>
+<br>
+</h3>
+<a href="/gb/19/8/29/n11484765.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/08/PO_X4611-150x120.jpg" align ="left">
+</a>
+唐美云戏演得好不说，出身戏曲家庭，她对于自己的生命角色有深深的承担，更有深深的自觉。她成立戏班，培养后进，年年推出新戏，作可能的探索却永远不忘戏曲的立基，她将全副心力何只花在表演上，更直显一个演员在生命承担与文化重振上的可能角色。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年8月29日 12:15 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/6/18/n11329746.md#1" target="_blank">
+传奇总统里根（10）：一封家书承载使命</a>
+<br>
+</h3>
+<a href="/gb/19/6/18/n11329746.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/06/GettyImages-127980647-150x120.jpg" align ="left">
+</a>
+1911年2月6日，一名男婴降生在美国伊利诺伊州的塔皮克小镇。父亲望着他说：“也许有朝一日他会成为总统。”此话日后成真，这名男婴就是美国总统里根（雷根）。里根的每一段经历都体现了对美国精神的理解、诠释和守护：捍卫正义、坚守真理、勇于担当、完成使命、诚实勇敢、宽容慷慨、虔诚自信、坚持不懈、善于创新、乐观幽默。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年6月19日 2:54 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/5/31/n11292322.md#1" target="_blank">
+张德培率弟子日本球员锦织圭 再战法网</a>
+<br>
+</h3>
+<a href="/gb/19/5/31/n11292322.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/05/GettyImages-1146859042-150x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" align ="left">
+</a>
+锦织圭还没有出生，他的教练张德培（Michael Chang）就打出了史上最出色的网球镜头之一。在1989年法国网球公开赛的第四轮比赛中，张德培使用下手发球对阵排名第一的艾云．兰度（Ivan Lendl）。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年6月1日 12:35 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/5/30/n11290539.md#1" target="_blank">
+拒持武器的士兵救下75命 获最高军事勋章</a>
+<br>
+</h3>
+<a href="/gb/19/5/30/n11290539.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/05/Desmond-Doss-fb-2-150x120.jpg" align ="left">
+</a>
+二战英雄德斯蒙德·道斯是个拒绝打仗、连武器也不肯带的士兵。道斯在1942年4月应征入伍，但他拒绝拿武器，因而被看作一个“良心拒服兵役者”。尽管如此，他却因冲绳战役的钢锯岭一战获得美国最高军事勋章，在那里，他救下了75人的生命。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年5月31日 3:07 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/5/18/n11266077.md#1" target="_blank">
+世界上历史最悠久的王朝——日本菊花王朝</a>
+<br>
+</h3>
+<a href="/gb/19/5/18/n11266077.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2008/01/801041055041528-150x120.jpg" align ="left">
+</a>
+2019年4月30日，日本君王明仁退位，宣告历时30年的平成时代结束。次日，他的长子浩宫德仁继位，开启令和元年。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年5月25日 3:12 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/5/14/n11256823.md#1" target="_blank">
+夏志清夏济安书信集：卷五（1962-1965）（下）</a>
+<br>
+</h3>
+<a href="/gb/19/5/14/n11256823.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/05/1611071325452483-150x120.jpg" align ="left">
+</a>
+家常、感情、文学、电影、时政，中国现代文学批评界的两大巨擘──夏济安、夏志清夏氏兄弟，18年的鱼雁往返，是一代知识分子珍贵的时代缩影。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年5月19日 12:23 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/5/14/n11256655.md#1" target="_blank">
+夏志清夏济安书信集：卷五（1962-1965）（中）</a>
+<br>
+</h3>
+<a href="/gb/19/5/14/n11256655.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/01/shutterstock_586546133-150x120.jpg" align ="left">
+</a>
+李欧梵：夏氏兄弟的生活、学术、感情，都在书中完整呈现，五六十年代美国汉学界的各路人马，也纷纷登场。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年5月17日 11:06 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/5/14/n11256511.md#1" target="_blank">
+夏志清夏济安书信集：卷五（1962-1965）（上）</a>
+<br>
+</h3>
+<a href="/gb/19/5/14/n11256511.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/05/54a3fac073f19bd9b04d313292756d54-150x120.jpg" align ="left">
+</a>
+王德威：夏氏兄弟志同道合，也是难得的平生知己。他们的六百六十三封通信起自一九四七年秋夏志清赴美留学，终于夏济安一九六五年二月二十三日脑溢血过世，横跨十八年，从未间断。不论就内容或数量而言，这批信件的出版都是现代中国学术史料的重要事件。在历史惘惘的威胁下，夏氏兄弟以书信记录生命的吉光片羽，兼论文艺，饶有魏晋风雅，尤见手足真情。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年5月16日 12:17 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/5/14/n11256653.md#1" target="_blank">
+夏志清夏济安书信集：卷四（1959-1962）（下）</a>
+<br>
+</h3>
+<a href="/gb/19/5/14/n11256653.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2018/02/1510131630582483-150x120.jpg" align ="left">
+</a>
+白先勇：文学导师夏济安夏志清，二人的书信集比美苏轼苏辙的诗歌往来：“与君世世为兄弟，更结来生未了因”，手足情深，真挚动人。《夏志清夏济安书信集》不仅表露二人的兄弟感情，亦记载了当时的文艺思潮，二人的文学评语，启人深思，弥足珍贵。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年5月15日 11:06 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/5/14/n11256515.md#1" target="_blank">
+夏志清夏济安书信集：卷四（1959-1962）（上）</a>
+<br>
+</h3>
+<a href="/gb/19/5/14/n11256515.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/05/7deaa9815ac33dfcc7ae5d529cccfcb9-150x120.jpg" align ="left">
+</a>
+中国现代文学批评界的两大巨擘 ── 夏济安、夏志清 兄弟，18年的鱼雁往返，是一代知识分子珍贵的时代缩影。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年5月14日 11:50 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/3/18/n11122568.md#1" target="_blank">
+美13岁少年在家自制反应器 成功运作核聚变</a>
+<br>
+</h3>
+<a href="/gb/19/3/18/n11122568.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/03/GettyImages-186277396-150x120.jpg" align ="left">
+</a>
+美国田纳西州少年杰克逊·奥斯华特（Jackson Oswalt）杰克逊在12岁时已经立下雄心壮志，并在他迎接13岁的前几个小时——2018年1月19日，在位于孟菲斯（Memphis）的家中实现了核聚变，从而成为全美、乃至全世界最年轻的可运作核聚变反应器制造者。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年3月18日 10:46 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/3/15/n11116722.md#1" target="_blank">
+王家卫获编剧家协会大奖 背后墨镜故事谁人知</a>
+<br>
+</h3>
+<a href="/gb/19/3/15/n11116722.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2017/10/GettyImages-160891868-150x120.jpg" align ="left">
+</a>
+曾以《重庆森林》、《一代宗师》等作品风靡影坛的香港导演王家卫，15日获香港电影编剧家协会颁发的“荣誉大奖”。当他从香港编剧家协会主席庄澄手中接过奖座时，还亮出了他一笔一划手写的原始剧本，以此澄清他拍戏无剧本的传闻。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年3月16日 5:39 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/2/28/n11078337.md#1" target="_blank">
+改写科学史的梦(下) 数学天才与神经学之父</a>
+<br>
+</h3>
+<a href="/gb/19/2/28/n11078337.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/02/8a0b26de21de9386b334623ad741969b-150x120.jpg" align ="left">
+</a>
+梦对许多人来说充满神秘，有些人在梦中游历天堂、地狱，有些人通过梦预知未来。除此之外，梦还能带给人们灵感，进而改变世界。今天人们所学的许多科学知识，其实都归功于梦的启发。改写科学史的梦（下），为大家介绍两位数学家、神经学之父，还有一个关于鱼化石的梦。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年3月2日 4:56 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/2/22/n11063526.md#1" target="_blank">
+这3项重大发明 竟然来自梦境</a>
+<br>
+</h3>
+<a href="/gb/19/2/22/n11063526.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/02/1206242222171758-150x120.jpg" align ="left">
+</a>
+梦对人类影响很大，一些人通过梦境预知未来，不少科学发现得到梦的启发，一些重大发明竟也归功于梦。以下就是其中的三例，Google搜寻引擎、缝纫机，以及被称为“改变二战进程”的改良高射炮。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年2月23日 11:12 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/2/22/n11063642.md#1" target="_blank">
+梦中受传技艺 三个真实案例</a>
+<br>
+</h3>
+<a href="/gb/19/2/22/n11063642.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/02/D5_1@900x600-150x120.jpg" align ="left">
+</a>
+清初思想家黄宗羲，在他的《王征南墓志铭》中，记述过太极拳祖师张三丰的一件奇事。张三丰曾梦见玄武大帝传授他拳法，从此就拥有了以一对百的神力，梦中承传技艺的事在近代也不少，在此列举三个著名案例。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年2月23日 11:47 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/2/21/n11061269.md#1" target="_blank">
+石雕纪录乡土人文 郑文裕创作展现生命力</a>
+<br>
+</h3>
+<a href="/gb/19/2/21/n11061269.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/02/1-IMG-150x120.jpg" align ="left">
+</a>
+2019年开春之际，石雕艺术家郑文裕以“守护”为主题的系列作品，在高雄市立文化中心连展10天，许多前来观展民众感受到作品散发出的温暖，这是他践行创作理念后获得的共鸣。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年2月22日 12:07 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/2/8/n11031942.md#1" target="_blank">
+传奇总统里根（8）：向中国播撒自由精神</a>
+<br>
+</h3>
+<a href="/gb/19/2/8/n11031942.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/02/1-16-150x120.jpg" align ="left">
+</a>
+1984年10月1日，中国前总理赵紫阳与里根（雷根）总统在雨中撑着伞，穿过白宫草坪。这是赵紫阳第二次访问美国。同年1月，赵紫阳首次访美，寻求里根和美国在中国的现代化经济建设上提供帮助。双方重点谈了美中在工业和技术上的合作可能，也涉及广泛的世界及双边关系话题。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年2月11日 10:41 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/10/7/n11574432.md#1" target="_blank">
+【历史回眸】“反共才是爱国”的倪匡</a>
+<br>
+</h3>
+倪匡，原籍浙江镇海，1935年5月30日出生于上海一知识分子家庭，倪匡是家中老四，本名倪聪。他小时候跑去看过枪毙“反革命”，给他留下深刻印象，那种场面，“回来吃不下饭。”......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年10月17日 9:07 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/3/30/n11151700.md#1" target="_blank">
+传奇总统里根（9）：善幽默的沟通家</a>
+<br>
+</h3>
+幽默似乎是里根（雷根）与生俱来的特质，即便里根受枪击、命悬一线的时刻，他也不忘以幽默为周围的人带来轻松和信心。里根被人们成为是伟大的沟通者，他的话常集智慧、幽默和启发于一体，令人回味。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年3月31日 8:32 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/3/18/n11122476.md#1" target="_blank">
+7岁百米13秒48 “地球最快男孩”的成功心法</a>
+<br>
+</h3>
+他只有七岁，但是一举一动却有近51万名推特粉丝追踪，他就是被誉为牙买加闪电波尔特接班人的美国短跑小健将鲁道夫·英格拉姆（Rudolph Ingram）。他的百米纪录是13.48秒。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年3月22日 11:17 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/2/19/n11054623.md#1" target="_blank">
+彭博社采访 记者手表竟比李嘉诚的贵30倍</a>
+<br>
+</h3>
+香港首富李嘉诚，一向以生活简朴著称。过去几十年来，他一直戴着一款50美元的手表。直到近几年才升级为西铁城（星辰）表，价值大约500美元。有报导指出，李嘉诚的星辰表，价格不及采访记者手表的30分之一。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年2月26日 2:45 AM									</td>
+</tr>
+  <tr>
+<td>
+<h3>
+<a href="/gb/ncid285.md#1">
+上一页</a>
+&nbsp;&nbsp;1 &nbsp;&nbsp;<a href="/gb/ncid285_2.md#1">
+2</a>
+&nbsp;&nbsp;<a href="/gb/ncid285_3.md#1">
+3</a>
+&nbsp;&nbsp;<a href="/gb/ncid285_4.md#1">
+4</a>
+&nbsp;&nbsp;<a href="/gb/ncid285_5.md#1">
+5</a>
+&nbsp;&nbsp;<a href="/gb/ncid285_6.md#1">
+6</a>
+&nbsp;&nbsp;<a href="/gb/ncid285_7.md#1">
+7</a>
+&nbsp;&nbsp;<a href="/gb/ncid285_8.md#1">
+8</a>
+&nbsp;&nbsp;<a href="/gb/ncid285_9.md#1">
+9</a>
+&nbsp;&nbsp;<a href="/gb/ncid285_10.md#1">
+10</a>
+&nbsp;&nbsp;<a href="/gb/ncid285_2.md#1">
+下一页</a>
+</h3>
+</td>
+</tr>
+  </table>
+<div align="center">
+<h4>
+手机上长按并复制下列链接或二维码分享本文章：</h4>
+/gb/ncid285.md#1<br>
+<a href="/gb/ncid285.md#1">
+<img src="http://www.szzd.org/v.php?action=qrcode&url=/gb/ncid285.md%231" title="分享本文章">
+</a>
+<br>
+原文地址： <a href="https://www.epochtimes.com/gb/ncid285.htm">
+https://www.epochtimes.com/gb/ncid285.htm</a>
+    （国内需<a href="https://github.com/bannedbook/fanqiang/wiki">
+下载翻墙软件</a>
+才能访问）</div>

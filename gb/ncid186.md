@@ -1,1 +1,737 @@
-<a name="1" id="1" target="_blank">\n&nbsp;</a>\n <span id="1">\n&nbsp;</span>\n<table align=center border="0">\n<tr>\n<td colspan="2" valign=TOP>\n<a href="/gb/nf1351518.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/1.jpg" title="大纪元">\n</a>\n<a href="/gb/n24hr.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/3.jpg" title="国际新闻">\n</a>\n<a href="/gb/nf1351518.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/4.jpg" title="大陆新闻">\n</a>\n<a href="/gb/news392.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/5.jpg" title="评论">\n</a>\n<a href="/gb/news2007.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/6.jpg" title="文化">\n</a>\n<a href="/gb/news2008.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/7.jpg" title="生活">\n</a>\n<a href="/gb/ncyule.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/8.jpg" title="娱乐">\n</a>\n<a href="/gb/nsc1002.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/9.jpg" title="健康">\n<a href="/gb/nf6092.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/10a.jpg" title="独家">\n</a>\n<a href="/gb/nf4514.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/11.jpg" title="头条">\n</a>\n<a href="/gb/zt.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/13.jpg" title="专题">\n</a>\n</td>\n</tr>\n<tr>\n<td colspan="2" valign=TOP>\n<p>\n<a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">\n大纪元</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/i513s" target="_blank">\n动态网</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/e12c" target="_blank">\n无界</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/t8p" target="_blank">\n退党</a>\n | <a href="https://git.io/fjHpT" target="_blank">\n网门</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/b4m" target="_blank">\n神韵</a>\n | <a href="https://git.io/fjHpI" target="_blank">\n新纪元</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/d11p" target="_blank">\n看中国</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/c3r" target="_blank">\n明慧网</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/h9l" target="_blank">\n希望之声</a>\n | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">\n无罪辩护</a>\n |  <a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">\n终级目的</a>\n | <a href="https://gitlab.com/szzdlab/w5/raw/master/5N.8.mp4" target="_blank">\n活摘调查</a>\n |<a href="https://gitlab.com/szzdlab/w5/raw/master/mtdwh.mp4" target="_blank">\n漫谈党文化</a>\n</p>\n<p>\n <a href="https://github.com/fqnews/ntdtv/blob/master/gb/prog204.md#1" target="_blank">\n新唐人</a>\n | <a href="https://git.io/JervF" target="_blank">\n亚太台</a>\n | <a href="https://git.io/fjHpG" target="_blank">\n直播</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/l12e" target="_blank">\n圣缘</a>\n | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">\n伪火</a>\n | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">\n九评</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/j10t" target="_blank">\n正见网</a>\n | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">\n藏字石</a>\n | <a href="https://gitlab.com/szzdlab/w5/raw/master/szt.mp4" target="_blank">\n寻正道</a>\n | <a href="https://gitlab.com/szzdlab/w5/raw/master/wm.mp4" target="_blank">\n告诉未来</a>\n |  <a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">\n未来神话</a>\n | <a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">\n清华学子</a>\n | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">\n红朝阴谋</a>\n |<a href="https://gitlab.com/szzdlab/w5/raw/master/fy.mp4" target="_blank">\n风雨天地行</a>\n</p>\n</td>\n</tr>\n<tr>\n<td width="742">\n<h3>\n<p>\n<strong>\n故事点播</strong>\n</p>\n</h3>\n</td>\n<td valign=TOP rowspan=50>\n<a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-11-4/SY-Classical-Chinese-Dance-Technique-Collection-2018.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gudianwu.jpg" title="神韵古典舞技巧表演" alt="神韵古典舞技巧表演">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/9ping.jpg" title="九评共产党" alt="九评共产党">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/communism.jpg" title="共产主义终极目的" alt="共产主义终极目的">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-11-12/zf-dsp-1128.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weihuo.jpg" title="中共的伪火骗局" alt="中共的伪火骗局">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-6-1/st5-29.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/changzhi.jpg" title="古今奇观-藏字石" alt="古今奇观-藏字石">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/3-JTT_CN_MH-360p.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/tianan.jpg" title="通往天安门的旅程" alt="通往天安门的旅程">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weilai.jpg" title="未来人的神话" alt="未来人的神话">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ji-zy.jpg" title="中共罪恶的活摘" alt="中共罪恶的活摘">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w5/raw/master/tzrs.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/huozhai.jpg" title="铁证如山" alt="铁证如山">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/er3n_3VVJ.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/4ke.jpg" title="一家四口死于中共暴政" alt="一家四口死于中共暴政">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/XmL0_0XDL2p.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jie-di.jpg" title="─弟妹相继死于中共迫害" alt="─弟妹相继死于中共迫害">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w2/raw/master/rs/NG8l.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ma-sj.jpg" title="她们许多已经被中共迫害至死" alt="她们许多已经被中共迫害至死">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/wt6Y_vPhM.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/shuan-cxl.jpg" title="双城血泪" alt="双城血泪">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/wu-zbh.jpg" title="震撼人心的无罪辩护" alt="震撼人心的无罪辩护">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/vG2w_fwq.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/6c10-720.jpg" title="从610到720" alt="从610到720">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/O2jN_uD.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/xian-z.jpg" title="中共官员的选择" alt="中共官员的选择">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-12-14/1400forge-1210.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/1400l.jpg" title="剖析1400例" alt="剖析1400例">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/C1WZ_mj.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/425.jpg" title="万人上访真相" alt="万人上访真相">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/qing-h.jpg" title="被中共迫害的清华学子" alt="被中共迫害的清华学子">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/JZ5e_5Vusp.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jian-z513.jpg" title="见证513" alt="见证513">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w2/raw/master/lyp/0iY.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gongfu.jpg" title="功夫 寻道" alt="功夫 寻道">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-2-21/guanguimin.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/guangguimian.jpg" title="歌唱家人生奇迹" alt="歌唱家人生奇迹">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/m1/raw/master/mjjy.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-jjy.jpg" title="名校精英的选择" alt="名校精英的选择">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/c4rB_QQbr.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/yin-lj.jpg" title="音乐之家的故事" alt="音乐之家的故事">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/O23c_E.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-hsf.jpg" title="平凡中的不平凡" alt="平凡中的不平凡">\n</a>\n<br>\n<a href="https://github.com/byeujs321/www/blob/master/README.md?dfh#9" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yong-h.jpg" title="永恒的见证"  alt="永恒的见证">\n</a>\n<br>\n<a href="/gb/13/9/29/n3974789.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/shang-lnz.jpg" title="善良女子被中共投男牢"  alt="善良女子被中共投男牢">\n</a>\n<br>\n<a href="/gb/16/3/16/n4663449.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z3.jpg" title="警卫目击中共活摘"  alt="警卫目击中共活摘">\n</a>\n<br>\n<a href="/gb/16/8/7/n8177641.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z4.jpg" title="证人描述活摘恐怖"  alt="证人描述活摘恐怖">\n</a>\n<br>\n<a href="/gb/10/4/19/n2881569.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z1.jpg" title="揭开活摘器官黑幕"  alt="揭开活摘器官黑幕">\n</a>\n<br>\n<a href="/gb/10/11/7/n3077476.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/ma-ks.jpg" title="马克思的成魔之路"  alt="马克思的成魔之路">\n</a>\n<br>\n<a href="/gb/18/5/10/n10381511.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/st1.jpg" title="关注3亿人三退"  alt="关注3亿人三退">\n</a>\n<br>\n<a href="/gb/18/3/21/n10237682.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jie-t.jpg" title="解体中共复兴中华"  alt="解体中共复兴中华">\n</a>\n<br>\n<a href="/gb/9/2/9/n2422991.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/gao-zs.jpg" title="中共迫害良心律师"  alt="中共迫害良心律师">\n</a>\n<br>\n<a href="/gb/18/12/9/n10900044.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj1.jpg" title="303万人举报江泽民"  alt="303万人举报江泽民">\n</a>\n<br>\n<a href="/gb/18/8/28/n10672014.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj2.jpg" title="这些官员为何起诉江泽民"  alt="这些官员为何起诉江泽民">\n</a>\n<br>\n<a href="/gb/8/12/18/n2367165.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/liangan.jpg" title="海峡两岸的强烈反差"  alt="海峡两岸的强烈反差">\n</a>\n<br>\n<a href="/gb/15/12/10/n4593139.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jia-ndzl.jpg" title="加拿大总理的贺信"  alt="加拿大总理的贺信">\n</a>\n<br>\n<a href="/gb/11/6/17/n3289382.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xiao-wd.jpg" title="探寻真相兼听则明"  alt="探寻真相兼听则明">\n</a>\n<br>\n<a href="/gb/18/10/27/n10812623.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yindu.jpg" title="印度媒体报道东方"  alt="印度媒体报道东方">\n</a>\n<br>\n<a href="/gb/18/6/9/n10469652.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xie-j.jpg" title="不一样的海外校园"  alt="不一样的海外校园">\n</a>\n<br>\n<a href="/gb/7/4/5/n1669415.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/li-up.jpg" title="从大师到徒弟的传奇"  alt="从大师到徒弟的传奇">\n</a>\n<br>\n<a href="/gb/17/5/26/n9191512.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl2.jpg" title="亿万人与东方一本奇书"  alt="亿万人与东方一本奇书">\n</a>\n<br>\n<a href="/gb/13/11/27/n4020290.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zhen-h.jpg" title="大陆见不到的震撼场面"  alt="大陆见不到的震撼场面">\n</a>\n<br>\n<a href="/gb/15/7/17/n4482910.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/dalu-sk.jpg" title="人心向善 大陆当初盛况"  alt="人心向善 大陆当初盛况">\n</a>\n<br>\n<a href="/gb/19/1/5/n10955468.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl1.jpg" title="追寻真理 这书讲什么"  alt="追寻真理 这书讲什么">\n</a>\n<br>\n<a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/fq1.jpg" title="下载免费翻墙软件"  alt="下载免费翻墙软件">\n</a>\n<br>\n</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/16/9/28/n8345456.md#1" target="_blank">\n秤砣一击 寇准幡然悔悟</a>\n<br>\n</h3>\n<a href="/gb/16/9/28/n8345456.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2016/07/1607151057312357-150x120.jpg" align ="left">\n</a>\n寇准俸禄虽多，却不肯建造宅第。隐士魏野，为此特意赠送给他二首诗，其中有句道：“有官居鼎鼐，无地起楼台。”称赞寇准虽位居显要，却不肯建造宅第。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年5月13日 5:34 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/8/12/10/n2357683.md#1" target="_blank">\n成语典故：宁鸣而死，不默而生</a>\n<br>\n</h3>\n<a href="/gb/8/12/10/n2357683.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2008/12/50b2b3d14e431da179ead08a01e87a86-150x120.jpg" align ="left">\n</a>\n范仲淹立即也回写了一首同样题目的《灵乌赋》给梅尧臣，他在赋中斩钉截铁的写道，无论如何他都要坚持正义，坚持真理，不管人们怎样厌恶乌鸦的哑哑之声，他始终都是“宁鸣而死，不默而生”。范仲淹的这句名言，和他的另一句名言“先天下之忧而优，后天下之乐而乐”一样为世人所千古传颂，范仲淹的这种精神也成了一代又一代中华儿女学习的榜样和楷模。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年2月22日 5:48 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/2/1/n11836330.md#1" target="_blank">\n孝女感动神仙  孝心精诚穿越时空得护祐</a>\n<br>\n</h3>\n<a href="/gb/20/2/1/n11836330.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/02/d39d80f976db8eed70f17c652ddddaf1-150x120.jpg" align ="left">\n</a>\n孝女一五一十地说了膜拜之事，还讲自己虽没有亲身上山进香，恍惚间好像自己亲身去了一样，而且她老父亲的病也都痊愈了，都是神灵保佑。听到的人感动说：“至诚感神，真是诚心笃行的孝女啊！”......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年2月3日 8:00 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/12/5/n11702000.md#1" target="_blank">\n贫富两兄弟的见证 好心和坏心结异果</a>\n<br>\n</h3>\n<a href="/gb/19/12/5/n11702000.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/12/fb029238ecf49b2109c0d439a9c844f0-150x120.jpg" align ="left">\n</a>\n古代朝鲜半岛上的故事，心地截然不同的两兄弟，见证了好心和坏心的不同结果。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年12月16日 1:30 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/11/15/n11658468.md#1" target="_blank">\n金兰之交“变脸”帮助老友妻小</a>\n<br>\n</h3>\n<a href="/gb/19/11/15/n11658468.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/ca95caf9a1a516e4be1f09d9fda57597-150x120.jpg" align ="left">\n</a>\n金兰之交的牺牲，长年遭到误解也在所不惜。……他让左右仆人抬出一个箱子来，箱子里堆积的全都是历年所买下的甲君家小缝制的各种绣品，亮闪闪的像新的一样。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年12月2日 7:34 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/11/15/n11658469.md#1" target="_blank">\n舵工谋财害命  数十年后遭报应</a>\n<br>\n</h3>\n<a href="/gb/19/11/15/n11658469.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/6dbb4c7f2753c201a6e36d06299fb427-150x120.png" align ="left">\n</a>\n享受荣华富贵欢乐数十年，上天等到了这一刻才降灾祸来惩罚他，一家遭到灭顶。陈年往事重演了，……借债借得愈久，而所偿还的利息就需要越多！......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年11月25日 8:34 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/11/1/n11626866.md#1" target="_blank">\n老书生通过神仙考验 炼得灵药</a>\n<br>\n</h3>\n<a href="/gb/19/11/1/n11626866.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/7c874e1cce764b3a55cf73660cec315c-150x120.jpg" align ="left">\n</a>\n清朝初年，安徽天长的老书生刘公在他人生最困难的时候，遇到了一件奇事，他通过了考验，这让他的人生有了转机。古代的故事中，常常能看到神仙在凡间助人，可是他们都不会显现真容，才能考验人心的真貌。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年11月11日 3:57 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/10/11/n11582046.md#1" target="_blank">\n唐代使者漂流到巨人国</a>\n<br>\n</h3>\n<a href="/gb/19/10/11/n11582046.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/10/5ab3cf99744aca6258b6a3d1edc6d013-150x120.jpg" align ="left">\n</a>\n到底有没有巨人呢？唐代出使的官员有多次漂流到巨人国的传说记载。古籍记载，唐代时，今朝鲜半岛东面有巨人国。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年11月4日 5:50 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/10/12/n11584362.md#1" target="_blank">\n圣人千虑必有一失  愚人千虑必有一得</a>\n<br>\n</h3>\n<a href="/gb/19/10/12/n11584362.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2014/10/1410271137271452-150x120.jpg" align ="left">\n</a>\n“圣人千虑，必有一失；愚人千虑，必有一得”这话儿是从哪里来的？后人减缩成“千虑一得”的成语，其中显现了晏子的机智，比机智更可贵的是他的好德的修为，智仁勇兼备又谦冲自持，淡淡定定看破财的诱惑，尚俭守德、不造业。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年10月23日 7:26 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/10/3/n11565683.md#1" target="_blank">\n生平没读过佛经成了佛  名臣虞允文父亲的故事</a>\n<br>\n</h3>\n<a href="/gb/19/10/3/n11565683.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2017/11/20171129_113427-150x120.jpg" align ="left">\n</a>\n虞允文的父亲虞祺去世后，有不寻常的遭遇，他在冥府中任职当了“更生官”，在人间周年忌辰时成佛了。他们同乡有个死而复生的人叫鲜逑，受嘱托把这件事情转告了虞家人。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年10月21日 6:29 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/10/3/n11565684.md#1" target="_blank">\n巨盗陈阿尖临刑恨母不教</a>\n<br>\n</h3>\n<a href="/gb/19/10/3/n11565684.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/10/427ae0c24154e5caa9fb4da4802ee151-150x120.jpg" align ="left">\n</a>\n从这个故事中陈阿尖的身上反映了一个常理，爱子不教成大错啊，不教之爱是错爱！不仅害了孩子、害了世界，也害了自己。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年10月14日 7:26 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/10/2/n11562402.md#1" target="_blank">\n孔子赞赏不用“三思而行”的贤者</a>\n<br>\n</h3>\n<a href="/gb/19/10/2/n11562402.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/10/c10b9a5038d9c5c5c104cbfd4839b215-150x120.jpg" align ="left">\n</a>\n季文子是个怎样的人物呢？孔子在听到“季文子三思而后行”之后，反应说：“思考两次就可以了”，孔子说这话是否另有所指呢？......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年10月9日 7:00 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/4/7/29/n610861.md#1" target="_blank">\n清官轶事录：“悬鱼太守”</a>\n<br>\n</h3>\n<a href="/gb/4/7/29/n610861.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2004/07/shutterstock_735135922-150x120.jpg" align ="left">\n</a>\n据《后汉书?羊续传》载：羊续，后汉泰山平阳（今山东泰安）人，为官清廉奉法。灵帝中平三年（公元186年），羊续被任命为南阳郡太守。在此之前，江夏兵赵慈反叛，杀死了原任南阳太守，并攻陷元县，一时间人心惶惶。羊续毫不畏惧，身边只带一个小书僮微服前往，他“观历县邑，采问风谣，然后乃进。”到任后，快刀斩乱麻，迅速平定叛乱，人民欢欣鼓舞，得以安居乐业。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年10月5日 5:08 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/10/1/n11559346.md#1" target="_blank">\n天神资助有孝德的人</a>\n<br>\n</h3>\n<a href="/gb/19/10/1/n11559346.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2018/06/c704c3082c29d00c57c237b9b3586e93-150x120.jpg" align ="left">\n</a>\n古人说“人在作，天在看”，此话绝对不假。看一个默默行善不求回报的人，怎样得到神助！......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年10月4日 2:43 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/12/4/28/n3576538.md#1" target="_blank">\n季札挂剑：什么是承诺？</a>\n<br>\n</h3>\n<a href="/gb/12/4/28/n3576538.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2016/10/1609110053492357-e1521946593524-150x120.jpg" align ="left">\n</a>\n“信”是人际关系的基石，历代也流传了许多典故，本系列文章将列举成语中有关“信”的故事，让我们看看古人对信的看法。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年10月1日 5:09 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/9/15/n11522636.md#1" target="_blank">\n得道高人作“五里雾” 不坠五里雾中！</a>\n<br>\n</h3>\n<a href="/gb/19/9/15/n11522636.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/09/2fc53f22595973e266e4cfb06f16ecab-150x120.jpg" align ="left">\n</a>\n东汉张楷的志向就是修道，屡次辞了征召不任官。他能作“五里雾”，而他自己是最能看清人生迷雾的有道之士！......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年9月23日 6:07 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/12/4/16/n3566971.md#1" target="_blank">\n信如尾生：第一个爱情悲剧</a>\n<br>\n</h3>\n<a href="/gb/12/4/16/n3566971.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2012/04/100717093115100445_1-150x120.jpg" align ="left">\n</a>\n“信”是人际关系的基石，历代也流传了许多典故，本系列文章将列举成语中有关“信”的故事，让我们看看古人对信的看法。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年9月20日 5:58 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/12/4/16/n3566962.md#1" target="_blank">\n杖莫如信：小国外交的智慧</a>\n<br>\n</h3>\n<a href="/gb/12/4/16/n3566962.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2011/04/110303081434100093-150x120.jpg" align ="left">\n</a>\n(shown)“信”是人际关系的基石，历代也流传了许多典故，本系列文章将列举成语中有关“信”的故事，让我们看看古人对信的看法。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年9月16日 5:47 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/8/21/n11468709.md#1" target="_blank">\n公主异想天开 欲用水泡作花鬘 智慧老匠如是说</a>\n<br>\n</h3>\n<a href="/gb/19/8/21/n11468709.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/08/1803122327152483-150x120.jpg" align ="left">\n</a>\n一天，天降大雨，雨水洒落在大地，形成美丽的水泡。公主看见水泡此起彼落，和着静籁的雨声，那场面格外迷人。公主呆呆地看着水泡，心中甚是迷恋。于是，她对国王说：“父王，我想用雨水的水泡穿成美丽的花鬘。”......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年9月10日 5:40 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/9/2/n11494452.md#1" target="_blank">\n寓言故事：上当的大公鹿</a>\n<br>\n</h3>\n<a href="/gb/19/9/2/n11494452.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/09/Fotolia_101600668_Subscription_L-150x120.jpg" align ="left">\n</a>\n大公鹿听了狐狸讲这些话，不仅有点飘飘然，当然，它可不笨，它才不会轻易听信“狡猾”的狐狸讲的话呢！......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年9月3日 11:17 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/13/2/9/n3797609.md#1" target="_blank">\n有声故事：成汤王求雨（下）</a>\n<br>\n</h3>\n成汤王决定牺牲自己的生命去求雨，那么上苍真的要一个人的生命才下雨吗？请听故事：成汤王求雨（下）。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年11月7日 11:26 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/13/3/9/n3818579.md#1" target="_blank">\n有声故事：成汤王求雨（上）</a>\n<br>\n</h3>\n成汤王在位的时候，遇到了严重的干旱，卜官说只有牺牲一个人的生命才能求到雨，可是牺牲谁的生命呢？......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年11月5日 11:12 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/19/10/18/n11596994.md#1" target="_blank">\n西汉时转筷子奇算 暗藏的宝都给算出来</a>\n<br>\n</h3>\n西汉成帝时的曹元理，精通算术，能使筷子奇术。他用筷子帮忙计算陈广汉家谷仓中的米数，后来展开了一连串“奇算”，让人惊奇，更让陈广汉脸红。是怎么回事呢？......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年10月28日 5:24 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/12/4/28/n3576528.md#1" target="_blank">\n徙木之信：为政的手段？</a>\n<br>\n</h3>\n“信”是人际关系的基石，历代也流传了许多典故，本系列文章将列举成语中有关“信”的故事，让我们看看古人对信的看法。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年9月23日 5:57 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/12/6/24/n3619912.md#1" target="_blank">\n有声故事：农夫的孩子们</a>\n<br>\n</h3>\n农夫有三个孩子，每个都很能干，但是他们就是不团结。农夫很着急。后来他想出了个办法教育了孩子们。你们猜一猜是用什么办法呢？......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年9月8日 5:30 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/12/6/19/n3615838.md#1" target="_blank">\n有声故事：老狼和狐狸</a>\n<br>\n</h3>\n 老狼和狐狸是一对死对头。有一天狮子大王生病了，唯独不见狐狸，老狼就在狮子的面前说了狐狸的坏话，于是狮子就决定把狐狸吃了。过了一会儿，狐狸来了，接下来发生了什么事呢?......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年8月29日 12:51 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/12/3/24/n3549523.md#1" target="_blank">\n有声故事：愚公移山</a>\n<br>\n</h3>\n愚公家对面有两座大山，90岁的愚公一家要在两座山中间挖出一条路来，小朋友们，你们说他们能挖出这条路吗？......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年8月9日 3:19 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/12/5/26/n3597851.md#1" target="_blank">\n有声故事：两个朋友</a>\n<br>\n</h3>\n遇到危险时，怎样做才是真正的朋友呢？请听故事：两个朋友。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年7月29日 5:15 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/12/5/8/n3583981.md#1" target="_blank">\n有声故事：老鹿和小鹿</a>\n<br>\n</h3>\n老鹿领着鹿群沿着它最熟悉的路向着山上的草地走去，突然一只小鹿跑到老鹿的前面不让老鹿继续向前走。那么老鹿是否听了小鹿的话呢？......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年7月18日 8:28 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/12/4/24/n3573665.md#1" target="_blank">\n有声故事：塞翁失马</a>\n<br>\n</h3>\n塞翁丢了一匹马，可他不觉得是件坏事，后来他又得了一匹马，但他认为这不见得是件好事，再后来他的儿子摔坏了腿，他却认为这是件好事。那么塞翁究竟是对还是不对呢？......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2019年6月25日 3:39 AM									</td>\n</tr>\n  <tr>\n<td>\n<h3>\n<a href="/gb/ncid186.md#1">\n上一页</a>\n&nbsp;&nbsp;1 &nbsp;&nbsp;<a href="/gb/ncid186_2.md#1">\n2</a>\n&nbsp;&nbsp;<a href="/gb/ncid186_3.md#1">\n3</a>\n&nbsp;&nbsp;<a href="/gb/ncid186_4.md#1">\n4</a>\n&nbsp;&nbsp;<a href="/gb/ncid186_5.md#1">\n5</a>\n&nbsp;&nbsp;<a href="/gb/ncid186_6.md#1">\n6</a>\n&nbsp;&nbsp;<a href="/gb/ncid186_7.md#1">\n7</a>\n&nbsp;&nbsp;<a href="/gb/ncid186_8.md#1">\n8</a>\n&nbsp;&nbsp;<a href="/gb/ncid186_9.md#1">\n9</a>\n&nbsp;&nbsp;<a href="/gb/ncid186_10.md#1">\n10</a>\n&nbsp;&nbsp;<a href="/gb/ncid186_2.md#1">\n下一页</a>\n</h3>\n</td>\n</tr>\n  </table>\n<div align="center">\n<h4>\n手机上长按并复制下列链接或二维码分享本文章：</h4>\n/gb/ncid186.md#1<br>\n<a href="/gb/ncid186.md#1">\n<img src="http://www.szzd.org/v.php?action=qrcode&url=/gb/ncid186.md%231" title="分享本文章">\n</a>\n<br>\n原文地址： <a href="https://www.epochtimes.com/gb/ncid186.htm">\nhttps://www.epochtimes.com/gb/ncid186.htm</a>\n    （国内需<a href="https://github.com/bannedbook/fanqiang/wiki">\n下载翻墙软件</a>\n才能访问）</div>\n
+<a name="1" id="1" target="_blank">
+&nbsp;</a>
+ <span id="1">
+&nbsp;</span>
+<table align=center border="0">
+<tr>
+<td colspan="2" valign=TOP>
+<a href="/gb/nf1351518.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/1.jpg" title="大纪元">
+</a>
+<a href="/gb/n24hr.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/3.jpg" title="国际新闻">
+</a>
+<a href="/gb/nf1351518.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/4.jpg" title="大陆新闻">
+</a>
+<a href="/gb/news392.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/5.jpg" title="评论">
+</a>
+<a href="/gb/news2007.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/6.jpg" title="文化">
+</a>
+<a href="/gb/news2008.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/7.jpg" title="生活">
+</a>
+<a href="/gb/ncyule.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/8.jpg" title="娱乐">
+</a>
+<a href="/gb/nsc1002.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/9.jpg" title="健康">
+<a href="/gb/nf6092.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/10a.jpg" title="独家">
+</a>
+<a href="/gb/nf4514.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/11.jpg" title="头条">
+</a>
+<a href="/gb/zt.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/13.jpg" title="专题">
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign=TOP>
+<p>
+<a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
+大纪元</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/i513s" target="_blank">
+动态网</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/e12c" target="_blank">
+无界</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/t8p" target="_blank">
+退党</a>
+ | <a href="https://git.io/fjHpT" target="_blank">
+网门</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/b4m" target="_blank">
+神韵</a>
+ | <a href="https://git.io/fjHpI" target="_blank">
+新纪元</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/d11p" target="_blank">
+看中国</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/c3r" target="_blank">
+明慧网</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/h9l" target="_blank">
+希望之声</a>
+ | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
+无罪辩护</a>
+ |  <a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">
+终级目的</a>
+ | <a href="https://gitlab.com/szzdlab/w5/raw/master/5N.8.mp4" target="_blank">
+活摘调查</a>
+ |<a href="https://gitlab.com/szzdlab/w5/raw/master/mtdwh.mp4" target="_blank">
+漫谈党文化</a>
+</p>
+<p>
+ <a href="https://github.com/fqnews/ntdtv/blob/master/gb/prog204.md#1" target="_blank">
+新唐人</a>
+ | <a href="https://git.io/JervF" target="_blank">
+亚太台</a>
+ | <a href="https://git.io/fjHpG" target="_blank">
+直播</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/l12e" target="_blank">
+圣缘</a>
+ | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
+伪火</a>
+ | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
+九评</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/j10t" target="_blank">
+正见网</a>
+ | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
+藏字石</a>
+ | <a href="https://gitlab.com/szzdlab/w5/raw/master/szt.mp4" target="_blank">
+寻正道</a>
+ | <a href="https://gitlab.com/szzdlab/w5/raw/master/wm.mp4" target="_blank">
+告诉未来</a>
+ |  <a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">
+未来神话</a>
+ | <a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">
+清华学子</a>
+ | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">
+红朝阴谋</a>
+ |<a href="https://gitlab.com/szzdlab/w5/raw/master/fy.mp4" target="_blank">
+风雨天地行</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="742">
+<h3>
+<p>
+<strong>
+故事点播</strong>
+</p>
+</h3>
+</td>
+<td valign=TOP rowspan=50>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-11-4/SY-Classical-Chinese-Dance-Technique-Collection-2018.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gudianwu.jpg" title="神韵古典舞技巧表演" alt="神韵古典舞技巧表演">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/9ping.jpg" title="九评共产党" alt="九评共产党">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/communism.jpg" title="共产主义终极目的" alt="共产主义终极目的">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-11-12/zf-dsp-1128.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weihuo.jpg" title="中共的伪火骗局" alt="中共的伪火骗局">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-6-1/st5-29.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/changzhi.jpg" title="古今奇观-藏字石" alt="古今奇观-藏字石">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/3-JTT_CN_MH-360p.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/tianan.jpg" title="通往天安门的旅程" alt="通往天安门的旅程">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weilai.jpg" title="未来人的神话" alt="未来人的神话">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ji-zy.jpg" title="中共罪恶的活摘" alt="中共罪恶的活摘">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/tzrs.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/huozhai.jpg" title="铁证如山" alt="铁证如山">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/er3n_3VVJ.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/4ke.jpg" title="一家四口死于中共暴政" alt="一家四口死于中共暴政">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/XmL0_0XDL2p.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jie-di.jpg" title="─弟妹相继死于中共迫害" alt="─弟妹相继死于中共迫害">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w2/raw/master/rs/NG8l.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ma-sj.jpg" title="她们许多已经被中共迫害至死" alt="她们许多已经被中共迫害至死">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/wt6Y_vPhM.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/shuan-cxl.jpg" title="双城血泪" alt="双城血泪">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/wu-zbh.jpg" title="震撼人心的无罪辩护" alt="震撼人心的无罪辩护">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/vG2w_fwq.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/6c10-720.jpg" title="从610到720" alt="从610到720">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/O2jN_uD.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/xian-z.jpg" title="中共官员的选择" alt="中共官员的选择">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-12-14/1400forge-1210.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/1400l.jpg" title="剖析1400例" alt="剖析1400例">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/C1WZ_mj.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/425.jpg" title="万人上访真相" alt="万人上访真相">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/qing-h.jpg" title="被中共迫害的清华学子" alt="被中共迫害的清华学子">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/JZ5e_5Vusp.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jian-z513.jpg" title="见证513" alt="见证513">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w2/raw/master/lyp/0iY.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gongfu.jpg" title="功夫 寻道" alt="功夫 寻道">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-2-21/guanguimin.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/guangguimian.jpg" title="歌唱家人生奇迹" alt="歌唱家人生奇迹">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/m1/raw/master/mjjy.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-jjy.jpg" title="名校精英的选择" alt="名校精英的选择">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/c4rB_QQbr.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/yin-lj.jpg" title="音乐之家的故事" alt="音乐之家的故事">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/O23c_E.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-hsf.jpg" title="平凡中的不平凡" alt="平凡中的不平凡">
+</a>
+<br>
+<a href="https://github.com/byeujs321/www/blob/master/README.md?dfh#9" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yong-h.jpg" title="永恒的见证"  alt="永恒的见证">
+</a>
+<br>
+<a href="/gb/13/9/29/n3974789.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/shang-lnz.jpg" title="善良女子被中共投男牢"  alt="善良女子被中共投男牢">
+</a>
+<br>
+<a href="/gb/16/3/16/n4663449.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z3.jpg" title="警卫目击中共活摘"  alt="警卫目击中共活摘">
+</a>
+<br>
+<a href="/gb/16/8/7/n8177641.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z4.jpg" title="证人描述活摘恐怖"  alt="证人描述活摘恐怖">
+</a>
+<br>
+<a href="/gb/10/4/19/n2881569.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z1.jpg" title="揭开活摘器官黑幕"  alt="揭开活摘器官黑幕">
+</a>
+<br>
+<a href="/gb/10/11/7/n3077476.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/ma-ks.jpg" title="马克思的成魔之路"  alt="马克思的成魔之路">
+</a>
+<br>
+<a href="/gb/18/5/10/n10381511.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/st1.jpg" title="关注3亿人三退"  alt="关注3亿人三退">
+</a>
+<br>
+<a href="/gb/18/3/21/n10237682.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jie-t.jpg" title="解体中共复兴中华"  alt="解体中共复兴中华">
+</a>
+<br>
+<a href="/gb/9/2/9/n2422991.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/gao-zs.jpg" title="中共迫害良心律师"  alt="中共迫害良心律师">
+</a>
+<br>
+<a href="/gb/18/12/9/n10900044.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj1.jpg" title="303万人举报江泽民"  alt="303万人举报江泽民">
+</a>
+<br>
+<a href="/gb/18/8/28/n10672014.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj2.jpg" title="这些官员为何起诉江泽民"  alt="这些官员为何起诉江泽民">
+</a>
+<br>
+<a href="/gb/8/12/18/n2367165.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/liangan.jpg" title="海峡两岸的强烈反差"  alt="海峡两岸的强烈反差">
+</a>
+<br>
+<a href="/gb/15/12/10/n4593139.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jia-ndzl.jpg" title="加拿大总理的贺信"  alt="加拿大总理的贺信">
+</a>
+<br>
+<a href="/gb/11/6/17/n3289382.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xiao-wd.jpg" title="探寻真相兼听则明"  alt="探寻真相兼听则明">
+</a>
+<br>
+<a href="/gb/18/10/27/n10812623.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yindu.jpg" title="印度媒体报道东方"  alt="印度媒体报道东方">
+</a>
+<br>
+<a href="/gb/18/6/9/n10469652.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xie-j.jpg" title="不一样的海外校园"  alt="不一样的海外校园">
+</a>
+<br>
+<a href="/gb/7/4/5/n1669415.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/li-up.jpg" title="从大师到徒弟的传奇"  alt="从大师到徒弟的传奇">
+</a>
+<br>
+<a href="/gb/17/5/26/n9191512.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl2.jpg" title="亿万人与东方一本奇书"  alt="亿万人与东方一本奇书">
+</a>
+<br>
+<a href="/gb/13/11/27/n4020290.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zhen-h.jpg" title="大陆见不到的震撼场面"  alt="大陆见不到的震撼场面">
+</a>
+<br>
+<a href="/gb/15/7/17/n4482910.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/dalu-sk.jpg" title="人心向善 大陆当初盛况"  alt="人心向善 大陆当初盛况">
+</a>
+<br>
+<a href="/gb/19/1/5/n10955468.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl1.jpg" title="追寻真理 这书讲什么"  alt="追寻真理 这书讲什么">
+</a>
+<br>
+<a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/fq1.jpg" title="下载免费翻墙软件"  alt="下载免费翻墙软件">
+</a>
+<br>
+</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/16/9/28/n8345456.md#1" target="_blank">
+秤砣一击 寇准幡然悔悟</a>
+<br>
+</h3>
+<a href="/gb/16/9/28/n8345456.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2016/07/1607151057312357-150x120.jpg" align ="left">
+</a>
+寇准俸禄虽多，却不肯建造宅第。隐士魏野，为此特意赠送给他二首诗，其中有句道：“有官居鼎鼐，无地起楼台。”称赞寇准虽位居显要，却不肯建造宅第。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年5月13日 5:34 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/8/12/10/n2357683.md#1" target="_blank">
+成语典故：宁鸣而死，不默而生</a>
+<br>
+</h3>
+<a href="/gb/8/12/10/n2357683.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2008/12/50b2b3d14e431da179ead08a01e87a86-150x120.jpg" align ="left">
+</a>
+范仲淹立即也回写了一首同样题目的《灵乌赋》给梅尧臣，他在赋中斩钉截铁的写道，无论如何他都要坚持正义，坚持真理，不管人们怎样厌恶乌鸦的哑哑之声，他始终都是“宁鸣而死，不默而生”。范仲淹的这句名言，和他的另一句名言“先天下之忧而优，后天下之乐而乐”一样为世人所千古传颂，范仲淹的这种精神也成了一代又一代中华儿女学习的榜样和楷模。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年2月22日 5:48 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/2/1/n11836330.md#1" target="_blank">
+孝女感动神仙  孝心精诚穿越时空得护祐</a>
+<br>
+</h3>
+<a href="/gb/20/2/1/n11836330.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/02/d39d80f976db8eed70f17c652ddddaf1-150x120.jpg" align ="left">
+</a>
+孝女一五一十地说了膜拜之事，还讲自己虽没有亲身上山进香，恍惚间好像自己亲身去了一样，而且她老父亲的病也都痊愈了，都是神灵保佑。听到的人感动说：“至诚感神，真是诚心笃行的孝女啊！”......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年2月3日 8:00 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/12/5/n11702000.md#1" target="_blank">
+贫富两兄弟的见证 好心和坏心结异果</a>
+<br>
+</h3>
+<a href="/gb/19/12/5/n11702000.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/12/fb029238ecf49b2109c0d439a9c844f0-150x120.jpg" align ="left">
+</a>
+古代朝鲜半岛上的故事，心地截然不同的两兄弟，见证了好心和坏心的不同结果。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年12月16日 1:30 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/11/15/n11658468.md#1" target="_blank">
+金兰之交“变脸”帮助老友妻小</a>
+<br>
+</h3>
+<a href="/gb/19/11/15/n11658468.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/ca95caf9a1a516e4be1f09d9fda57597-150x120.jpg" align ="left">
+</a>
+金兰之交的牺牲，长年遭到误解也在所不惜。……他让左右仆人抬出一个箱子来，箱子里堆积的全都是历年所买下的甲君家小缝制的各种绣品，亮闪闪的像新的一样。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年12月2日 7:34 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/11/15/n11658469.md#1" target="_blank">
+舵工谋财害命  数十年后遭报应</a>
+<br>
+</h3>
+<a href="/gb/19/11/15/n11658469.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/6dbb4c7f2753c201a6e36d06299fb427-150x120.png" align ="left">
+</a>
+享受荣华富贵欢乐数十年，上天等到了这一刻才降灾祸来惩罚他，一家遭到灭顶。陈年往事重演了，……借债借得愈久，而所偿还的利息就需要越多！......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年11月25日 8:34 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/11/1/n11626866.md#1" target="_blank">
+老书生通过神仙考验 炼得灵药</a>
+<br>
+</h3>
+<a href="/gb/19/11/1/n11626866.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/11/7c874e1cce764b3a55cf73660cec315c-150x120.jpg" align ="left">
+</a>
+清朝初年，安徽天长的老书生刘公在他人生最困难的时候，遇到了一件奇事，他通过了考验，这让他的人生有了转机。古代的故事中，常常能看到神仙在凡间助人，可是他们都不会显现真容，才能考验人心的真貌。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年11月11日 3:57 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/10/11/n11582046.md#1" target="_blank">
+唐代使者漂流到巨人国</a>
+<br>
+</h3>
+<a href="/gb/19/10/11/n11582046.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/10/5ab3cf99744aca6258b6a3d1edc6d013-150x120.jpg" align ="left">
+</a>
+到底有没有巨人呢？唐代出使的官员有多次漂流到巨人国的传说记载。古籍记载，唐代时，今朝鲜半岛东面有巨人国。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年11月4日 5:50 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/10/12/n11584362.md#1" target="_blank">
+圣人千虑必有一失  愚人千虑必有一得</a>
+<br>
+</h3>
+<a href="/gb/19/10/12/n11584362.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2014/10/1410271137271452-150x120.jpg" align ="left">
+</a>
+“圣人千虑，必有一失；愚人千虑，必有一得”这话儿是从哪里来的？后人减缩成“千虑一得”的成语，其中显现了晏子的机智，比机智更可贵的是他的好德的修为，智仁勇兼备又谦冲自持，淡淡定定看破财的诱惑，尚俭守德、不造业。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年10月23日 7:26 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/10/3/n11565683.md#1" target="_blank">
+生平没读过佛经成了佛  名臣虞允文父亲的故事</a>
+<br>
+</h3>
+<a href="/gb/19/10/3/n11565683.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2017/11/20171129_113427-150x120.jpg" align ="left">
+</a>
+虞允文的父亲虞祺去世后，有不寻常的遭遇，他在冥府中任职当了“更生官”，在人间周年忌辰时成佛了。他们同乡有个死而复生的人叫鲜逑，受嘱托把这件事情转告了虞家人。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年10月21日 6:29 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/10/3/n11565684.md#1" target="_blank">
+巨盗陈阿尖临刑恨母不教</a>
+<br>
+</h3>
+<a href="/gb/19/10/3/n11565684.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/10/427ae0c24154e5caa9fb4da4802ee151-150x120.jpg" align ="left">
+</a>
+从这个故事中陈阿尖的身上反映了一个常理，爱子不教成大错啊，不教之爱是错爱！不仅害了孩子、害了世界，也害了自己。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年10月14日 7:26 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/10/2/n11562402.md#1" target="_blank">
+孔子赞赏不用“三思而行”的贤者</a>
+<br>
+</h3>
+<a href="/gb/19/10/2/n11562402.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/10/c10b9a5038d9c5c5c104cbfd4839b215-150x120.jpg" align ="left">
+</a>
+季文子是个怎样的人物呢？孔子在听到“季文子三思而后行”之后，反应说：“思考两次就可以了”，孔子说这话是否另有所指呢？......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年10月9日 7:00 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/4/7/29/n610861.md#1" target="_blank">
+清官轶事录：“悬鱼太守”</a>
+<br>
+</h3>
+<a href="/gb/4/7/29/n610861.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2004/07/shutterstock_735135922-150x120.jpg" align ="left">
+</a>
+据《后汉书?羊续传》载：羊续，后汉泰山平阳（今山东泰安）人，为官清廉奉法。灵帝中平三年（公元186年），羊续被任命为南阳郡太守。在此之前，江夏兵赵慈反叛，杀死了原任南阳太守，并攻陷元县，一时间人心惶惶。羊续毫不畏惧，身边只带一个小书僮微服前往，他“观历县邑，采问风谣，然后乃进。”到任后，快刀斩乱麻，迅速平定叛乱，人民欢欣鼓舞，得以安居乐业。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年10月5日 5:08 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/10/1/n11559346.md#1" target="_blank">
+天神资助有孝德的人</a>
+<br>
+</h3>
+<a href="/gb/19/10/1/n11559346.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2018/06/c704c3082c29d00c57c237b9b3586e93-150x120.jpg" align ="left">
+</a>
+古人说“人在作，天在看”，此话绝对不假。看一个默默行善不求回报的人，怎样得到神助！......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年10月4日 2:43 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/12/4/28/n3576538.md#1" target="_blank">
+季札挂剑：什么是承诺？</a>
+<br>
+</h3>
+<a href="/gb/12/4/28/n3576538.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2016/10/1609110053492357-e1521946593524-150x120.jpg" align ="left">
+</a>
+“信”是人际关系的基石，历代也流传了许多典故，本系列文章将列举成语中有关“信”的故事，让我们看看古人对信的看法。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年10月1日 5:09 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/9/15/n11522636.md#1" target="_blank">
+得道高人作“五里雾” 不坠五里雾中！</a>
+<br>
+</h3>
+<a href="/gb/19/9/15/n11522636.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/09/2fc53f22595973e266e4cfb06f16ecab-150x120.jpg" align ="left">
+</a>
+东汉张楷的志向就是修道，屡次辞了征召不任官。他能作“五里雾”，而他自己是最能看清人生迷雾的有道之士！......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年9月23日 6:07 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/12/4/16/n3566971.md#1" target="_blank">
+信如尾生：第一个爱情悲剧</a>
+<br>
+</h3>
+<a href="/gb/12/4/16/n3566971.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2012/04/100717093115100445_1-150x120.jpg" align ="left">
+</a>
+“信”是人际关系的基石，历代也流传了许多典故，本系列文章将列举成语中有关“信”的故事，让我们看看古人对信的看法。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年9月20日 5:58 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/12/4/16/n3566962.md#1" target="_blank">
+杖莫如信：小国外交的智慧</a>
+<br>
+</h3>
+<a href="/gb/12/4/16/n3566962.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2011/04/110303081434100093-150x120.jpg" align ="left">
+</a>
+(shown)“信”是人际关系的基石，历代也流传了许多典故，本系列文章将列举成语中有关“信”的故事，让我们看看古人对信的看法。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年9月16日 5:47 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/8/21/n11468709.md#1" target="_blank">
+公主异想天开 欲用水泡作花鬘 智慧老匠如是说</a>
+<br>
+</h3>
+<a href="/gb/19/8/21/n11468709.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/08/1803122327152483-150x120.jpg" align ="left">
+</a>
+一天，天降大雨，雨水洒落在大地，形成美丽的水泡。公主看见水泡此起彼落，和着静籁的雨声，那场面格外迷人。公主呆呆地看着水泡，心中甚是迷恋。于是，她对国王说：“父王，我想用雨水的水泡穿成美丽的花鬘。”......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年9月10日 5:40 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/9/2/n11494452.md#1" target="_blank">
+寓言故事：上当的大公鹿</a>
+<br>
+</h3>
+<a href="/gb/19/9/2/n11494452.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2019/09/Fotolia_101600668_Subscription_L-150x120.jpg" align ="left">
+</a>
+大公鹿听了狐狸讲这些话，不仅有点飘飘然，当然，它可不笨，它才不会轻易听信“狡猾”的狐狸讲的话呢！......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年9月3日 11:17 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/13/2/9/n3797609.md#1" target="_blank">
+有声故事：成汤王求雨（下）</a>
+<br>
+</h3>
+成汤王决定牺牲自己的生命去求雨，那么上苍真的要一个人的生命才下雨吗？请听故事：成汤王求雨（下）。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年11月7日 11:26 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/13/3/9/n3818579.md#1" target="_blank">
+有声故事：成汤王求雨（上）</a>
+<br>
+</h3>
+成汤王在位的时候，遇到了严重的干旱，卜官说只有牺牲一个人的生命才能求到雨，可是牺牲谁的生命呢？......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年11月5日 11:12 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/19/10/18/n11596994.md#1" target="_blank">
+西汉时转筷子奇算 暗藏的宝都给算出来</a>
+<br>
+</h3>
+西汉成帝时的曹元理，精通算术，能使筷子奇术。他用筷子帮忙计算陈广汉家谷仓中的米数，后来展开了一连串“奇算”，让人惊奇，更让陈广汉脸红。是怎么回事呢？......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年10月28日 5:24 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/12/4/28/n3576528.md#1" target="_blank">
+徙木之信：为政的手段？</a>
+<br>
+</h3>
+“信”是人际关系的基石，历代也流传了许多典故，本系列文章将列举成语中有关“信”的故事，让我们看看古人对信的看法。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年9月23日 5:57 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/12/6/24/n3619912.md#1" target="_blank">
+有声故事：农夫的孩子们</a>
+<br>
+</h3>
+农夫有三个孩子，每个都很能干，但是他们就是不团结。农夫很着急。后来他想出了个办法教育了孩子们。你们猜一猜是用什么办法呢？......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年9月8日 5:30 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/12/6/19/n3615838.md#1" target="_blank">
+有声故事：老狼和狐狸</a>
+<br>
+</h3>
+ 老狼和狐狸是一对死对头。有一天狮子大王生病了，唯独不见狐狸，老狼就在狮子的面前说了狐狸的坏话，于是狮子就决定把狐狸吃了。过了一会儿，狐狸来了，接下来发生了什么事呢?......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年8月29日 12:51 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/12/3/24/n3549523.md#1" target="_blank">
+有声故事：愚公移山</a>
+<br>
+</h3>
+愚公家对面有两座大山，90岁的愚公一家要在两座山中间挖出一条路来，小朋友们，你们说他们能挖出这条路吗？......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年8月9日 3:19 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/12/5/26/n3597851.md#1" target="_blank">
+有声故事：两个朋友</a>
+<br>
+</h3>
+遇到危险时，怎样做才是真正的朋友呢？请听故事：两个朋友。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年7月29日 5:15 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/12/5/8/n3583981.md#1" target="_blank">
+有声故事：老鹿和小鹿</a>
+<br>
+</h3>
+老鹿领着鹿群沿着它最熟悉的路向着山上的草地走去，突然一只小鹿跑到老鹿的前面不让老鹿继续向前走。那么老鹿是否听了小鹿的话呢？......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年7月18日 8:28 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/12/4/24/n3573665.md#1" target="_blank">
+有声故事：塞翁失马</a>
+<br>
+</h3>
+塞翁丢了一匹马，可他不觉得是件坏事，后来他又得了一匹马，但他认为这不见得是件好事，再后来他的儿子摔坏了腿，他却认为这是件好事。那么塞翁究竟是对还是不对呢？......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2019年6月25日 3:39 AM									</td>
+</tr>
+  <tr>
+<td>
+<h3>
+<a href="/gb/ncid186.md#1">
+上一页</a>
+&nbsp;&nbsp;1 &nbsp;&nbsp;<a href="/gb/ncid186_2.md#1">
+2</a>
+&nbsp;&nbsp;<a href="/gb/ncid186_3.md#1">
+3</a>
+&nbsp;&nbsp;<a href="/gb/ncid186_4.md#1">
+4</a>
+&nbsp;&nbsp;<a href="/gb/ncid186_5.md#1">
+5</a>
+&nbsp;&nbsp;<a href="/gb/ncid186_6.md#1">
+6</a>
+&nbsp;&nbsp;<a href="/gb/ncid186_7.md#1">
+7</a>
+&nbsp;&nbsp;<a href="/gb/ncid186_8.md#1">
+8</a>
+&nbsp;&nbsp;<a href="/gb/ncid186_9.md#1">
+9</a>
+&nbsp;&nbsp;<a href="/gb/ncid186_10.md#1">
+10</a>
+&nbsp;&nbsp;<a href="/gb/ncid186_2.md#1">
+下一页</a>
+</h3>
+</td>
+</tr>
+  </table>
+<div align="center">
+<h4>
+手机上长按并复制下列链接或二维码分享本文章：</h4>
+/gb/ncid186.md#1<br>
+<a href="/gb/ncid186.md#1">
+<img src="http://www.szzd.org/v.php?action=qrcode&url=/gb/ncid186.md%231" title="分享本文章">
+</a>
+<br>
+原文地址： <a href="https://www.epochtimes.com/gb/ncid186.htm">
+https://www.epochtimes.com/gb/ncid186.htm</a>
+    （国内需<a href="https://github.com/bannedbook/fanqiang/wiki">
+下载翻墙软件</a>
+才能访问）</div>

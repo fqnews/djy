@@ -1,1 +1,710 @@
-<a name="1" id="1" target="_blank">\n&nbsp;</a>\n <span id="1">\n&nbsp;</span>\n<table align=center border="0">\n<tr>\n<td colspan="2" valign=TOP>\n<a href="/gb/nf1351518.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/1.jpg" title="大纪元">\n</a>\n<a href="/gb/n24hr.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/3.jpg" title="国际新闻">\n</a>\n<a href="/gb/nf1351518.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/4.jpg" title="大陆新闻">\n</a>\n<a href="/gb/news392.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/5.jpg" title="评论">\n</a>\n<a href="/gb/news2007.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/6.jpg" title="文化">\n</a>\n<a href="/gb/news2008.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/7.jpg" title="生活">\n</a>\n<a href="/gb/ncyule.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/8.jpg" title="娱乐">\n</a>\n<a href="/gb/nsc1002.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/9.jpg" title="健康">\n<a href="/gb/nf6092.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/10a.jpg" title="独家">\n</a>\n<a href="/gb/nf4514.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/11.jpg" title="头条">\n</a>\n<a href="/gb/zt.md#1">\n<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/13.jpg" title="专题">\n</a>\n</td>\n</tr>\n<tr>\n<td colspan="2" valign=TOP>\n<p>\n<a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">\n大纪元</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/k513p" target="_blank">\n动态网</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/p12o" target="_blank">\n无界</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/s8v" target="_blank">\n退党</a>\n | <a href="https://git.io/fjHpT" target="_blank">\n网门</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/q4b" target="_blank">\n神韵</a>\n | <a href="https://git.io/fjHpI" target="_blank">\n新纪元</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/n11w" target="_blank">\n看中国</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/h3d" target="_blank">\n明慧网</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/d9f" target="_blank">\n希望之声</a>\n | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">\n无罪辩护</a>\n |  <a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">\n终级目的</a>\n | <a href="https://gitlab.com/szzdlab/w5/raw/master/5N.8.mp4" target="_blank">\n活摘调查</a>\n |<a href="https://gitlab.com/szzdlab/w5/raw/master/mtdwh.mp4" target="_blank">\n漫谈党文化</a>\n</p>\n<p>\n <a href="https://github.com/fqnews/ntdtv/blob/master/gb/prog204.md#1" target="_blank">\n新唐人</a>\n | <a href="https://git.io/JervF" target="_blank">\n亚太台</a>\n | <a href="https://git.io/fjHpG" target="_blank">\n直播</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/l12r" target="_blank">\n圣缘</a>\n | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">\n伪火</a>\n | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">\n九评</a>\n | <a href="https://tt6.jugd53.ml/mfxgky/a10e" target="_blank">\n正见网</a>\n | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">\n藏字石</a>\n | <a href="https://gitlab.com/szzdlab/w5/raw/master/szt.mp4" target="_blank">\n寻正道</a>\n | <a href="https://gitlab.com/szzdlab/w5/raw/master/wm.mp4" target="_blank">\n告诉未来</a>\n |  <a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">\n未来神话</a>\n | <a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">\n清华学子</a>\n | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">\n红朝阴谋</a>\n |<a href="https://gitlab.com/szzdlab/w5/raw/master/fy.mp4" target="_blank">\n风雨天地行</a>\n</p>\n</td>\n</tr>\n<tr>\n<td width="742">\n<h3>\n<p>\n<strong>\n诗词歌曲</strong>\n</p>\n</h3>\n</td>\n<td valign=TOP rowspan=50>\n<a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-11-4/SY-Classical-Chinese-Dance-Technique-Collection-2018.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gudianwu.jpg" title="神韵古典舞技巧表演" alt="神韵古典舞技巧表演">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/9ping.jpg" title="九评共产党" alt="九评共产党">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/communism.jpg" title="共产主义终极目的" alt="共产主义终极目的">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-11-12/zf-dsp-1128.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weihuo.jpg" title="中共的伪火骗局" alt="中共的伪火骗局">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-6-1/st5-29.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/changzhi.jpg" title="古今奇观-藏字石" alt="古今奇观-藏字石">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/3-JTT_CN_MH-360p.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/tianan.jpg" title="通往天安门的旅程" alt="通往天安门的旅程">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weilai.jpg" title="未来人的神话" alt="未来人的神话">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ji-zy.jpg" title="中共罪恶的活摘" alt="中共罪恶的活摘">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w5/raw/master/tzrs.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/huozhai.jpg" title="铁证如山" alt="铁证如山">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/er3n_3VVJ.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/4ke.jpg" title="一家四口死于中共暴政" alt="一家四口死于中共暴政">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/XmL0_0XDL2p.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jie-di.jpg" title="─弟妹相继死于中共迫害" alt="─弟妹相继死于中共迫害">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w2/raw/master/rs/NG8l.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ma-sj.jpg" title="她们许多已经被中共迫害至死" alt="她们许多已经被中共迫害至死">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/wt6Y_vPhM.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/shuan-cxl.jpg" title="双城血泪" alt="双城血泪">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/wu-zbh.jpg" title="震撼人心的无罪辩护" alt="震撼人心的无罪辩护">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/vG2w_fwq.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/6c10-720.jpg" title="从610到720" alt="从610到720">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/O2jN_uD.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/xian-z.jpg" title="中共官员的选择" alt="中共官员的选择">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-12-14/1400forge-1210.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/1400l.jpg" title="剖析1400例" alt="剖析1400例">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/C1WZ_mj.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/425.jpg" title="万人上访真相" alt="万人上访真相">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/qing-h.jpg" title="被中共迫害的清华学子" alt="被中共迫害的清华学子">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/JZ5e_5Vusp.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jian-z513.jpg" title="见证513" alt="见证513">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w2/raw/master/lyp/0iY.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gongfu.jpg" title="功夫 寻道" alt="功夫 寻道">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-2-21/guanguimin.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/guangguimian.jpg" title="歌唱家人生奇迹" alt="歌唱家人生奇迹">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/m1/raw/master/mjjy.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-jjy.jpg" title="名校精英的选择" alt="名校精英的选择">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/c4rB_QQbr.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/yin-lj.jpg" title="音乐之家的故事" alt="音乐之家的故事">\n</a>\n<br>\n<a href="https://gitlab.com/szzdlab/w1/raw/master/O23c_E.mp4" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-hsf.jpg" title="平凡中的不平凡" alt="平凡中的不平凡">\n</a>\n<br>\n<a href="https://github.com/byeujs321/www/blob/master/README.md?dfh#9" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yong-h.jpg" title="永恒的见证"  alt="永恒的见证">\n</a>\n<br>\n<a href="/gb/13/9/29/n3974789.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/shang-lnz.jpg" title="善良女子被中共投男牢"  alt="善良女子被中共投男牢">\n</a>\n<br>\n<a href="/gb/16/3/16/n4663449.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z3.jpg" title="警卫目击中共活摘"  alt="警卫目击中共活摘">\n</a>\n<br>\n<a href="/gb/16/8/7/n8177641.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z4.jpg" title="证人描述活摘恐怖"  alt="证人描述活摘恐怖">\n</a>\n<br>\n<a href="/gb/10/4/19/n2881569.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z1.jpg" title="揭开活摘器官黑幕"  alt="揭开活摘器官黑幕">\n</a>\n<br>\n<a href="/gb/10/11/7/n3077476.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/ma-ks.jpg" title="马克思的成魔之路"  alt="马克思的成魔之路">\n</a>\n<br>\n<a href="/gb/18/5/10/n10381511.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/st1.jpg" title="关注3亿人三退"  alt="关注3亿人三退">\n</a>\n<br>\n<a href="/gb/18/3/21/n10237682.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jie-t.jpg" title="解体中共复兴中华"  alt="解体中共复兴中华">\n</a>\n<br>\n<a href="/gb/9/2/9/n2422991.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/gao-zs.jpg" title="中共迫害良心律师"  alt="中共迫害良心律师">\n</a>\n<br>\n<a href="/gb/18/12/9/n10900044.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj1.jpg" title="303万人举报江泽民"  alt="303万人举报江泽民">\n</a>\n<br>\n<a href="/gb/18/8/28/n10672014.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj2.jpg" title="这些官员为何起诉江泽民"  alt="这些官员为何起诉江泽民">\n</a>\n<br>\n<a href="/gb/8/12/18/n2367165.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/liangan.jpg" title="海峡两岸的强烈反差"  alt="海峡两岸的强烈反差">\n</a>\n<br>\n<a href="/gb/15/12/10/n4593139.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jia-ndzl.jpg" title="加拿大总理的贺信"  alt="加拿大总理的贺信">\n</a>\n<br>\n<a href="/gb/11/6/17/n3289382.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xiao-wd.jpg" title="探寻真相兼听则明"  alt="探寻真相兼听则明">\n</a>\n<br>\n<a href="/gb/18/10/27/n10812623.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yindu.jpg" title="印度媒体报道东方"  alt="印度媒体报道东方">\n</a>\n<br>\n<a href="/gb/18/6/9/n10469652.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xie-j.jpg" title="不一样的海外校园"  alt="不一样的海外校园">\n</a>\n<br>\n<a href="/gb/7/4/5/n1669415.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/li-up.jpg" title="从大师到徒弟的传奇"  alt="从大师到徒弟的传奇">\n</a>\n<br>\n<a href="/gb/17/5/26/n9191512.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl2.jpg" title="亿万人与东方一本奇书"  alt="亿万人与东方一本奇书">\n</a>\n<br>\n<a href="/gb/13/11/27/n4020290.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zhen-h.jpg" title="大陆见不到的震撼场面"  alt="大陆见不到的震撼场面">\n</a>\n<br>\n<a href="/gb/15/7/17/n4482910.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/dalu-sk.jpg" title="人心向善 大陆当初盛况"  alt="人心向善 大陆当初盛况">\n</a>\n<br>\n<a href="/gb/19/1/5/n10955468.md?dfh#1" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl1.jpg" title="追寻真理 这书讲什么"  alt="追寻真理 这书讲什么">\n</a>\n<br>\n<a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">\n<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/fq1.jpg" title="下载免费翻墙软件"  alt="下载免费翻墙软件">\n</a>\n<br>\n</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/18/n12340606.md#1" target="_blank">\n新诗：野姜花</a>\n<br>\n</h3>\n<a href="/gb/20/8/18/n12340606.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/288757_medium-601x400-150x120.jpg" align ="left">\n</a>\n 究竟是天上的云朵落入了湖心 还是湖畔的白蝶渴慕着天青 这优雅这芬芳 这水汽中弥漫的......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月19日 12:59 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/18/n12339360.md#1" target="_blank">\n新诗：竹溪闲钓</a>\n<br>\n</h3>\n<a href="/gb/20/8/18/n12339360.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/81339d2ac61c84a44bfd4360b9bece3f-150x120.jpg" align ="left">\n</a>\n有着开阔的梦系于钓杆尾端  时间长河日夜川流而去  两岸无岸  耳朵张成望海的贝壳......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月18日 9:12 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/17/n12337881.md#1" target="_blank">\n新诗：也是</a>\n<br>\n</h3>\n<a href="/gb/20/8/17/n12337881.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2016/11/161112053137100649-150x120.jpg" align ="left">\n</a>\n也是，风的执著吧 远从海的彼端通宵达旦 穿越一个又一个的山头 渴慕的心始终马不停蹄......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月18日 12:18 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/15/n12333546.md#1" target="_blank">\n摇玲珑（一三八）</a>\n<br>\n</h3>\n<a href="/gb/20/8/15/n12333546.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/05/1605101128372483-150x120.jpg" align ="left">\n</a>\n 苦海梦中浮荡， 人生几度欢哀？ 曾经雪里问寒梅， 只有初心不改。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月17日 11:17 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/15/n12333545.md#1" target="_blank">\n摇玲珑（一三七）</a>\n<br>\n</h3>\n<a href="/gb/20/8/15/n12333545.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2018/03/410c64a233b8182eaa5e61ca2e4af835-150x120.jpg" align ="left">\n</a>\n竹下步清荫，劲节高风动我心。 一碧拂云清露下，闻琴，渐入林泉意已深。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月16日 12:16 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/7/25/n12283318.md#1" target="_blank">\n麦立：接住盛夏</a>\n<br>\n</h3>\n<a href="/gb/20/7/25/n12283318.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/07/mily-0823-150x120.jpg" align ="left">\n</a>\n这一季 开得最美的一朵莲花 在艳阳下灿烂的笑 在和风中快乐起舞......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月15日 12:27 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/11/n12323197.md#1" target="_blank">\n摇玲珑（一三五）</a>\n<br>\n</h3>\n<a href="/gb/20/8/11/n12323197.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2009/10/910251611242016-150x120.jpg" align ="left">\n</a>\n阔别多年今又至， 挽衣已惬爽风迎。 云帆入碧弥千里， 雪沫冲滩碎万琼。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月12日 12:12 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/11/n12322902.md#1" target="_blank">\n台湾古典诗：午课</a>\n<br>\n</h3>\n<a href="/gb/20/8/11/n12322902.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2017/07/1604232313372483-150x120.jpg" align ="left">\n</a>\n 午间上课脑昏沈，两眼难睁睡意深； 不解春风安解愠，书生已老慨长吟。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月11日 9:41 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/10/n12320550.md#1" target="_blank">\n七绝：藏字石</a>\n<br>\n</h3>\n<a href="/gb/20/8/10/n12320550.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2013/11/1201280706361944-150x120.jpg" align ="left">\n</a>\n万年灵石育猴王，亿载奇岩预党亡。 只道佛经须远取，谁知天意此中藏。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月11日 12:42 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/9/n12317930.md#1" target="_blank">\n新诗：夏之林</a>\n<br>\n</h3>\n<a href="/gb/20/8/9/n12317930.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2011/08/1108261139102238-150x120.jpg" align ="left">\n</a>\n晨雾经过时 阳光从林梢递出一束光柬 聊开了一片盎然 辉光吃进氤氲缭绕的舞动......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月10日 3:55 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/9/n12317912.md#1" target="_blank">\n钗头凤．断色欲</a>\n<br>\n</h3>\n<a href="/gb/20/8/9/n12317912.md#1" target="_blank">\n<img width="150" src="https://i.epochtimes.com/assets/uploads/2011/08/1105310714471886-e1473516195984-150x120.jpg" align ="left">\n</a>\n 勾魂手，樱桃口，九州春色皆花柳。 淫风恶，纱裙薄。一瞥迷痴，几年贪着。 错、错、错。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月10日 12:12 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/17/n12337904.md#1" target="_blank">\n诗歌：依时</a>\n<br>\n</h3>\n 气象依天变， 生灵有感知， 雨前飞鸟窜， 晴后乱蝉嘶。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月19日 12:09 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/17/n12337882.md#1" target="_blank">\n诗歌：蝉</a>\n<br>\n</h3>\n 新蝉出泥土， 高树亮青春。 不惜数周命， 要留千世魂。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月18日 12:15 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/17/n12337874.md#1" target="_blank">\n十六字令．时间不等人</a>\n<br>\n</h3>\n 驰， 天灭红魔倒计时， 红船漏， 三退莫疑迟。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月17日 11:28 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/16/n12335555.md#1" target="_blank">\n五律：回归自然</a>\n<br>\n</h3>\n 雨后山河丽， 清新透翠微。 鲜花迷彩蝶， 香气沁心扉。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月17日 1:33 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/16/n12335556.md#1" target="_blank">\n七绝：乾坤重组</a>\n<br>\n</h3>\n 无际苍穹无量辰，层层正法转金轮。 或升或降邪灵炸，多少迷生化作尘。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月17日 1:29 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/16/n12335549.md#1" target="_blank">\n一七令．寒</a>\n<br>\n</h3>\n 寒。 地冻，天寒。 霜加雪，透心寒。 冰冻三尺，非一日寒。 看红梅绽放，赞傲雪凌寒。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月17日 1:26 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/14/n12331419.md#1" target="_blank">\n台湾古典诗：缅怀</a>\n<br>\n</h3>\n教会钟鸣震八方，缅怀德泽孰能忘，  威权废弃筹谋远，民主推行愿景长；......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月15日 12:05 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/13/n12328693.md#1" target="_blank">\n卜算子．雨欲来</a>\n<br>\n</h3>\n 早上看东南， 傍晚观西北。 天暗云飞雨欲来， 反向云无水。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月14日 12:32 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/13/n12328692.md#1" target="_blank">\n诗歌：酝酿</a>\n<br>\n</h3>\n 乌云压境燕低飞， 闷热蒸熟山刺猬。 几只苍鹰争雄劲， 叼住红蛇甩惊雷！......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月14日 12:30 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/12/n12325911.md#1" target="_blank">\n七律：天欲变</a>\n<br>\n</h3>\n红日西斜看落晖，晚霞染血气微微。    残花失色犹争艳，萎叶无心再衬菲。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月13日 12:15 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/12/n12325910.md#1" target="_blank">\n摇玲珑（一三六）</a>\n<br>\n</h3>\n  一片苍波乍喜惊， 碧荷竞与彩幡迎。 风摇玉蕊香盈袖， 露溅珠盘脆抚筝。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月13日 12:13 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/12/n12325889.md#1" target="_blank">\n藏头诗：善忍不息 正信永存</a>\n<br>\n</h3>\n 善心善行有好报， 忍让宽容祸远离。 不争不斗修自身， 息事宁人福寿齐。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月13日 12:11 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/12/n12325948.md#1" target="_blank">\n新诗：夏愁</a>\n<br>\n</h3>\n 那天从夏日的烦躁经过 看见一盆满天星 在我心里迸开 点点雪花叹成一杯白酒......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月12日 11:55 PM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/10/n12320571.md#1" target="_blank">\n诗歌：喜见晴</a>\n<br>\n</h3>\n 长夏寂寥听雨日， 偶然声歇但云浓。 忽听窗外哗哗响， 原是林中荡荡风。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月12日 12:12 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/10/n12320578.md#1" target="_blank">\n诗歌：神交</a>\n<br>\n</h3>\n 黄金万两不足贵， 红尘难觅一知音。 品茗泼墨吐心志， 参禅论道忘晨昏。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月11日 12:52 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/10/n12320551.md#1" target="_blank">\n诗歌：看清形势</a>\n<br>\n</h3>\n 人间邪恶终清算， 固执追随总是悬。 着意生机留已久， 无情疫浪却常翻。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月11日 12:42 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/7/25/n12283264.md#1" target="_blank">\n麦立：群鸟飞舞</a>\n<br>\n</h3>\n 朋友 我们曾都是嫩叶 一起喝着露水 晒着阳光 一起听风说 说不完的故事 一起 一起做过数不完的事......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月11日 12:11 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/9/n12317927.md#1" target="_blank">\n诗歌：迫害之穷途末路</a>\n<br>\n</h3>\n 作死无休说赤龙， 正当天谴命临终。 红墙蚀雨随风倒， 黑网封泥遇水通。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月10日 12:19 AM									</td>\n</tr>\n  <tr>\n<td width="742">\n<h3>\n<a href="/gb/20/8/9/n12317926.md#1" target="_blank">\n十六字令．摧枯拉朽</a>\n<br>\n</h3>\n吹， 电掣风驰朽木摧， 神雷炸， 灭共净洪微。......<br>\n<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">\n 2020年8月10日 12:17 AM									</td>\n</tr>\n  <tr>\n<td>\n<h3>\n<a href="/gb/ncid253.md#1">\n上一页</a>\n&nbsp;&nbsp;1 &nbsp;&nbsp;<a href="/gb/ncid253_2.md#1">\n2</a>\n&nbsp;&nbsp;<a href="/gb/ncid253_3.md#1">\n3</a>\n&nbsp;&nbsp;<a href="/gb/ncid253_4.md#1">\n4</a>\n&nbsp;&nbsp;<a href="/gb/ncid253_5.md#1">\n5</a>\n&nbsp;&nbsp;<a href="/gb/ncid253_6.md#1">\n6</a>\n&nbsp;&nbsp;<a href="/gb/ncid253_7.md#1">\n7</a>\n&nbsp;&nbsp;<a href="/gb/ncid253_8.md#1">\n8</a>\n&nbsp;&nbsp;<a href="/gb/ncid253_9.md#1">\n9</a>\n&nbsp;&nbsp;<a href="/gb/ncid253_10.md#1">\n10</a>\n&nbsp;&nbsp;<a href="/gb/ncid253_2.md#1">\n下一页</a>\n</h3>\n</td>\n</tr>\n  </table>\n<div align="center">\n<h4>\n手机上长按并复制下列链接或二维码分享本文章：</h4>\n/gb/ncid253.md#1<br>\n<a href="/gb/ncid253.md#1">\n<img src="http://www.szzd.org/v.php?action=qrcode&url=/gb/ncid253.md%231" title="分享本文章">\n</a>\n<br>\n原文地址： <a href="https://www.epochtimes.com/gb/ncid253.htm">\nhttps://www.epochtimes.com/gb/ncid253.htm</a>\n    （国内需<a href="https://github.com/bannedbook/fanqiang/wiki">\n下载翻墙软件</a>\n才能访问）</div>\n
+<a name="1" id="1" target="_blank">
+&nbsp;</a>
+ <span id="1">
+&nbsp;</span>
+<table align=center border="0">
+<tr>
+<td colspan="2" valign=TOP>
+<a href="/gb/nf1351518.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/1.jpg" title="大纪元">
+</a>
+<a href="/gb/n24hr.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/3.jpg" title="国际新闻">
+</a>
+<a href="/gb/nf1351518.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/4.jpg" title="大陆新闻">
+</a>
+<a href="/gb/news392.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/5.jpg" title="评论">
+</a>
+<a href="/gb/news2007.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/6.jpg" title="文化">
+</a>
+<a href="/gb/news2008.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/7.jpg" title="生活">
+</a>
+<a href="/gb/ncyule.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/8.jpg" title="娱乐">
+</a>
+<a href="/gb/nsc1002.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/9.jpg" title="健康">
+<a href="/gb/nf6092.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/10a.jpg" title="独家">
+</a>
+<a href="/gb/nf4514.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/11.jpg" title="头条">
+</a>
+<a href="/gb/zt.md#1">
+<img src="https://raw.githubusercontent.com/byeujs321/www/master/t/djy/13.jpg" title="专题">
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign=TOP>
+<p>
+<a href="https://github.com/fqnews/djy/blob/master/gb/nf1351518.md#1" target="_blank">
+大纪元</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/k513p" target="_blank">
+动态网</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/p12o" target="_blank">
+无界</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/s8v" target="_blank">
+退党</a>
+ | <a href="https://git.io/fjHpT" target="_blank">
+网门</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/q4b" target="_blank">
+神韵</a>
+ | <a href="https://git.io/fjHpI" target="_blank">
+新纪元</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/n11w" target="_blank">
+看中国</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/h3d" target="_blank">
+明慧网</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/d9f" target="_blank">
+希望之声</a>
+ | <a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
+无罪辩护</a>
+ |  <a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">
+终级目的</a>
+ | <a href="https://gitlab.com/szzdlab/w5/raw/master/5N.8.mp4" target="_blank">
+活摘调查</a>
+ |<a href="https://gitlab.com/szzdlab/w5/raw/master/mtdwh.mp4" target="_blank">
+漫谈党文化</a>
+</p>
+<p>
+ <a href="https://github.com/fqnews/ntdtv/blob/master/gb/prog204.md#1" target="_blank">
+新唐人</a>
+ | <a href="https://git.io/JervF" target="_blank">
+亚太台</a>
+ | <a href="https://git.io/fjHpG" target="_blank">
+直播</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/l12r" target="_blank">
+圣缘</a>
+ | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2014-1-7/zfzx.mp4" target="_blank">
+伪火</a>
+ | <a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
+九评</a>
+ | <a href="https://tt6.jugd53.ml/mfxgky/a10e" target="_blank">
+正见网</a>
+ | <a href="https://gitlab.com/szzdlab/m1/raw/master/TdowhauWx9WiM.mp4" target="_blank">
+藏字石</a>
+ | <a href="https://gitlab.com/szzdlab/w5/raw/master/szt.mp4" target="_blank">
+寻正道</a>
+ | <a href="https://gitlab.com/szzdlab/w5/raw/master/wm.mp4" target="_blank">
+告诉未来</a>
+ |  <a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">
+未来神话</a>
+ | <a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">
+清华学子</a>
+ | <a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">
+红朝阴谋</a>
+ |<a href="https://gitlab.com/szzdlab/w5/raw/master/fy.mp4" target="_blank">
+风雨天地行</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="742">
+<h3>
+<p>
+<strong>
+诗词歌曲</strong>
+</p>
+</h3>
+</td>
+<td valign=TOP rowspan=50>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2018-11-4/SY-Classical-Chinese-Dance-Technique-Collection-2018.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gudianwu.jpg" title="神韵古典舞技巧表演" alt="神韵古典舞技巧表演">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w3/raw/master/9p.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/9ping.jpg" title="九评共产党" alt="九评共产党">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/zjmd1_19.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/communism.jpg" title="共产主义终极目的" alt="共产主义终极目的">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-11-12/zf-dsp-1128.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weihuo.jpg" title="中共的伪火骗局" alt="中共的伪火骗局">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-6-1/st5-29.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/changzhi.jpg" title="古今奇观-藏字石" alt="古今奇观-藏字石">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/3-JTT_CN_MH-360p.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/tianan.jpg" title="通往天安门的旅程" alt="通往天安门的旅程">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/wl.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/weilai.jpg" title="未来人的神话" alt="未来人的神话">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v/raw/master/v/2013-10-28/hongchaoyinmou-hi.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ji-zy.jpg" title="中共罪恶的活摘" alt="中共罪恶的活摘">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w5/raw/master/tzrs.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/huozhai.jpg" title="铁证如山" alt="铁证如山">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/er3n_3VVJ.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/4ke.jpg" title="一家四口死于中共暴政" alt="一家四口死于中共暴政">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/XmL0_0XDL2p.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jie-di.jpg" title="─弟妹相继死于中共迫害" alt="─弟妹相继死于中共迫害">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w2/raw/master/rs/NG8l.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ma-sj.jpg" title="她们许多已经被中共迫害至死" alt="她们许多已经被中共迫害至死">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/wt6Y_vPhM.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/shuan-cxl.jpg" title="双城血泪" alt="双城血泪">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/5Vu3_XS2V.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/wu-zbh.jpg" title="震撼人心的无罪辩护" alt="震撼人心的无罪辩护">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/vG2w_fwq.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/6c10-720.jpg" title="从610到720" alt="从610到720">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/O2jN_uD.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/xian-z.jpg" title="中共官员的选择" alt="中共官员的选择">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/v/raw/master/v/2018-12-14/1400forge-1210.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/1400l.jpg" title="剖析1400例" alt="剖析1400例">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/C1WZ_mj.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/425.jpg" title="万人上访真相" alt="万人上访真相">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w3/raw/master/qh.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/qing-h.jpg" title="被中共迫害的清华学子" alt="被中共迫害的清华学子">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/JZ5e_5Vusp.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/jian-z513.jpg" title="见证513" alt="见证513">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w2/raw/master/lyp/0iY.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/gongfu.jpg" title="功夫 寻道" alt="功夫 寻道">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/www/raw/master/v/2019-2-21/guanguimin.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/guangguimian.jpg" title="歌唱家人生奇迹" alt="歌唱家人生奇迹">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/m1/raw/master/mjjy.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-jjy.jpg" title="名校精英的选择" alt="名校精英的选择">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/c4rB_QQbr.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/yin-lj.jpg" title="音乐之家的故事" alt="音乐之家的故事">
+</a>
+<br>
+<a href="https://gitlab.com/szzdlab/w1/raw/master/O23c_E.mp4" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/fvnwm2273/djy/master/gb/130/ming-hsf.jpg" title="平凡中的不平凡" alt="平凡中的不平凡">
+</a>
+<br>
+<a href="https://github.com/byeujs321/www/blob/master/README.md?dfh#9" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yong-h.jpg" title="永恒的见证"  alt="永恒的见证">
+</a>
+<br>
+<a href="/gb/13/9/29/n3974789.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/shang-lnz.jpg" title="善良女子被中共投男牢"  alt="善良女子被中共投男牢">
+</a>
+<br>
+<a href="/gb/16/3/16/n4663449.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z3.jpg" title="警卫目击中共活摘"  alt="警卫目击中共活摘">
+</a>
+<br>
+<a href="/gb/16/8/7/n8177641.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z4.jpg" title="证人描述活摘恐怖"  alt="证人描述活摘恐怖">
+</a>
+<br>
+<a href="/gb/10/4/19/n2881569.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/huo-z1.jpg" title="揭开活摘器官黑幕"  alt="揭开活摘器官黑幕">
+</a>
+<br>
+<a href="/gb/10/11/7/n3077476.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/ma-ks.jpg" title="马克思的成魔之路"  alt="马克思的成魔之路">
+</a>
+<br>
+<a href="/gb/18/5/10/n10381511.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/st1.jpg" title="关注3亿人三退"  alt="关注3亿人三退">
+</a>
+<br>
+<a href="/gb/18/3/21/n10237682.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jie-t.jpg" title="解体中共复兴中华"  alt="解体中共复兴中华">
+</a>
+<br>
+<a href="/gb/9/2/9/n2422991.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/gao-zs.jpg" title="中共迫害良心律师"  alt="中共迫害良心律师">
+</a>
+<br>
+<a href="/gb/18/12/9/n10900044.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj1.jpg" title="303万人举报江泽民"  alt="303万人举报江泽民">
+</a>
+<br>
+<a href="/gb/18/8/28/n10672014.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/sj2.jpg" title="这些官员为何起诉江泽民"  alt="这些官员为何起诉江泽民">
+</a>
+<br>
+<a href="/gb/8/12/18/n2367165.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/liangan.jpg" title="海峡两岸的强烈反差"  alt="海峡两岸的强烈反差">
+</a>
+<br>
+<a href="/gb/15/12/10/n4593139.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/jia-ndzl.jpg" title="加拿大总理的贺信"  alt="加拿大总理的贺信">
+</a>
+<br>
+<a href="/gb/11/6/17/n3289382.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xiao-wd.jpg" title="探寻真相兼听则明"  alt="探寻真相兼听则明">
+</a>
+<br>
+<a href="/gb/18/10/27/n10812623.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/yindu.jpg" title="印度媒体报道东方"  alt="印度媒体报道东方">
+</a>
+<br>
+<a href="/gb/18/6/9/n10469652.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/xie-j.jpg" title="不一样的海外校园"  alt="不一样的海外校园">
+</a>
+<br>
+<a href="/gb/7/4/5/n1669415.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/li-up.jpg" title="从大师到徒弟的传奇"  alt="从大师到徒弟的传奇">
+</a>
+<br>
+<a href="/gb/17/5/26/n9191512.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl2.jpg" title="亿万人与东方一本奇书"  alt="亿万人与东方一本奇书">
+</a>
+<br>
+<a href="/gb/13/11/27/n4020290.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zhen-h.jpg" title="大陆见不到的震撼场面"  alt="大陆见不到的震撼场面">
+</a>
+<br>
+<a href="/gb/15/7/17/n4482910.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/dalu-sk.jpg" title="人心向善 大陆当初盛况"  alt="人心向善 大陆当初盛况">
+</a>
+<br>
+<a href="/gb/19/1/5/n10955468.md?dfh#1" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/zfl1.jpg" title="追寻真理 这书讲什么"  alt="追寻真理 这书讲什么">
+</a>
+<br>
+<a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">
+<img width="130" src="https://raw.githubusercontent.com/byeujs321/djy/master/gb/130/fq1.jpg" title="下载免费翻墙软件"  alt="下载免费翻墙软件">
+</a>
+<br>
+</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/18/n12340606.md#1" target="_blank">
+新诗：野姜花</a>
+<br>
+</h3>
+<a href="/gb/20/8/18/n12340606.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/288757_medium-601x400-150x120.jpg" align ="left">
+</a>
+ 究竟是天上的云朵落入了湖心 还是湖畔的白蝶渴慕着天青 这优雅这芬芳 这水汽中弥漫的......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月19日 12:59 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/18/n12339360.md#1" target="_blank">
+新诗：竹溪闲钓</a>
+<br>
+</h3>
+<a href="/gb/20/8/18/n12339360.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/08/81339d2ac61c84a44bfd4360b9bece3f-150x120.jpg" align ="left">
+</a>
+有着开阔的梦系于钓杆尾端  时间长河日夜川流而去  两岸无岸  耳朵张成望海的贝壳......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月18日 9:12 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/17/n12337881.md#1" target="_blank">
+新诗：也是</a>
+<br>
+</h3>
+<a href="/gb/20/8/17/n12337881.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2016/11/161112053137100649-150x120.jpg" align ="left">
+</a>
+也是，风的执著吧 远从海的彼端通宵达旦 穿越一个又一个的山头 渴慕的心始终马不停蹄......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月18日 12:18 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/15/n12333546.md#1" target="_blank">
+摇玲珑（一三八）</a>
+<br>
+</h3>
+<a href="/gb/20/8/15/n12333546.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/05/1605101128372483-150x120.jpg" align ="left">
+</a>
+ 苦海梦中浮荡， 人生几度欢哀？ 曾经雪里问寒梅， 只有初心不改。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月17日 11:17 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/15/n12333545.md#1" target="_blank">
+摇玲珑（一三七）</a>
+<br>
+</h3>
+<a href="/gb/20/8/15/n12333545.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2018/03/410c64a233b8182eaa5e61ca2e4af835-150x120.jpg" align ="left">
+</a>
+竹下步清荫，劲节高风动我心。 一碧拂云清露下，闻琴，渐入林泉意已深。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月16日 12:16 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/7/25/n12283318.md#1" target="_blank">
+麦立：接住盛夏</a>
+<br>
+</h3>
+<a href="/gb/20/7/25/n12283318.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2020/07/mily-0823-150x120.jpg" align ="left">
+</a>
+这一季 开得最美的一朵莲花 在艳阳下灿烂的笑 在和风中快乐起舞......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月15日 12:27 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/11/n12323197.md#1" target="_blank">
+摇玲珑（一三五）</a>
+<br>
+</h3>
+<a href="/gb/20/8/11/n12323197.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2009/10/910251611242016-150x120.jpg" align ="left">
+</a>
+阔别多年今又至， 挽衣已惬爽风迎。 云帆入碧弥千里， 雪沫冲滩碎万琼。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月12日 12:12 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/11/n12322902.md#1" target="_blank">
+台湾古典诗：午课</a>
+<br>
+</h3>
+<a href="/gb/20/8/11/n12322902.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2017/07/1604232313372483-150x120.jpg" align ="left">
+</a>
+ 午间上课脑昏沈，两眼难睁睡意深； 不解春风安解愠，书生已老慨长吟。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月11日 9:41 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/10/n12320550.md#1" target="_blank">
+七绝：藏字石</a>
+<br>
+</h3>
+<a href="/gb/20/8/10/n12320550.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2013/11/1201280706361944-150x120.jpg" align ="left">
+</a>
+万年灵石育猴王，亿载奇岩预党亡。 只道佛经须远取，谁知天意此中藏。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月11日 12:42 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/9/n12317930.md#1" target="_blank">
+新诗：夏之林</a>
+<br>
+</h3>
+<a href="/gb/20/8/9/n12317930.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2011/08/1108261139102238-150x120.jpg" align ="left">
+</a>
+晨雾经过时 阳光从林梢递出一束光柬 聊开了一片盎然 辉光吃进氤氲缭绕的舞动......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月10日 3:55 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/9/n12317912.md#1" target="_blank">
+钗头凤．断色欲</a>
+<br>
+</h3>
+<a href="/gb/20/8/9/n12317912.md#1" target="_blank">
+<img width="150" src="https://i.epochtimes.com/assets/uploads/2011/08/1105310714471886-e1473516195984-150x120.jpg" align ="left">
+</a>
+ 勾魂手，樱桃口，九州春色皆花柳。 淫风恶，纱裙薄。一瞥迷痴，几年贪着。 错、错、错。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月10日 12:12 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/17/n12337904.md#1" target="_blank">
+诗歌：依时</a>
+<br>
+</h3>
+ 气象依天变， 生灵有感知， 雨前飞鸟窜， 晴后乱蝉嘶。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月19日 12:09 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/17/n12337882.md#1" target="_blank">
+诗歌：蝉</a>
+<br>
+</h3>
+ 新蝉出泥土， 高树亮青春。 不惜数周命， 要留千世魂。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月18日 12:15 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/17/n12337874.md#1" target="_blank">
+十六字令．时间不等人</a>
+<br>
+</h3>
+ 驰， 天灭红魔倒计时， 红船漏， 三退莫疑迟。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月17日 11:28 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/16/n12335555.md#1" target="_blank">
+五律：回归自然</a>
+<br>
+</h3>
+ 雨后山河丽， 清新透翠微。 鲜花迷彩蝶， 香气沁心扉。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月17日 1:33 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/16/n12335556.md#1" target="_blank">
+七绝：乾坤重组</a>
+<br>
+</h3>
+ 无际苍穹无量辰，层层正法转金轮。 或升或降邪灵炸，多少迷生化作尘。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月17日 1:29 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/16/n12335549.md#1" target="_blank">
+一七令．寒</a>
+<br>
+</h3>
+ 寒。 地冻，天寒。 霜加雪，透心寒。 冰冻三尺，非一日寒。 看红梅绽放，赞傲雪凌寒。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月17日 1:26 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/14/n12331419.md#1" target="_blank">
+台湾古典诗：缅怀</a>
+<br>
+</h3>
+教会钟鸣震八方，缅怀德泽孰能忘，  威权废弃筹谋远，民主推行愿景长；......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月15日 12:05 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/13/n12328693.md#1" target="_blank">
+卜算子．雨欲来</a>
+<br>
+</h3>
+ 早上看东南， 傍晚观西北。 天暗云飞雨欲来， 反向云无水。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月14日 12:32 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/13/n12328692.md#1" target="_blank">
+诗歌：酝酿</a>
+<br>
+</h3>
+ 乌云压境燕低飞， 闷热蒸熟山刺猬。 几只苍鹰争雄劲， 叼住红蛇甩惊雷！......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月14日 12:30 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/12/n12325911.md#1" target="_blank">
+七律：天欲变</a>
+<br>
+</h3>
+红日西斜看落晖，晚霞染血气微微。    残花失色犹争艳，萎叶无心再衬菲。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月13日 12:15 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/12/n12325910.md#1" target="_blank">
+摇玲珑（一三六）</a>
+<br>
+</h3>
+  一片苍波乍喜惊， 碧荷竞与彩幡迎。 风摇玉蕊香盈袖， 露溅珠盘脆抚筝。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月13日 12:13 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/12/n12325889.md#1" target="_blank">
+藏头诗：善忍不息 正信永存</a>
+<br>
+</h3>
+ 善心善行有好报， 忍让宽容祸远离。 不争不斗修自身， 息事宁人福寿齐。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月13日 12:11 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/12/n12325948.md#1" target="_blank">
+新诗：夏愁</a>
+<br>
+</h3>
+ 那天从夏日的烦躁经过 看见一盆满天星 在我心里迸开 点点雪花叹成一杯白酒......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月12日 11:55 PM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/10/n12320571.md#1" target="_blank">
+诗歌：喜见晴</a>
+<br>
+</h3>
+ 长夏寂寥听雨日， 偶然声歇但云浓。 忽听窗外哗哗响， 原是林中荡荡风。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月12日 12:12 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/10/n12320578.md#1" target="_blank">
+诗歌：神交</a>
+<br>
+</h3>
+ 黄金万两不足贵， 红尘难觅一知音。 品茗泼墨吐心志， 参禅论道忘晨昏。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月11日 12:52 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/10/n12320551.md#1" target="_blank">
+诗歌：看清形势</a>
+<br>
+</h3>
+ 人间邪恶终清算， 固执追随总是悬。 着意生机留已久， 无情疫浪却常翻。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月11日 12:42 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/7/25/n12283264.md#1" target="_blank">
+麦立：群鸟飞舞</a>
+<br>
+</h3>
+ 朋友 我们曾都是嫩叶 一起喝着露水 晒着阳光 一起听风说 说不完的故事 一起 一起做过数不完的事......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月11日 12:11 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/9/n12317927.md#1" target="_blank">
+诗歌：迫害之穷途末路</a>
+<br>
+</h3>
+ 作死无休说赤龙， 正当天谴命临终。 红墙蚀雨随风倒， 黑网封泥遇水通。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月10日 12:19 AM									</td>
+</tr>
+  <tr>
+<td width="742">
+<h3>
+<a href="/gb/20/8/9/n12317926.md#1" target="_blank">
+十六字令．摧枯拉朽</a>
+<br>
+</h3>
+吹， 电掣风驰朽木摧， 神雷炸， 灭共净洪微。......<br>
+<img align="bottom" src="https://www.epochtimes.com/assets/themes/djy/images/time.gif">
+ 2020年8月10日 12:17 AM									</td>
+</tr>
+  <tr>
+<td>
+<h3>
+<a href="/gb/ncid253.md#1">
+上一页</a>
+&nbsp;&nbsp;1 &nbsp;&nbsp;<a href="/gb/ncid253_2.md#1">
+2</a>
+&nbsp;&nbsp;<a href="/gb/ncid253_3.md#1">
+3</a>
+&nbsp;&nbsp;<a href="/gb/ncid253_4.md#1">
+4</a>
+&nbsp;&nbsp;<a href="/gb/ncid253_5.md#1">
+5</a>
+&nbsp;&nbsp;<a href="/gb/ncid253_6.md#1">
+6</a>
+&nbsp;&nbsp;<a href="/gb/ncid253_7.md#1">
+7</a>
+&nbsp;&nbsp;<a href="/gb/ncid253_8.md#1">
+8</a>
+&nbsp;&nbsp;<a href="/gb/ncid253_9.md#1">
+9</a>
+&nbsp;&nbsp;<a href="/gb/ncid253_10.md#1">
+10</a>
+&nbsp;&nbsp;<a href="/gb/ncid253_2.md#1">
+下一页</a>
+</h3>
+</td>
+</tr>
+  </table>
+<div align="center">
+<h4>
+手机上长按并复制下列链接或二维码分享本文章：</h4>
+/gb/ncid253.md#1<br>
+<a href="/gb/ncid253.md#1">
+<img src="http://www.szzd.org/v.php?action=qrcode&url=/gb/ncid253.md%231" title="分享本文章">
+</a>
+<br>
+原文地址： <a href="https://www.epochtimes.com/gb/ncid253.htm">
+https://www.epochtimes.com/gb/ncid253.htm</a>
+    （国内需<a href="https://github.com/bannedbook/fanqiang/wiki">
+下载翻墙软件</a>
+才能访问）</div>
